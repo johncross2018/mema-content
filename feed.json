@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:04:12.516707+00:00",
+  "updated": "2026-10-18T19:05:08.195553+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -33,6 +33,37 @@
       "duration_seconds": 42,
       "sample": false,
       "added": "2026-10-18T15:04:12.513312+00:00"
+    },
+    {
+      "id": "e96427fac20d",
+      "title_en": "Fishermen are combing the Chesapeake Bay for abandoned 'ghost' traps to save trapped wildl",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Fishermen are combing the Chesapeake Bay for abandoned 'ghost' traps to save trapped wildlife. In the last two year, local watermen of Maryland and Virginia have drudged up roughly 24,000 abandoned fishing traps.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e96427fac20d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e96427fac20d.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-18T19:05:08.184102+00:00"
     }
   ]
 }
