@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:32:51.147584+00:00",
+  "updated": "2026-10-18T21:32:57.530968+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -256,6 +256,68 @@
       "duration_seconds": 33,
       "sample": false,
       "added": "2026-10-18T21:32:51.138908+00:00"
+    },
+    {
+      "id": "2c30f8c64291",
+      "title_en": "Good News This Week: October 17, 2026 - Trees, Diapers, & Prosthetic Paws",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Good News This Week: October 17, 2026 - Trees, Diapers, & Prosthetic Paws. Your weekly roundup of the best good news worth celebrating...",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2c30f8c64291.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/2c30f8c64291.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 34,
+      "sample": false,
+      "added": "2026-10-18T21:32:56.190331+00:00"
+    },
+    {
+      "id": "bda400888873",
+      "title_en": "70% of North America's mussels are threatened or endangered. Scientists just uncovered fiv",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "70% of North America's mussels are threatened or endangered. Scientists just uncovered five new species in plain sight. The sustainable shellfish cleans the water as it feeds and breathes.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/new-species-mussels-seafood-shellfish-endangered",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bda400888873.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/bda400888873.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 35,
+      "sample": false,
+      "added": "2026-10-18T21:32:57.522595+00:00"
     }
   ]
 }
