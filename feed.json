@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:06:22.824694+00:00",
+  "updated": "2026-10-18T19:07:08.491079+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -128,6 +128,72 @@
       "duration_seconds": 42,
       "sample": false,
       "added": "2026-10-18T19:06:22.809950+00:00"
+    },
+    {
+      "id": "2054b2228439",
+      "title_en": "Ethiopia runs on a calendar of its own",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Ethiopia runs on a calendar of its own. The Ethiopian calendar has thirteen months and sits about seven years behind the Gregorian calendar.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Mema science shelf",
+      "source_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [
+        "ET"
+      ],
+      "region": "east_africa",
+      "in_africa": true,
+      "scope": "local",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2054b2228439.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/2054b2228439.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "fact"
+      ],
+      "positivity_score": 9,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 26,
+      "sample": false,
+      "added": "2026-10-18T19:06:39.622107+00:00"
+    },
+    {
+      "id": "27ea64094f7f",
+      "title_en": "A High-Level Panel Highlights Enhanced Access to Livelihoods, Services, and Community Dial",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "A High-Level Panel Highlights Enhanced Access to Livelihoods, Services, and Community Dialogue as Foundations for Durable Solutions and Stability in Ethiopia. IOM convened a high-level panel in Ethiopia, highlighting livelihoods, services and social cohesion as keys to durable so",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/323502-high-level-panel-highlights-enhanced-access-livelihoods-services-and-community-dialogue",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [
+        "ET"
+      ],
+      "region": "east_africa",
+      "in_africa": true,
+      "scope": "local",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/27ea64094f7f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/27ea64094f7f.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 9,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 48,
+      "sample": false,
+      "added": "2026-10-18T19:07:08.480176+00:00"
     }
   ]
 }
