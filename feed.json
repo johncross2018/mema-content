@@ -1,0 +1,38 @@
+{
+  "updated": "2026-10-18T15:04:12.516707+00:00",
+  "clips": [
+    {
+      "id": "b10859908fe4",
+      "title_en": "A youth-led poultry cooperative gives entrepreneurs in Ethiopia a pathway to decent work",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "A youth-led poultry cooperative gives entrepreneurs in Ethiopia a pathway to decent work. With support from the ILO, a cooperative in Addis Ababa is showing how a sustainable enterprise can strengthen livelihoods and help create opportunities for you.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/323708-youth-led-poultry-cooperative-gives-entrepreneurs-ethiopia-pathway-decent-work",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [
+        "ET"
+      ],
+      "region": "east_africa",
+      "in_africa": true,
+      "scope": "local",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b10859908fe4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/b10859908fe4.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 9,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 42,
+      "sample": false,
+      "added": "2026-10-18T15:04:12.513312+00:00"
+    }
+  ]
+}
