@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:05:08.195553+00:00",
+  "updated": "2026-10-18T19:05:30.575981+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -64,6 +64,37 @@
       "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-18T19:05:08.184102+00:00"
+    },
+    {
+      "id": "79f530b6860f",
+      "title_en": "New study finds remote work brought teams closer, not further apart",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "New study finds remote work brought teams closer, not further apart. Today, roughly 36% of American workers do at least some of their work from home.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/new-study-remote-work-better-colleagues",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/79f530b6860f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/79f530b6860f.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 31,
+      "sample": false,
+      "added": "2026-10-18T19:05:30.565010+00:00"
     }
   ]
 }
