@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:05:30.575981+00:00",
+  "updated": "2026-10-18T19:06:22.824694+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -95,6 +95,39 @@
       "duration_seconds": 31,
       "sample": false,
       "added": "2026-10-18T19:05:30.565010+00:00"
+    },
+    {
+      "id": "6e75a259a2e5",
+      "title_en": "164 women leaders graduate from Presidential Leadership Programme II",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "164 women leaders graduate from Presidential Leadership Programme II. 164 Ethiopian women leaders graduated from PLP II, advancing from learning to action and driving change through mentorship, inclusion, and leadership.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/323707-164-women-leaders-graduate-presidential-leadership-programme-ii",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [
+        "ET"
+      ],
+      "region": "east_africa",
+      "in_africa": true,
+      "scope": "local",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6e75a259a2e5.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6e75a259a2e5.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 9,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 42,
+      "sample": false,
+      "added": "2026-10-18T19:06:22.809950+00:00"
     }
   ]
 }
