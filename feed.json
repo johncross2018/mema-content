@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:32:57.530968+00:00",
+  "updated": "2026-10-18T21:33:08.086214+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -318,6 +318,99 @@
       "duration_seconds": 35,
       "sample": false,
       "added": "2026-10-18T21:32:57.522595+00:00"
+    },
+    {
+      "id": "afd0cf7771b1",
+      "title_en": "The common skin care mistakes dermatologists say are working against your routine",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "The common skin care mistakes dermatologists say are working against your routine. BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a particular kind of Sunday evening spiral that happens when you’ve spent twenty minutes reading about an ingredient you’ve never heard of, and you’re n",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/the-common-skin-care-mistakes-dermatologists-say-are-working-against-your-routine/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/afd0cf7771b1.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/afd0cf7771b1.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 64,
+      "sample": false,
+      "added": "2026-10-18T21:33:03.789693+00:00"
+    },
+    {
+      "id": "29a25ee0d228",
+      "title_en": "How a floating shade can help coral survive a marine heatwave",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "How a floating shade can help coral survive a marine heatwave. BY THE OPTIMIST DAILY EDITORIAL TEAM When divers installed floating shade structures over 20 colonies of brain coral in the lower Florida Keys in August 2024, the corals underneath began recovering their color. The 20",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/how-a-floating-shade-can-help-coral-survive-a-marine-heatwave/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/29a25ee0d228.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/29a25ee0d228.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 63,
+      "sample": false,
+      "added": "2026-10-18T21:33:05.903104+00:00"
+    },
+    {
+      "id": "8d448157109c",
+      "title_en": "How to quiet performance anxiety, according to sport psychology",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "How to quiet performance anxiety, according to sport psychology. BY THE OPTIMIST DAILY EDITORIAL TEAM You know that moment. The job interview is starting in 30 seconds, and your brain decides now is the perfect time to replay every mistake you’ve ever made. Or you’re halfway thro",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8d448157109c.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/8d448157109c.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 61,
+      "sample": false,
+      "added": "2026-10-18T21:33:08.077717+00:00"
     }
   ]
 }
