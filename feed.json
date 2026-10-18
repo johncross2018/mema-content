@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:07:08.491079+00:00",
+  "updated": "2026-10-18T21:32:46.716686+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -194,6 +194,37 @@
       "duration_seconds": 48,
       "sample": false,
       "added": "2026-10-18T19:07:08.480176+00:00"
+    },
+    {
+      "id": "8b5589d769c1",
+      "title_en": "1,000 people buried their underwear across Switzerland. The unusual study helped researche",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "1,000 people buried their underwear across Switzerland. The unusual study helped researchers gauge soil health. Farmers are “soiling their undies” — and it makes for better crops.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/new-study-bury-underwear-soil-health",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8b5589d769c1.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/8b5589d769c1.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": true,
+      "duration_seconds": 32,
+      "sample": false,
+      "added": "2026-10-18T21:32:46.706446+00:00"
     }
   ]
 }
