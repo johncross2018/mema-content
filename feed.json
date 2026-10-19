@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:54:23.256454+00:00",
+  "updated": "2026-10-19T05:54:28.672174+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -2671,6 +2671,38 @@
       "duration_seconds": 37,
       "sample": false,
       "added": "2026-10-19T05:54:23.233300+00:00"
+    },
+    {
+      "id": "c38bfa02d2db",
+      "title_en": "How to Manage Subcontractors More Efficiently in Complex Builds",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "How to Manage Subcontractors More Efficiently in Complex Builds. Managing subcontractors is often one of the trickiest parts of a build. As projects grow more complex, with overlapping tasks, tight timelines and increasing client expectations, keeping trades coordinated and on sc",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "Inhabitat",
+      "source_url": "https://inhabitat.com/how-to-manage-subcontractors-more-efficiently-in-complex-builds",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/c38bfa02d2db.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/c38bfa02d2db.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 45,
+      "sample": false,
+      "added": "2026-10-19T05:54:28.648020+00:00"
     }
   ]
 }
