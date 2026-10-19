@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:36:05.423425+00:00",
+  "updated": "2026-10-19T00:12:45.268950+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -29,10 +29,44 @@
       ],
       "positivity_score": 9,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 42,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T15:04:12.513312+00:00"
+      "added": "2026-10-18T15:04:12.513312+00:00",
+      "footage_credits": [
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323708-youth-led-poultry-cooperative-gives-entrepreneurs-ethiopia-pathway-decent-work",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323708-youth-led-poultry-cooperative-gives-entrepreneurs-ethiopia-pathway-decent-work",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "Livestock rearing (poultry).jpg",
+          "credit": "NiferO / Livestock rearing (poultry).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALivestock_rearing_%28poultry%29.jpg",
+          "reason": "title shares poultry",
+          "short": "NiferO / Livestock rearing pou, CC BY-SA"
+        },
+        {
+          "title": "Poultry farming. Chicks.jpg",
+          "credit": "Ncube01 / Poultry farming. Chicks.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APoultry_farming._Chicks.jpg",
+          "reason": "title shares poultry",
+          "short": "Ncube01 / Poultry farming, Public domain"
+        }
+      ]
     },
     {
       "id": "e96427fac20d",
@@ -60,10 +94,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
+      "has_burned_in_overlay": false,
       "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T19:05:08.184102+00:00"
+      "added": "2026-10-18T19:05:08.184102+00:00",
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Acapulco fishermen.jpg",
+          "credit": "Tomascastelazo / Acapulco fishermen.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAcapulco_fishermen.jpg",
+          "reason": "title shares fishermen",
+          "short": "Tomascastelazo / Acapulco fish, CC BY-SA"
+        },
+        {
+          "title": "Fishermen - Tamandaré - Brasil pan.jpg",
+          "credit": "Timo Sachsenberg Modified by Godewind / Fishermen - Tamandaré - Brasil pan.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AFishermen_-_Tamandar%C3%A9_-_Brasil_pan.jpg",
+          "reason": "title shares fishermen",
+          "short": "Timo Sachsenberg Modified by G, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "79f530b6860f",
@@ -91,10 +159,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 31,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T19:05:30.565010+00:00"
+      "added": "2026-10-18T19:05:30.565010+00:00",
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-remote-work-better-colleagues",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-remote-work-better-colleagues",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Abbotsford House Study Room.jpg",
+          "credit": "Michael D Beckwith / Abbotsford House Study Room.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAbbotsford_House_Study_Room.jpg",
+          "reason": "title shares study",
+          "short": "Michael D Beckwith / Abbo, Public domain"
+        },
+        {
+          "title": "Miloš Jiránek, A Study in White.jpg",
+          "credit": "Miloš Jiránek / Miloš Jiránek, A Study in White.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AMilo%C5%A1_Jir%C3%A1nek%2C_A_Study_in_White.jpg",
+          "reason": "title shares study",
+          "short": "Milo Jir nek / Milo Jir n, Public domain"
+        }
+      ]
     },
     {
       "id": "6e75a259a2e5",
@@ -124,10 +226,44 @@
       ],
       "positivity_score": 9,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 42,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T19:06:22.809950+00:00"
+      "added": "2026-10-18T19:06:22.809950+00:00",
+      "footage_credits": [
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323707-164-women-leaders-graduate-presidential-leadership-programme-ii",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323707-164-women-leaders-graduate-presidential-leadership-programme-ii",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "Israeli-Ethiopian women.jpg",
+          "credit": "Orrling / Israeli-Ethiopian women.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AIsraeli-Ethiopian_women.jpg",
+          "reason": "title shares women in Ethiopia",
+          "short": "Orrling / Israeli-Ethiopian wo, CC BY-SA"
+        },
+        {
+          "title": "Hamer Women, Ethiopia (15022363689).jpg",
+          "credit": "Rod Waddington from Kergunyah, Australia / Hamer Women, Ethiopia (15022363689).jpg",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHamer_Women%2C_Ethiopia_%2815022363689%29.jpg",
+          "reason": "title shares women in Ethiopia",
+          "short": "Rod Waddington from Kergunyah, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "2054b2228439",
@@ -157,10 +293,20 @@
       ],
       "positivity_score": 9,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 26,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T19:06:39.622107+00:00"
+      "added": "2026-10-18T19:06:39.622107+00:00",
+      "footage_credits": [
+        {
+          "title": "Mema science shelf",
+          "credit": "Mema science shelf",
+          "license": "article",
+          "page_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+          "reason": "story image",
+          "short": "Mema science shelf"
+        }
+      ]
     },
     {
       "id": "27ea64094f7f",
@@ -190,10 +336,44 @@
       ],
       "positivity_score": 9,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 48,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T19:07:08.480176+00:00"
+      "added": "2026-10-18T19:07:08.480176+00:00",
+      "footage_credits": [
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323502-high-level-panel-highlights-enhanced-access-livelihoods-services-and-community-dialogue",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323502-high-level-panel-highlights-enhanced-access-livelihoods-services-and-community-dialogue",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "HPLC(high performance liquid chromatography).jpg",
+          "credit": "Manojkumar Subramani / HPLC(high performance liquid chromatography).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHPLC%28high_performance_liquid_chromatography%29.jpg",
+          "reason": "title shares high",
+          "short": "Manojkumar Subramani / HPLC hi, CC BY-SA"
+        },
+        {
+          "title": "High-performance liquid chromatography.jpg",
+          "credit": "Dqwyy / High-performance liquid chromatography.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHigh-performance_liquid_chromatography.jpg",
+          "reason": "title shares high",
+          "short": "Dqwyy / High-performance, Public domain"
+        }
+      ]
     },
     {
       "id": "8b5589d769c1",
@@ -221,10 +401,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 32,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:32:46.706446+00:00"
+      "added": "2026-10-18T21:32:46.706446+00:00",
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-bury-underwear-soil-health",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-bury-underwear-soil-health",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "010d Wild Bearded Vulture in flight at Pfyn-Finges (Switzerland) Photo by Giles ",
+          "credit": "Giles Laurent / 010d Wild Bearded Vulture in flight at Pfyn-Finges (Switzerland) Photo by Giles ",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3A010d_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+          "reason": "title shares switzerland",
+          "short": "Giles Laurent / 010d Wild Bear, CC BY-SA"
+        },
+        {
+          "title": "010e Wild Bearded Vulture in flight at Pfyn-Finges (Switzerland) Photo by Giles ",
+          "credit": "Giles Laurent / 010e Wild Bearded Vulture in flight at Pfyn-Finges (Switzerland) Photo by Giles ",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3A010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+          "reason": "title shares switzerland",
+          "short": "Giles Laurent / 010e Wild Bear, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "cf7d9f2dcc64",
@@ -252,10 +466,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 33,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:32:51.138908+00:00"
+      "added": "2026-10-18T21:32:51.138908+00:00",
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/bristol-harbour-england-floating-wetlands",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/bristol-harbour-england-floating-wetlands",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Climate Map of the Philippines (1951-2010).jpg",
+          "credit": "Impact Assessment and Applications Section, Clim / Climate Map of the Philippines (1951-2010).jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AClimate_Map_of_the_Philippines_%281951-2010%29.jpg",
+          "reason": "title shares climate",
+          "short": "Impact Assessment and App, Public domain"
+        },
+        {
+          "title": "Climate change models across different scales of resolution.jpg",
+          "credit": "Dan Naylor, Natalie Sadler, Arunima Bhattacharje / Climate change models across different scales of resolution.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AClimate_change_models_across_different_scales_of_resolution.jpg",
+          "reason": "title shares climate",
+          "short": "Dan Naylor, Natalie Sadler, Ar, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "2c30f8c64291",
@@ -283,10 +531,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 34,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:32:56.190331+00:00"
+      "added": "2026-10-18T21:32:56.190331+00:00",
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "African bush elephants (Loxodonta africana) female with six-week-old baby.jpg",
+          "credit": "Charles J. Sharp / African bush elephants (Loxodonta africana) female with six-week-old baby.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAfrican_bush_elephants_%28Loxodonta_africana%29_female_with_six-week-old_baby.jpg",
+          "reason": "title shares week",
+          "short": "Charles J. Sharp / African bus, CC BY-SA"
+        },
+        {
+          "title": "Blue Angels in delta formation during Fleet Week 2018.jpg",
+          "credit": "Frank Schulenburg / Blue Angels in delta formation during Fleet Week 2018.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABlue_Angels_in_delta_formation_during_Fleet_Week_2018.jpg",
+          "reason": "title shares week",
+          "short": "Frank Schulenburg / Blue Angel, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "bda400888873",
@@ -314,10 +596,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 35,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:32:57.522595+00:00"
+      "added": "2026-10-18T21:32:57.522595+00:00",
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-species-mussels-seafood-shellfish-endangered",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-species-mussels-seafood-shellfish-endangered",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Iceberg in North Star Bay, Greenland.jpg",
+          "credit": "Jeremy Harbeck / Iceberg in North Star Bay, Greenland.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AIceberg_in_North_Star_Bay%2C_Greenland.jpg",
+          "reason": "title shares north",
+          "short": "Jeremy Harbeck / Iceberg, Public domain"
+        },
+        {
+          "title": "North America satellite orthographic.jpg",
+          "credit": "NASA / North America satellite orthographic.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ANorth_America_satellite_orthographic.jpg",
+          "reason": "title shares north",
+          "short": "NASA / North America sate, Public domain"
+        }
+      ]
     },
     {
       "id": "afd0cf7771b1",
@@ -345,10 +661,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 64,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 42,
       "sample": false,
-      "added": "2026-10-18T21:33:03.789693+00:00"
+      "added": "2026-10-18T21:33:03.789693+00:00",
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/the-common-skin-care-mistakes-dermatologists-say-are-working-against-your-routine/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/the-common-skin-care-mistakes-dermatologists-say-are-working-against-your-routine/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "Common - 2018 (41963868844) (cropped).jpg",
+          "credit": "Steven Pisano - Feast of Music from New York Cit / Common - 2018 (41963868844) (cropped).jpg",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ACommon_-_2018_%2841963868844%29_%28cropped%29.jpg",
+          "reason": "title shares common",
+          "short": "Steven Pisano - Feast of Music fr, CC BY"
+        },
+        {
+          "title": "Common at BRIC Celebrate Brooklyn (27813356727).jpg",
+          "credit": "Feast of Music from New York City, United States / Common at BRIC Celebrate Brooklyn (27813356727).jpg",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ACommon_at_BRIC_Celebrate_Brooklyn_%2827813356727%29.jpg",
+          "reason": "title shares common",
+          "short": "Feast of Music from New York City, CC BY"
+        }
+      ]
     },
     {
       "id": "29a25ee0d228",
@@ -376,10 +726,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 63,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 43,
       "sample": false,
-      "added": "2026-10-18T21:33:05.903104+00:00"
+      "added": "2026-10-18T21:33:05.903104+00:00",
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-a-floating-shade-can-help-coral-survive-a-marine-heatwave/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-a-floating-shade-can-help-coral-survive-a-marine-heatwave/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "2019-03-19 SOCIBER VALPARAISO III floating drydock.jpg",
+          "credit": "Gordon Leggett / 2019-03-19 SOCIBER VALPARAISO III floating drydock.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3A2019-03-19_SOCIBER_VALPARAISO_III_floating_drydock.jpg",
+          "reason": "title shares floating",
+          "short": "Gordon Leggett / 2019-03-19 SO, CC BY-SA"
+        },
+        {
+          "title": "Acorn WE32206 Floating Point Co-Processor (back).jpg",
+          "credit": "Chris Whytehead / Acorn WE32206 Floating Point Co-Processor (back).jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAcorn_WE32206_Floating_Point_Co-Processor_%28back%29.jpg",
+          "reason": "title shares floating",
+          "short": "Chris Whytehead / Acorn WE3220, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "8d448157109c",
@@ -407,10 +791,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 61,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 41,
       "sample": false,
-      "added": "2026-10-18T21:33:08.077717+00:00"
+      "added": "2026-10-18T21:33:08.077717+00:00",
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "2023 Chłodzenie procesora be quiet! Dark Rock Top Flow (2).jpg",
+          "credit": "Jacek Halicki / 2023 Chłodzenie procesora be quiet! Dark Rock Top Flow (2).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3A2023_Ch%C5%82odzenie_procesora_be_quiet%21_Dark_Rock_Top_Flow_%282%29.jpg",
+          "reason": "title shares quiet",
+          "short": "Jacek Halicki / 2023 Ch odzeni, CC BY-SA"
+        },
+        {
+          "title": "2023 Chłodzenie procesora be quiet! Dark Rock Top Flow (3).jpg",
+          "credit": "Jacek Halicki / 2023 Chłodzenie procesora be quiet! Dark Rock Top Flow (3).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3A2023_Ch%C5%82odzenie_procesora_be_quiet%21_Dark_Rock_Top_Flow_%283%29.jpg",
+          "reason": "title shares quiet",
+          "short": "Jacek Halicki / 2023 Ch odzeni, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "ba8afb1c87fb",
@@ -438,10 +856,28 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 63,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 39,
       "sample": false,
-      "added": "2026-10-18T21:33:49.562667+00:00"
+      "added": "2026-10-18T21:33:49.562667+00:00",
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        }
+      ]
     },
     {
       "id": "6bdcba7cc0ce",
@@ -469,10 +905,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 58,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 39,
       "sample": false,
-      "added": "2026-10-18T21:33:51.681467+00:00"
+      "added": "2026-10-18T21:33:51.681467+00:00",
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-sets-japanese-sweet-potatoes-apart-nutritionally-speaking/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-sets-japanese-sweet-potatoes-apart-nutritionally-speaking/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "Japanese dialects-en.png",
+          "credit": "Original by Enirac Sum , translated by Zakuragi  / Japanese dialects-en.png",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AJapanese_dialects-en.png",
+          "reason": "title shares japanese",
+          "short": "Original by Enirac Sum , trans, CC BY-SA"
+        },
+        {
+          "title": "Japanese living by Emile Bremmer is licensed under CC BY 2.0.jpg",
+          "credit": "Emile B from Europe / Japanese living by Emile Bremmer is licensed under CC BY 2.0.jpg",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AJapanese_living_by_Emile_Bremmer_is_licensed_under_CC_BY_2.0.jpg",
+          "reason": "title shares japanese",
+          "short": "Emile B from Europe / Japanese living by"
+        }
+      ]
     },
     {
       "id": "5bb31a3bc8b2",
@@ -500,10 +970,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 65,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:34:29.060104+00:00"
+      "added": "2026-10-18T21:34:29.060104+00:00",
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/6-smart-things-to-do-with-an-empty-egg-carton-before-you-toss-it-in-the-recycling-bin/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/6-smart-things-to-do-with-an-empty-egg-carton-before-you-toss-it-in-the-recycling-bin/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "Berlin, Flughafen Tempelhof, Berlin E-Prix 2019, Smart Fortwo -- 2019 -- 4509.jp",
+          "credit": "Dietmar Rabich / Berlin, Flughafen Tempelhof, Berlin E-Prix 2019, Smart Fortwo -- 2019 -- 4509.jp",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABerlin%2C_Flughafen_Tempelhof%2C_Berlin_E-Prix_2019%2C_Smart_Fortwo_--_2019_--_4509.jpg",
+          "reason": "title shares smart",
+          "short": "Dietmar Rabich / Berlin, Flugh, CC BY-SA"
+        },
+        {
+          "title": "Components of Smart City.png",
+          "credit": "JudyMiao / Components of Smart City.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComponents_of_Smart_City.png",
+          "reason": "title shares smart",
+          "short": "JudyMiao / Components of Smart, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "76cef7ee1c30",
@@ -531,10 +1035,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 68,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 45,
       "sample": false,
-      "added": "2026-10-18T21:34:31.452405+00:00"
+      "added": "2026-10-18T21:34:31.452405+00:00",
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "ISS-59 California, Nevada and northern Mexico.jpg",
+          "credit": "NASA / ISS-59 California, Nevada and northern Mexico.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AISS-59_California%2C_Nevada_and_northern_Mexico.jpg",
+          "reason": "title shares california",
+          "short": "NASA / ISS-59 California, Public domain"
+        },
+        {
+          "title": "California State Capitol (top), NW view up.jpg",
+          "credit": "Photograph: Radomianin / California State Capitol (top), NW view up.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ACalifornia_State_Capitol_%28top%29%2C_NW_view_up.jpg",
+          "reason": "title shares california",
+          "short": "Photograph Radomianin / C, Public domain"
+        }
+      ]
     },
     {
       "id": "878f6a165bb3",
@@ -562,10 +1100,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 39,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:34:44.731414+00:00"
+      "added": "2026-10-18T21:34:44.731414+00:00",
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/in-ukraine-the-repair-movement-is-heading-underground/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/in-ukraine-the-repair-movement-is-heading-underground/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Rusanivka Canal and Hotel Slavutych. Kyiv, Ukraine.jpg",
+          "credit": "Ввласенко / Rusanivka Canal and Hotel Slavutych. Kyiv, Ukraine.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ARusanivka_Canal_and_Hotel_Slavutych._Kyiv%2C_Ukraine.jpg",
+          "reason": "title shares ukraine",
+          "short": "Rusanivka Canal and Hotel Slav, CC BY-SA"
+        },
+        {
+          "title": "Ukraine gas transit.png",
+          "credit": "Chidgk1 / Ukraine gas transit.png",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AUkraine_gas_transit.png",
+          "reason": "title shares ukraine",
+          "short": "Chidgk1 / Ukraine gas tra, Public domain"
+        }
+      ]
     },
     {
       "id": "93a66a9fff39",
@@ -593,10 +1165,20 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 39,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:34:46.201028+00:00"
+      "added": "2026-10-18T21:34:46.201028+00:00",
+      "footage_credits": [
+        {
+          "title": "Wildlife Photographer Giles Laurent in a ghillie suit.jpg",
+          "credit": "Giles Laurent / Wildlife Photographer Giles Laurent in a ghillie suit.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AWildlife_Photographer_Giles_Laurent_in_a_ghillie_suit.jpg",
+          "reason": "title shares wildlife",
+          "short": "Giles Laurent / Wildlife Photo, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "9f4fb5eeea4e",
@@ -624,10 +1206,28 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 43,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:34:47.696320+00:00"
+      "added": "2026-10-18T21:34:47.696320+00:00",
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+          "reason": "story image",
+          "short": "Positive News"
+        }
+      ]
     },
     {
       "id": "47b2b91d6110",
@@ -655,10 +1255,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 48,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:34:49.438965+00:00"
+      "added": "2026-10-18T21:34:49.438965+00:00",
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Readers Digest Brazil first edition propaganda 1942.jpg",
+          "credit": "Reader's Digest (editora Lund) / Readers Digest Brazil first edition propaganda 1942.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AReaders_Digest_Brazil_first_edition_propaganda_1942.jpg",
+          "reason": "title shares readers",
+          "short": "Reader's Digest editora L, Public domain"
+        },
+        {
+          "title": "PRESTO card readers 2021.jpg",
+          "credit": "VerifiedCactus / PRESTO card readers 2021.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APRESTO_card_readers_2021.jpg",
+          "reason": "title shares readers",
+          "short": "VerifiedCactus / PRESTO card r, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "e64a7c3a7dc6",
@@ -686,10 +1320,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 42,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:34:50.987358+00:00"
+      "added": "2026-10-18T21:34:50.987358+00:00",
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Went.jpg",
+          "credit": "H.J. Haverman / Went.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AWent.jpg",
+          "reason": "title shares went",
+          "short": "H.J. Haverman / Went.jpg, Public domain"
+        },
+        {
+          "title": "Friedrich Went door H.J. Haverman, 1921.jpg",
+          "credit": "Hendrik Haverman / Friedrich Went door H.J. Haverman, 1921.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AFriedrich_Went_door_H.J._Haverman%2C_1921.jpg",
+          "reason": "title shares went",
+          "short": "Hendrik Haverman / Friedr, Public domain"
+        }
+      ]
     },
     {
       "id": "b9943dfb0757",
@@ -717,10 +1385,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 39,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:13.999964+00:00"
+      "added": "2026-10-18T21:35:13.999964+00:00",
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Prince-O2-Scene-2008-0828.jpg",
+          "credit": "El Pantera / Prince-O2-Scene-2008-0828.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APrince-O2-Scene-2008-0828.jpg",
+          "reason": "title shares prince",
+          "short": "El Pantera / Prince-O2-Scene-2, CC BY-SA"
+        },
+        {
+          "title": "Prince & Revolution - First Avenue Stars.jpg",
+          "credit": "Christopher Bahn / Prince & Revolution - First Avenue Stars.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APrince_%26_Revolution_-_First_Avenue_Stars.jpg",
+          "reason": "title shares prince",
+          "short": "Christopher Bahn / Prince Revo, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "4bf849327d8b",
@@ -748,10 +1450,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 48,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:15.832745+00:00"
+      "added": "2026-10-18T21:35:15.832745+00:00",
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Antigen positive 01.png",
+          "credit": "Mcbdixon / Antigen positive 01.png",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAntigen_positive_01.png",
+          "reason": "title shares positive",
+          "short": "Mcbdixon / Antigen positi, Public domain"
+        },
+        {
+          "title": "Gram Positive Coccus Bacteria.jpg",
+          "credit": "Kucantikuu / Gram Positive Coccus Bacteria.jpg",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AGram_Positive_Coccus_Bacteria.jpg",
+          "reason": "title shares positive",
+          "short": "Kucantikuu / Gram Positive Coccus, CC BY"
+        }
+      ]
     },
     {
       "id": "7d29900a3ad7",
@@ -779,10 +1515,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 49,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:17.513149+00:00"
+      "added": "2026-10-18T21:35:17.513149+00:00",
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/what-dementia-taught-me-about-living-through-a-callous-time/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/what-dementia-taught-me-about-living-through-a-callous-time/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Epidemiology of dementia fa.jpg",
+          "credit": "Pereoptic / Epidemiology of dementia fa.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AEpidemiology_of_dementia_fa.jpg",
+          "reason": "title shares dementia",
+          "short": "Pereoptic / Epidemiology of de, CC BY-SA"
+        },
+        {
+          "title": "Epidemiology of young-onset dementia 2010 en.jpg",
+          "credit": "Pereoptic / Epidemiology of young-onset dementia 2010 en.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AEpidemiology_of_young-onset_dementia_2010_en.jpg",
+          "reason": "title shares dementia",
+          "short": "Pereoptic / Epidemiology of yo, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "693f9d368adc",
@@ -810,10 +1580,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 42,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:19.143807+00:00"
+      "added": "2026-10-18T21:35:19.143807+00:00",
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/depolarization-project-introduction/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "2006 Nanas welcome Friederikentunnel Hannover, Fussballweltmeisterschaft 2006.jp",
+          "credit": "Bernd Schwabe in Hannover / 2006 Nanas welcome Friederikentunnel Hannover, Fussballweltmeisterschaft 2006.jp",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3A2006_Nanas_welcome_Friederikentunnel_Hannover%2C_Fussballweltmeisterschaft_2006.jpg",
+          "reason": "title shares welcome",
+          "short": "Bernd Schwabe in Hannover / 20, CC BY-SA"
+        },
+        {
+          "title": "Red Square, Welcome, Moscow, Russia.jpg",
+          "credit": "Vyacheslav Argenberg / Red Square, Welcome, Moscow, Russia.jpg",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ARed_Square%2C_Welcome%2C_Moscow%2C_Russia.jpg",
+          "reason": "title shares welcome",
+          "short": "Vyacheslav Argenberg / Red Square, CC BY"
+        },
+        {
+          "title": "Tanglewood Middle School, Welcome, SC June 2019.jpg",
+          "credit": "Thomson200 / Tanglewood Middle School, Welcome, SC June 2019.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATanglewood_Middle_School%2C_Welcome%2C_SC_June_2019.jpg",
+          "reason": "title shares welcome",
+          "short": "Thomson200 / Tanglewood M, Public domain"
+        }
+      ]
     },
     {
       "id": "26ade1d71918",
@@ -841,10 +1645,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 53,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 39,
       "sample": false,
-      "added": "2026-10-18T21:35:21.025780+00:00"
+      "added": "2026-10-18T21:35:21.025780+00:00",
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "George-peabody-library.jpg",
+          "credit": "Matthew Petroff / George-peabody-library.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AGeorge-peabody-library.jpg",
+          "reason": "title shares library",
+          "short": "Matthew Petroff / George-peabo, CC BY-SA"
+        },
+        {
+          "title": "Interior of the library at Amantaka luxury Resort & Hotel in Luang Prabang Laos.",
+          "credit": "Basile Morin / Interior of the library at Amantaka luxury Resort & Hotel in Luang Prabang Laos.",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AInterior_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+          "reason": "title shares library",
+          "short": "Basile Morin / Interior of the, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "aec2dbeef00f",
@@ -872,10 +1710,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 48,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:22.673852+00:00"
+      "added": "2026-10-18T21:35:22.673852+00:00",
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "A young wild boar in his environment.jpg",
+          "credit": "Michael Gäbler / A young wild boar in his environment.jpg",
+          "license": "CC BY 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AA_young_wild_boar_in_his_environment.jpg",
+          "reason": "title shares young",
+          "short": "Michael G bler / A young wild boa, CC BY"
+        },
+        {
+          "title": "Vermeer-Portrait of a Young Woman.jpg",
+          "credit": "Johannes Vermeer / Vermeer-Portrait of a Young Woman.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AVermeer-Portrait_of_a_Young_Woman.jpg",
+          "reason": "title shares young",
+          "short": "Johannes Vermeer / Vermee, Public domain"
+        }
+      ]
     },
     {
       "id": "20bdff9b2e24",
@@ -903,10 +1775,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 51,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:24.326659+00:00"
+      "added": "2026-10-18T21:35:24.326659+00:00",
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Photographer taking a group photograph of smiling students in front of the Tokyo",
+          "credit": "Basile Morin / Photographer taking a group photograph of smiling students in front of the Tokyo",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APhotographer_taking_a_group_photograph_of_smiling_students_in_front_of_the_Tokyo_station%2C_Marunouchi%2C_Japan.jpg",
+          "reason": "title shares students",
+          "short": "Basile Morin / Photographer ta, CC BY-SA"
+        },
+        {
+          "title": "Students clearing the field.jpg",
+          "credit": "daSupremo / Students clearing the field.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AStudents_clearing_the_field.jpg",
+          "reason": "title shares students",
+          "short": "daSupremo / Students clearing, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "0cf26cb04c8d",
@@ -934,10 +1840,28 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 53,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 39,
       "sample": false,
-      "added": "2026-10-18T21:35:26.105792+00:00"
+      "added": "2026-10-18T21:35:26.105792+00:00",
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        }
+      ]
     },
     {
       "id": "d5561e93e560",
@@ -965,10 +1889,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 44,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:27.782256+00:00"
+      "added": "2026-10-18T21:35:27.782256+00:00",
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/how-nyc-students-saved-school-lunch/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/how-nyc-students-saved-school-lunch/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Students clearing the field.jpg",
+          "credit": "daSupremo / Students clearing the field.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AStudents_clearing_the_field.jpg",
+          "reason": "title shares students",
+          "short": "daSupremo / Students clearing, CC BY-SA"
+        },
+        {
+          "title": "Students clearing the field 4.jpg",
+          "credit": "daSupremo / Students clearing the field 4.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AStudents_clearing_the_field_4.jpg",
+          "reason": "title shares students",
+          "short": "daSupremo / Students clearing, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "5393003d99ad",
@@ -996,10 +1954,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 51,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 39,
       "sample": false,
-      "added": "2026-10-18T21:35:29.577025+00:00"
+      "added": "2026-10-18T21:35:29.577025+00:00",
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Broad Street, Reading - geograph.org.uk - 2864164.jpg",
+          "credit": "Paul Gillett / Broad Street, Reading - geograph.org.uk - 2864164.jpg",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABroad_Street%2C_Reading_-_geograph.org.uk_-_2864164.jpg",
+          "reason": "title shares reading",
+          "short": "Paul Gillett / Broad Street, R, CC BY-SA"
+        },
+        {
+          "title": "Old man reading newspaper early in the morning at Basantapur-IMG 6800.jpg",
+          "credit": "Bijay Chaurasia / Old man reading newspaper early in the morning at Basantapur-IMG 6800.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AOld_man_reading_newspaper_early_in_the_morning_at_Basantapur-IMG_6800.jpg",
+          "reason": "title shares reading",
+          "short": "Bijay Chaurasia / Old man read, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "16addf9e8e40",
@@ -1027,10 +2019,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 44,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:56.139593+00:00"
+      "added": "2026-10-18T21:35:56.139593+00:00",
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-hospital-that-silenced-the-machines/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-hospital-that-silenced-the-machines/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Doctors Hospital from the Southwest 1.jpg",
+          "credit": "Sixflashphoto / Doctors Hospital from the Southwest 1.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ADoctors_Hospital_from_the_Southwest_1.jpg",
+          "reason": "title shares hospital",
+          "short": "Sixflashphoto / Doctors Hospit, CC BY-SA"
+        },
+        {
+          "title": "Hospital room ubt.jpeg",
+          "credit": "Tomasz Sienicki [user: tsca , mail: tomasz.sieni / Hospital room ubt.jpeg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHospital_room_ubt.jpeg",
+          "reason": "title shares hospital",
+          "short": "Tomasz Sienicki user tsca, Public domain"
+        }
+      ]
     },
     {
       "id": "23e0039889b6",
@@ -1058,10 +2084,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 40,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:57.535830+00:00"
+      "added": "2026-10-18T21:35:57.535830+00:00",
+      "footage_credits": [
+        {
+          "title": "UN News",
+          "credit": "UN News",
+          "license": "article",
+          "page_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+          "reason": "story image",
+          "short": "UN News"
+        },
+        {
+          "title": "UN News",
+          "credit": "UN News",
+          "license": "article",
+          "page_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+          "reason": "story image",
+          "short": "UN News"
+        },
+        {
+          "title": "ANTÓNIO GUTERRES RECIBE EL \"PREMIO EUROPEO CARLOS V\".jpg",
+          "credit": "Jorge Armestar / ANTÓNIO GUTERRES RECIBE EL \"PREMIO EUROPEO CARLOS V\".jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AANT%C3%93NIO_GUTERRES_RECIBE_EL_%22PREMIO_EUROPEO_CARLOS_V%22.jpg",
+          "reason": "title shares guterres",
+          "short": "Jorge Armestar / ANT NIO GUTER, CC BY-SA"
+        },
+        {
+          "title": "António Guterres United Nations Secretary-General in 2024 (cropped).jpg",
+          "credit": "U.S. Department of State from United States / António Guterres United Nations Secretary-General in 2024 (cropped).jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAnt%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg",
+          "reason": "title shares guterres",
+          "short": "U.S. Department of State, Public domain"
+        }
+      ]
     },
     {
       "id": "5b255656e57e",
@@ -1089,10 +2149,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 43,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:35:59.021490+00:00"
+      "added": "2026-10-18T21:35:59.021490+00:00",
+      "footage_credits": [
+        {
+          "title": "Pope House.jpg",
+          "credit": "National Park Service / Pope House.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APope_House.jpg",
+          "reason": "title shares pope",
+          "short": "National Park Service / P, Public domain"
+        },
+        {
+          "title": "Pope Yeatman, South Africa (1902).png",
+          "credit": "Wikimedia Commons / Pope Yeatman, South Africa (1902).png",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APope_Yeatman%2C_South_Africa_%281902%29.png",
+          "reason": "title shares pope",
+          "short": "Wikimedia Commons / Pope, Public domain"
+        },
+        {
+          "title": "Ruth Pope and Evelyn Pope at the Pope House.webp",
+          "credit": "Unknown / Ruth Pope and Evelyn Pope at the Pope House.webp",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ARuth_Pope_and_Evelyn_Pope_at_the_Pope_House.webp",
+          "reason": "title shares pope",
+          "short": "Unknown / Ruth Pope and E, Public domain"
+        },
+        {
+          "title": "Pope miltiades.jpg",
+          "credit": "Wikimedia Commons / Pope miltiades.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APope_miltiades.jpg",
+          "reason": "title shares pope",
+          "short": "Wikimedia Commons / Pope, Public domain"
+        }
+      ]
     },
     {
       "id": "672256c3814b",
@@ -1120,10 +2214,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 33,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:36:00.222610+00:00"
+      "added": "2026-10-18T21:36:00.222610+00:00",
+      "footage_credits": [
+        {
+          "title": "The Conversation Africa",
+          "credit": "The Conversation Africa",
+          "license": "article",
+          "page_url": "https://theconversation.com/comment-la-cour-de-justice-de-la-cedeao-renforce-la-protection-des-droits-des-femmes-en-afrique-de-louest-294271",
+          "reason": "story image",
+          "short": "The Conversation Africa"
+        },
+        {
+          "title": "BF-Comment l'eau est contaminée.jpg",
+          "credit": "WILLAV-FR / BF-Comment l'eau est contaminée.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABF-Comment_l%27eau_est_contamin%C3%A9e.jpg",
+          "reason": "title shares comment",
+          "short": "WILLAV-FR / BF-Comment l'eau e, CC BY-SA"
+        },
+        {
+          "title": "Comment le marabout appelle son pouvoir.jpg",
+          "credit": "NZISABIRA Léopold / Comment le marabout appelle son pouvoir.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComment_le_marabout_appelle_son_pouvoir.jpg",
+          "reason": "title shares comment",
+          "short": "NZISABIRA L opold / Comment le, CC BY-SA"
+        },
+        {
+          "title": "Comment on broie les graines de Sorgho.jpg",
+          "credit": "IRAKOZE Juliette / Comment on broie les graines de Sorgho.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComment_on_broie_les_graines_de_Sorgho.jpg",
+          "reason": "title shares comment",
+          "short": "IRAKOZE Juliette / Comment on, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "a7c35a47780c",
@@ -1151,10 +2279,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 35,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:36:01.493216+00:00"
+      "added": "2026-10-18T21:36:01.493216+00:00",
+      "footage_credits": [
+        {
+          "title": "The Conversation Africa",
+          "credit": "The Conversation Africa",
+          "license": "article",
+          "page_url": "https://theconversation.com/lion-tracks-from-the-ice-age-how-two-ways-of-seeing-brought-ancient-animals-to-life-293281",
+          "reason": "story image",
+          "short": "The Conversation Africa"
+        },
+        {
+          "title": "The Conversation Africa",
+          "credit": "The Conversation Africa",
+          "license": "article",
+          "page_url": "https://theconversation.com/lion-tracks-from-the-ice-age-how-two-ways-of-seeing-brought-ancient-animals-to-life-293281",
+          "reason": "story image",
+          "short": "The Conversation Africa"
+        },
+        {
+          "title": "Kalahari lion (Panthera leo) male cub 4 months.jpg",
+          "credit": "Charles J. Sharp / Kalahari lion (Panthera leo) male cub 4 months.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AKalahari_lion_%28Panthera_leo%29_male_cub_4_months.jpg",
+          "reason": "title shares lion",
+          "short": "Charles J. Sharp / Kalahari li, CC BY-SA"
+        },
+        {
+          "title": "Lion (Panthera leo) male 6y.jpg",
+          "credit": "Charles J. Sharp / Lion (Panthera leo) male 6y.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALion_%28Panthera_leo%29_male_6y.jpg",
+          "reason": "title shares lion",
+          "short": "Charles J. Sharp / Lion Panthe, CC BY-SA"
+        }
+      ]
     },
     {
       "id": "573b33632c49",
@@ -1182,10 +2344,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 41,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 36,
       "sample": false,
-      "added": "2026-10-18T21:36:02.962797+00:00"
+      "added": "2026-10-18T21:36:02.962797+00:00",
+      "footage_credits": [
+        {
+          "title": "The Conversation Africa",
+          "credit": "The Conversation Africa",
+          "license": "article",
+          "page_url": "https://theconversation.com/one-third-of-food-is-lost-or-wasted-how-to-help-farmers-cut-post-harvest-losses-293555",
+          "reason": "story image",
+          "short": "The Conversation Africa"
+        },
+        {
+          "title": "Tarek Shawki at Third Africa Forum on Science, Technology and Innovation (STI), ",
+          "credit": "Ministry of Education and Technical Education, E / Tarek Shawki at Third Africa Forum on Science, Technology and Innovat",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATarek_Shawki_at_Third_Africa_Forum_on_Science%2C_Technology_and_Innovation_%28STI%29%2C_2018.jpg",
+          "reason": "title shares third",
+          "short": "Ministry of Education and Technic, CC BY"
+        },
+        {
+          "title": "Third Africa Forum on STI - Building on Science, Technology and Innovation, Cair",
+          "credit": "Ministry of Education and Technical Education, E / Third Africa Forum on STI - Building on Science, Technology and Innov",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThird_Africa_Forum_on_STI_-_Building_on_Science%2C_Technology_and_Innovation%2C_Cairo.jpg",
+          "reason": "title shares third",
+          "short": "Ministry of Education and Technic, CC BY"
+        },
+        {
+          "title": "Third Air Force commander visits expeditionary troops across East Africa (877759",
+          "credit": "U.S. Air Force photo by Staff Sgt. Jana Somero / Third Air Force commander visits expeditionary troops across East Afric",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThird_Air_Force_commander_visits_expeditionary_troops_across_East_Africa_%288777596%29.jpg",
+          "reason": "title shares third",
+          "short": "U.S. Air Force photo by S, Public domain"
+        }
+      ]
     },
     {
       "id": "d46a14878216",
@@ -1213,10 +2409,44 @@
       ],
       "positivity_score": 8,
       "not_financial_advice": false,
-      "has_burned_in_overlay": true,
-      "duration_seconds": 70,
+      "has_burned_in_overlay": false,
+      "duration_seconds": 45,
       "sample": false,
-      "added": "2026-10-18T21:36:05.413144+00:00"
+      "added": "2026-10-18T21:36:05.413144+00:00",
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-16th-2026-flu-is-already-spreading-why-october-is-the-window-to-get-vaccinated-plus-nine-more-solutions/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "Art of Campaigns podcast logo.png",
+          "credit": "CaitlinHuxley / Art of Campaigns podcast logo.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AArt_of_Campaigns_podcast_logo.png",
+          "reason": "title shares podcast",
+          "short": "CaitlinHuxley / Art of Campaig, CC BY-SA"
+        },
+        {
+          "title": "Freepik anderson-a-professional-podcast-host-a-smiling-man 30897.png",
+          "credit": "Orange Content / Freepik anderson-a-professional-podcast-host-a-smiling-man 30897.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AFreepik_anderson-a-professional-podcast-host-a-smiling-man_30897.png",
+          "reason": "title shares podcast",
+          "short": "Orange Content / Freepik ander, CC BY-SA"
+        },
+        {
+          "title": "PodCast Negócio dos Sonhos - Episódio Especial.jpg",
+          "credit": "Podcast Negócio dos Sonhos / PodCast Negócio dos Sonhos - Episódio Especial.jpg",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APodCast_Neg%C3%B3cio_dos_Sonhos_-_Epis%C3%B3dio_Especial.jpg",
+          "reason": "title shares podcast",
+          "short": "Podcast Neg cio dos Sonhos / PodC, CC BY"
+        }
+      ]
     }
   ]
 }
