@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:54:40.016371+00:00",
+  "updated": "2026-10-19T05:55:05.194152+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -2735,6 +2735,38 @@
       "duration_seconds": 42,
       "sample": false,
       "added": "2026-10-19T05:54:39.993738+00:00"
+    },
+    {
+      "id": "1f13d15fe2d8",
+      "title_en": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission. NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of explor",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/1f13d15fe2d8.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/1f13d15fe2d8.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-19T05:54:45.484530+00:00"
     }
   ]
 }
