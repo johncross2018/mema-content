@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:53:58.024340+00:00",
+  "updated": "2026-10-19T05:54:03.079799+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -2511,6 +2511,38 @@
       "duration_seconds": 37,
       "sample": false,
       "added": "2026-10-19T05:53:57.999935+00:00"
+    },
+    {
+      "id": "4cf8b354f299",
+      "title_en": "Crew-12 Returns to Earth",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Crew-12 Returns to Earth. The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Lo",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4cf8b354f299.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/4cf8b354f299.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-19T05:54:03.057743+00:00"
     }
   ]
 }
