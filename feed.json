@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T11:41:52.093352+00:00",
+  "updated": "2026-10-19T14:04:04.382876+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -2863,6 +2863,38 @@
       "duration_seconds": 37,
       "sample": false,
       "added": "2026-10-19T11:41:02.988425+00:00"
+    },
+    {
+      "id": "472f9f8e7d3f",
+      "title_en": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "NASA Names Stephen Cash Marshall Space Flight Center Director. NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. Cash, a veteran NASA engineer and aerospace executive, retu",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/472f9f8e7d3f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/472f9f8e7d3f.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-19T14:03:25.236194+00:00"
     }
   ]
 }
