@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T14:04:04.382876+00:00",
+  "updated": "2026-10-19T20:00:24.759539+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -124,12 +124,12 @@
           "short": "Tomascastelazo / Acapulco fish, CC BY-SA"
         },
         {
-          "title": "Fishermen - Tamandaré - Brasil pan.jpg",
-          "credit": "Timo Sachsenberg Modified by Godewind / Fishermen - Tamandaré - Brasil pan.jpg",
-          "license": "CC BY-SA 3.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AFishermen_-_Tamandar%C3%A9_-_Brasil_pan.jpg",
-          "reason": "title shares fishermen",
-          "short": "Timo Sachsenberg Modified by G, CC BY-SA"
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
+          "reason": "story image, another region",
+          "short": "Goodnet / Good Good Good"
         }
       ]
     },
@@ -181,20 +181,20 @@
           "short": "Goodnet / Good Good Good"
         },
         {
-          "title": "Abbotsford House Study Room.jpg",
-          "credit": "Michael D Beckwith / Abbotsford House Study Room.jpg",
-          "license": "CC0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AAbbotsford_House_Study_Room.jpg",
+          "title": "Study of the Graduations of Shadows on Spheres 2.jpg",
+          "credit": "Leonardo da Vinci / Study of the Graduations of Shadows on Spheres 2.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AStudy_of_the_Graduations_of_Shadows_on_Spheres_2.jpg",
           "reason": "title shares study",
-          "short": "Michael D Beckwith / Abbo, Public domain"
+          "short": "Leonardo da Vinci / Study, Public domain"
         },
         {
-          "title": "Miloš Jiránek, A Study in White.jpg",
-          "credit": "Miloš Jiránek / Miloš Jiránek, A Study in White.jpg",
+          "title": "Venus with a Mirror (study).png",
+          "credit": "Titian / Venus with a Mirror (study).png",
           "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AMilo%C5%A1_Jir%C3%A1nek%2C_A_Study_in_White.jpg",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AVenus_with_a_Mirror_%28study%29.png",
           "reason": "title shares study",
-          "short": "Milo Jir nek / Milo Jir n, Public domain"
+          "short": "Titian / Venus with a Mir, Public domain"
         }
       ]
     },
@@ -305,6 +305,30 @@
           "page_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
           "reason": "story image",
           "short": "Mema science shelf"
+        },
+        {
+          "title": "Mema science shelf",
+          "credit": "Mema science shelf",
+          "license": "article",
+          "page_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+          "reason": "story image, another region",
+          "short": "Mema science shelf"
+        },
+        {
+          "title": "Mema science shelf",
+          "credit": "Mema science shelf",
+          "license": "article",
+          "page_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+          "reason": "story image, another region",
+          "short": "Mema science shelf"
+        },
+        {
+          "title": "Mema science shelf",
+          "credit": "Mema science shelf",
+          "license": "article",
+          "page_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+          "reason": "story image, another region",
+          "short": "Mema science shelf"
         }
       ]
     },
@@ -366,12 +390,12 @@
           "short": "Manojkumar Subramani / HPLC hi, CC BY-SA"
         },
         {
-          "title": "High-performance liquid chromatography.jpg",
-          "credit": "Dqwyy / High-performance liquid chromatography.jpg",
-          "license": "CC0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AHigh-performance_liquid_chromatography.jpg",
-          "reason": "title shares high",
-          "short": "Dqwyy / High-performance, Public domain"
+          "title": "Ethiopia Barnstar.png",
+          "credit": "Jerium / Ethiopia Barnstar.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AEthiopia_Barnstar.png",
+          "reason": "description shares high",
+          "short": "Jerium / Ethiopia Barnstar.png, CC BY-SA"
         }
       ]
     },
@@ -423,20 +447,20 @@
           "short": "Goodnet / Good Good Good"
         },
         {
-          "title": "010d Wild Bearded Vulture in flight at Pfyn-Finges (Switzerland) Photo by Giles ",
-          "credit": "Giles Laurent / 010d Wild Bearded Vulture in flight at Pfyn-Finges (Switzerland) Photo by Giles ",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3A010d_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+          "title": "General Map of Switzerland.jpg",
+          "credit": "Federal Office of Topography / General Map of Switzerland.jpg",
+          "license": "Attribution-Swisstopo",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AGeneral_Map_of_Switzerland.jpg",
           "reason": "title shares switzerland",
-          "short": "Giles Laurent / 010d Wild Bear, CC BY-SA"
+          "short": "Federal Office of Topography / General M"
         },
         {
-          "title": "010e Wild Bearded Vulture in flight at Pfyn-Finges (Switzerland) Photo by Giles ",
-          "credit": "Giles Laurent / 010e Wild Bearded Vulture in flight at Pfyn-Finges (Switzerland) Photo by Giles ",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3A010e_Wild_Bearded_Vulture_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
-          "reason": "title shares switzerland",
-          "short": "Giles Laurent / 010e Wild Bear, CC BY-SA"
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-bury-underwear-soil-health",
+          "reason": "story image, another region",
+          "short": "Goodnet / Good Good Good"
         }
       ]
     },
@@ -488,20 +512,20 @@
           "short": "Goodnet / Good Good Good"
         },
         {
-          "title": "Climate Map of the Philippines (1951-2010).jpg",
-          "credit": "Impact Assessment and Applications Section, Clim / Climate Map of the Philippines (1951-2010).jpg",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AClimate_Map_of_the_Philippines_%281951-2010%29.jpg",
-          "reason": "title shares climate",
-          "short": "Impact Assessment and App, Public domain"
-        },
-        {
           "title": "Climate change models across different scales of resolution.jpg",
           "credit": "Dan Naylor, Natalie Sadler, Arunima Bhattacharje / Climate change models across different scales of resolution.jpg",
           "license": "CC BY-SA 4.0",
           "page_url": "https://commons.wikimedia.org/wiki/File%3AClimate_change_models_across_different_scales_of_resolution.jpg",
           "reason": "title shares climate",
           "short": "Dan Naylor, Natalie Sadler, Ar, CC BY-SA"
+        },
+        {
+          "title": "Climate data analysis using tSNE method.png",
+          "credit": "Orlovma / Climate data analysis using tSNE method.png",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AClimate_data_analysis_using_tSNE_method.png",
+          "reason": "title shares climate",
+          "short": "Orlovma / Climate data analysis u, CC BY"
         }
       ]
     },
@@ -553,20 +577,20 @@
           "short": "Goodnet / Good Good Good"
         },
         {
+          "title": "Six weeks old cat (aka).jpg",
+          "credit": "André Karwath aka Aka / Six weeks old cat (aka).jpg",
+          "license": "CC BY-SA 2.5",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASix_weeks_old_cat_%28aka%29.jpg",
+          "reason": "title shares week",
+          "short": "Andr Karwath aka Aka / Six wee, CC BY-SA"
+        },
+        {
           "title": "African bush elephants (Loxodonta africana) female with six-week-old baby.jpg",
           "credit": "Charles J. Sharp / African bush elephants (Loxodonta africana) female with six-week-old baby.jpg",
           "license": "CC BY-SA 4.0",
           "page_url": "https://commons.wikimedia.org/wiki/File%3AAfrican_bush_elephants_%28Loxodonta_africana%29_female_with_six-week-old_baby.jpg",
           "reason": "title shares week",
           "short": "Charles J. Sharp / African bus, CC BY-SA"
-        },
-        {
-          "title": "Blue Angels in delta formation during Fleet Week 2018.jpg",
-          "credit": "Frank Schulenburg / Blue Angels in delta formation during Fleet Week 2018.jpg",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3ABlue_Angels_in_delta_formation_during_Fleet_Week_2018.jpg",
-          "reason": "title shares week",
-          "short": "Frank Schulenburg / Blue Angel, CC BY-SA"
         }
       ]
     },
@@ -618,20 +642,20 @@
           "short": "Goodnet / Good Good Good"
         },
         {
-          "title": "Iceberg in North Star Bay, Greenland.jpg",
-          "credit": "Jeremy Harbeck / Iceberg in North Star Bay, Greenland.jpg",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AIceberg_in_North_Star_Bay%2C_Greenland.jpg",
-          "reason": "title shares north",
-          "short": "Jeremy Harbeck / Iceberg, Public domain"
-        },
-        {
           "title": "North America satellite orthographic.jpg",
           "credit": "NASA / North America satellite orthographic.jpg",
           "license": "Public domain",
           "page_url": "https://commons.wikimedia.org/wiki/File%3ANorth_America_satellite_orthographic.jpg",
           "reason": "title shares north",
           "short": "NASA / North America sate, Public domain"
+        },
+        {
+          "title": "North america terrain 2003 map.jpg",
+          "credit": "Wikimedia Commons / North america terrain 2003 map.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ANorth_america_terrain_2003_map.jpg",
+          "reason": "title shares north",
+          "short": "Wikimedia Commons / North, Public domain"
         }
       ]
     },
@@ -691,12 +715,12 @@
           "short": "Steven Pisano - Feast of Music fr, CC BY"
         },
         {
-          "title": "Common at BRIC Celebrate Brooklyn (27813356727).jpg",
-          "credit": "Feast of Music from New York City, United States / Common at BRIC Celebrate Brooklyn (27813356727).jpg",
-          "license": "CC BY 2.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3ACommon_at_BRIC_Celebrate_Brooklyn_%2827813356727%29.jpg",
+          "title": "Common hop on former factory wall, Ursus (Warsaw), 2024-07-20.jpg",
+          "credit": "Radomianin / Common hop on former factory wall, Ursus (Warsaw), 2024-07-20.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ACommon_hop_on_former_factory_wall%2C_Ursus_%28Warsaw%29%2C_2024-07-20.jpg",
           "reason": "title shares common",
-          "short": "Feast of Music from New York City, CC BY"
+          "short": "Radomianin / Common hop on for, CC BY-SA"
         }
       ]
     },
@@ -748,20 +772,20 @@
           "short": "The Optimist Daily"
         },
         {
-          "title": "2019-03-19 SOCIBER VALPARAISO III floating drydock.jpg",
-          "credit": "Gordon Leggett / 2019-03-19 SOCIBER VALPARAISO III floating drydock.jpg",
+          "title": "Bounded floating point format.png",
+          "credit": "Softtest123 / Bounded floating point format.png",
           "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3A2019-03-19_SOCIBER_VALPARAISO_III_floating_drydock.jpg",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABounded_floating_point_format.png",
           "reason": "title shares floating",
-          "short": "Gordon Leggett / 2019-03-19 SO, CC BY-SA"
+          "short": "Softtest123 / Bounded floating, CC BY-SA"
         },
         {
-          "title": "Acorn WE32206 Floating Point Co-Processor (back).jpg",
-          "credit": "Chris Whytehead / Acorn WE32206 Floating Point Co-Processor (back).jpg",
-          "license": "CC BY-SA 3.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AAcorn_WE32206_Floating_Point_Co-Processor_%28back%29.jpg",
+          "title": "FloatingPointPrecisionAugmented.png",
+          "credit": "Joeleoj123 / FloatingPointPrecisionAugmented.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AFloatingPointPrecisionAugmented.png",
           "reason": "title shares floating",
-          "short": "Chris Whytehead / Acorn WE3220, CC BY-SA"
+          "short": "Joeleoj123 / FloatingPointPrec, CC BY-SA"
         }
       ]
     },
@@ -813,20 +837,20 @@
           "short": "The Optimist Daily"
         },
         {
-          "title": "2023 Chłodzenie procesora be quiet! Dark Rock Top Flow (2).jpg",
-          "credit": "Jacek Halicki / 2023 Chłodzenie procesora be quiet! Dark Rock Top Flow (2).jpg",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3A2023_Ch%C5%82odzenie_procesora_be_quiet%21_Dark_Rock_Top_Flow_%282%29.jpg",
-          "reason": "title shares quiet",
-          "short": "Jacek Halicki / 2023 Ch odzeni, CC BY-SA"
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
         },
         {
-          "title": "2023 Chłodzenie procesora be quiet! Dark Rock Top Flow (3).jpg",
-          "credit": "Jacek Halicki / 2023 Chłodzenie procesora be quiet! Dark Rock Top Flow (3).jpg",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3A2023_Ch%C5%82odzenie_procesora_be_quiet%21_Dark_Rock_Top_Flow_%283%29.jpg",
-          "reason": "title shares quiet",
-          "short": "Jacek Halicki / 2023 Ch odzeni, CC BY-SA"
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
         }
       ]
     },
@@ -875,6 +899,22 @@
           "license": "article",
           "page_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
           "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+          "reason": "story image, another region",
           "short": "The Optimist Daily"
         }
       ]
@@ -935,12 +975,12 @@
           "short": "Original by Enirac Sum , trans, CC BY-SA"
         },
         {
-          "title": "Japanese living by Emile Bremmer is licensed under CC BY 2.0.jpg",
-          "credit": "Emile B from Europe / Japanese living by Emile Bremmer is licensed under CC BY 2.0.jpg",
-          "license": "CC BY 2.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AJapanese_living_by_Emile_Bremmer_is_licensed_under_CC_BY_2.0.jpg",
-          "reason": "title shares japanese",
-          "short": "Emile B from Europe / Japanese living by"
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-sets-japanese-sweet-potatoes-apart-nutritionally-speaking/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
         }
       ]
     },
@@ -992,20 +1032,20 @@
           "short": "The Optimist Daily"
         },
         {
-          "title": "Berlin, Flughafen Tempelhof, Berlin E-Prix 2019, Smart Fortwo -- 2019 -- 4509.jp",
-          "credit": "Dietmar Rabich / Berlin, Flughafen Tempelhof, Berlin E-Prix 2019, Smart Fortwo -- 2019 -- 4509.jp",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3ABerlin%2C_Flughafen_Tempelhof%2C_Berlin_E-Prix_2019%2C_Smart_Fortwo_--_2019_--_4509.jpg",
-          "reason": "title shares smart",
-          "short": "Dietmar Rabich / Berlin, Flugh, CC BY-SA"
-        },
-        {
           "title": "Components of Smart City.png",
           "credit": "JudyMiao / Components of Smart City.png",
           "license": "CC BY-SA 4.0",
           "page_url": "https://commons.wikimedia.org/wiki/File%3AComponents_of_Smart_City.png",
           "reason": "title shares smart",
           "short": "JudyMiao / Components of Smart, CC BY-SA"
+        },
+        {
+          "title": "SmartTotem.jpg",
+          "credit": "Bolondkamion / SmartTotem.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASmartTotem.jpg",
+          "reason": "title shares smart",
+          "short": "Bolondkamion / SmartTotem.jpg, CC BY-SA"
         }
       ]
     },
@@ -1065,12 +1105,12 @@
           "short": "NASA / ISS-59 California, Public domain"
         },
         {
-          "title": "California State Capitol (top), NW view up.jpg",
-          "credit": "Photograph: Radomianin / California State Capitol (top), NW view up.jpg",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3ACalifornia_State_Capitol_%28top%29%2C_NW_view_up.jpg",
-          "reason": "title shares california",
-          "short": "Photograph Radomianin / C, Public domain"
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
         }
       ]
     },
@@ -1122,20 +1162,20 @@
           "short": "Positive News"
         },
         {
-          "title": "Rusanivka Canal and Hotel Slavutych. Kyiv, Ukraine.jpg",
-          "credit": "Ввласенко / Rusanivka Canal and Hotel Slavutych. Kyiv, Ukraine.jpg",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3ARusanivka_Canal_and_Hotel_Slavutych._Kyiv%2C_Ukraine.jpg",
-          "reason": "title shares ukraine",
-          "short": "Rusanivka Canal and Hotel Slav, CC BY-SA"
-        },
-        {
           "title": "Ukraine gas transit.png",
           "credit": "Chidgk1 / Ukraine gas transit.png",
           "license": "CC0",
           "page_url": "https://commons.wikimedia.org/wiki/File%3AUkraine_gas_transit.png",
           "reason": "title shares ukraine",
           "short": "Chidgk1 / Ukraine gas tra, Public domain"
+        },
+        {
+          "title": "Tram repair in Dnipro.jpg",
+          "credit": "Alex Blokha / Tram repair in Dnipro.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATram_repair_in_Dnipro.jpg",
+          "reason": "description shares ukraine",
+          "short": "Alex Blokha / Tram repair in D, CC BY-SA"
         }
       ]
     },
@@ -1169,16 +1209,7 @@
       "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-18T21:34:46.201028+00:00",
-      "footage_credits": [
-        {
-          "title": "Wildlife Photographer Giles Laurent in a ghillie suit.jpg",
-          "credit": "Giles Laurent / Wildlife Photographer Giles Laurent in a ghillie suit.jpg",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AWildlife_Photographer_Giles_Laurent_in_a_ghillie_suit.jpg",
-          "reason": "title shares wildlife",
-          "short": "Giles Laurent / Wildlife Photo, CC BY-SA"
-        }
-      ]
+      "footage_credits": []
     },
     {
       "id": "9f4fb5eeea4e",
@@ -1225,6 +1256,22 @@
           "license": "article",
           "page_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
           "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+          "reason": "story image, another region",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+          "reason": "story image, another region",
           "short": "Positive News"
         }
       ]
@@ -1277,12 +1324,12 @@
           "short": "Positive News"
         },
         {
-          "title": "Readers Digest Brazil first edition propaganda 1942.jpg",
-          "credit": "Reader's Digest (editora Lund) / Readers Digest Brazil first edition propaganda 1942.jpg",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AReaders_Digest_Brazil_first_edition_propaganda_1942.jpg",
+          "title": "Oyster card readers (geograph 2499529).jpg",
+          "credit": "Stephen Craven / Oyster card readers (geograph 2499529).jpg",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AOyster_card_readers_%28geograph_2499529%29.jpg",
           "reason": "title shares readers",
-          "short": "Reader's Digest editora L, Public domain"
+          "short": "Stephen Craven / Oyster card r, CC BY-SA"
         },
         {
           "title": "PRESTO card readers 2021.jpg",
@@ -1350,12 +1397,12 @@
           "short": "H.J. Haverman / Went.jpg, Public domain"
         },
         {
-          "title": "Friedrich Went door H.J. Haverman, 1921.jpg",
-          "credit": "Hendrik Haverman / Friedrich Went door H.J. Haverman, 1921.jpg",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AFriedrich_Went_door_H.J._Haverman%2C_1921.jpg",
+          "title": "River Went - geograph.org.uk - 2593573.jpg",
+          "credit": "JThomas / River Went - geograph.org.uk - 2593573.jpg",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ARiver_Went_-_geograph.org.uk_-_2593573.jpg",
           "reason": "title shares went",
-          "short": "Hendrik Haverman / Friedr, Public domain"
+          "short": "JThomas / River Went - geograp, CC BY-SA"
         }
       ]
     },
@@ -1415,12 +1462,12 @@
           "short": "El Pantera / Prince-O2-Scene-2, CC BY-SA"
         },
         {
-          "title": "Prince & Revolution - First Avenue Stars.jpg",
-          "credit": "Christopher Bahn / Prince & Revolution - First Avenue Stars.jpg",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3APrince_%26_Revolution_-_First_Avenue_Stars.jpg",
+          "title": "Prince For You one sheet.jpg",
+          "credit": "Distributed by Warner Bros. / Prince For You one sheet.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APrince_For_You_one_sheet.jpg",
           "reason": "title shares prince",
-          "short": "Christopher Bahn / Prince Revo, CC BY-SA"
+          "short": "Distributed by Warner Bro, Public domain"
         }
       ]
     },
@@ -1472,20 +1519,20 @@
           "short": "Positive News"
         },
         {
-          "title": "Antigen positive 01.png",
-          "credit": "Mcbdixon / Antigen positive 01.png",
-          "license": "CC0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AAntigen_positive_01.png",
+          "title": "Gram positive bacteria and pus cells in Gram staining of sputum.jpg",
+          "credit": "Ajay Kumar Chaurasiya / Gram positive bacteria and pus cells in Gram staining of sputum.jpg",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AGram_positive_bacteria_and_pus_cells_in_Gram_staining_of_sputum.jpg",
           "reason": "title shares positive",
-          "short": "Mcbdixon / Antigen positi, Public domain"
+          "short": "Ajay Kumar Chaurasiya / Gram posi, CC BY"
         },
         {
-          "title": "Gram Positive Coccus Bacteria.jpg",
-          "credit": "Kucantikuu / Gram Positive Coccus Bacteria.jpg",
-          "license": "CC BY 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AGram_Positive_Coccus_Bacteria.jpg",
+          "title": "Positive icon.png",
+          "credit": "Openclipart / Positive icon.png",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APositive_icon.png",
           "reason": "title shares positive",
-          "short": "Kucantikuu / Gram Positive Coccus, CC BY"
+          "short": "Openclipart / Positive ic, Public domain"
         }
       ]
     },
@@ -1594,12 +1641,12 @@
           "short": "Reasons to be Cheerful"
         },
         {
-          "title": "2006 Nanas welcome Friederikentunnel Hannover, Fussballweltmeisterschaft 2006.jp",
-          "credit": "Bernd Schwabe in Hannover / 2006 Nanas welcome Friederikentunnel Hannover, Fussballweltmeisterschaft 2006.jp",
+          "title": "The door welcome mat.jpg",
+          "credit": "Damu ravindra pawar / The door welcome mat.jpg",
           "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3A2006_Nanas_welcome_Friederikentunnel_Hannover%2C_Fussballweltmeisterschaft_2006.jpg",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThe_door_welcome_mat.jpg",
           "reason": "title shares welcome",
-          "short": "Bernd Schwabe in Hannover / 20, CC BY-SA"
+          "short": "Damu ravindra pawar / The door, CC BY-SA"
         },
         {
           "title": "Red Square, Welcome, Moscow, Russia.jpg",
@@ -1610,12 +1657,12 @@
           "short": "Vyacheslav Argenberg / Red Square, CC BY"
         },
         {
-          "title": "Tanglewood Middle School, Welcome, SC June 2019.jpg",
-          "credit": "Thomson200 / Tanglewood Middle School, Welcome, SC June 2019.jpg",
-          "license": "CC0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3ATanglewood_Middle_School%2C_Welcome%2C_SC_June_2019.jpg",
-          "reason": "title shares welcome",
-          "short": "Thomson200 / Tanglewood M, Public domain"
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/depolarization-project-introduction/",
+          "reason": "story image, another region",
+          "short": "Reasons to be Cheerful"
         }
       ]
     },
@@ -1675,12 +1722,12 @@
           "short": "Matthew Petroff / George-peabo, CC BY-SA"
         },
         {
-          "title": "Interior of the library at Amantaka luxury Resort & Hotel in Luang Prabang Laos.",
-          "credit": "Basile Morin / Interior of the library at Amantaka luxury Resort & Hotel in Luang Prabang Laos.",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AInterior_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-          "reason": "title shares library",
-          "short": "Basile Morin / Interior of the, CC BY-SA"
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/",
+          "reason": "story image, another region",
+          "short": "Reasons to be Cheerful"
         }
       ]
     },
@@ -1740,12 +1787,12 @@
           "short": "Michael G bler / A young wild boa, CC BY"
         },
         {
-          "title": "Vermeer-Portrait of a Young Woman.jpg",
-          "credit": "Johannes Vermeer / Vermeer-Portrait of a Young Woman.jpg",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AVermeer-Portrait_of_a_Young_Woman.jpg",
-          "reason": "title shares young",
-          "short": "Johannes Vermeer / Vermee, Public domain"
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+          "reason": "story image, another region",
+          "short": "Reasons to be Cheerful"
         }
       ]
     },
@@ -1859,6 +1906,22 @@
           "license": "article",
           "page_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
           "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+          "reason": "story image, another region",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+          "reason": "story image, another region",
           "short": "Reasons to be Cheerful"
         }
       ]
@@ -1976,20 +2039,20 @@
           "short": "Reasons to be Cheerful"
         },
         {
+          "title": "Reading win the Championship.jpg",
+          "credit": "https://www.flickr.com/photos/brokenkey/ / Reading win the Championship.jpg",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AReading_win_the_Championship.jpg",
+          "reason": "title shares reading",
+          "short": "Reading win the Championship.jpg, CC BY"
+        },
+        {
           "title": "Broad Street, Reading - geograph.org.uk - 2864164.jpg",
           "credit": "Paul Gillett / Broad Street, Reading - geograph.org.uk - 2864164.jpg",
           "license": "CC BY-SA 2.0",
           "page_url": "https://commons.wikimedia.org/wiki/File%3ABroad_Street%2C_Reading_-_geograph.org.uk_-_2864164.jpg",
           "reason": "title shares reading",
           "short": "Paul Gillett / Broad Street, R, CC BY-SA"
-        },
-        {
-          "title": "Old man reading newspaper early in the morning at Basantapur-IMG 6800.jpg",
-          "credit": "Bijay Chaurasia / Old man reading newspaper early in the morning at Basantapur-IMG 6800.jpg",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AOld_man_reading_newspaper_early_in_the_morning_at_Basantapur-IMG_6800.jpg",
-          "reason": "title shares reading",
-          "short": "Bijay Chaurasia / Old man read, CC BY-SA"
         }
       ]
     },
@@ -2041,20 +2104,20 @@
           "short": "Reasons to be Cheerful"
         },
         {
-          "title": "Doctors Hospital from the Southwest 1.jpg",
-          "credit": "Sixflashphoto / Doctors Hospital from the Southwest 1.jpg",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3ADoctors_Hospital_from_the_Southwest_1.jpg",
-          "reason": "title shares hospital",
-          "short": "Sixflashphoto / Doctors Hospit, CC BY-SA"
-        },
-        {
           "title": "Hospital room ubt.jpeg",
           "credit": "Tomasz Sienicki [user: tsca , mail: tomasz.sieni / Hospital room ubt.jpeg",
           "license": "Public domain",
           "page_url": "https://commons.wikimedia.org/wiki/File%3AHospital_room_ubt.jpeg",
           "reason": "title shares hospital",
           "short": "Tomasz Sienicki user tsca, Public domain"
+        },
+        {
+          "title": "Hospital-de-Bellvitge.jpg",
+          "credit": "H501zalc / Hospital-de-Bellvitge.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHospital-de-Bellvitge.jpg",
+          "reason": "title shares hospital",
+          "short": "H501zalc / Hospital-de-Bellvit, CC BY-SA"
         }
       ]
     },
@@ -2106,20 +2169,20 @@
           "short": "UN News"
         },
         {
-          "title": "ANTÓNIO GUTERRES RECIBE EL \"PREMIO EUROPEO CARLOS V\".jpg",
-          "credit": "Jorge Armestar / ANTÓNIO GUTERRES RECIBE EL \"PREMIO EUROPEO CARLOS V\".jpg",
-          "license": "CC BY-SA 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AANT%C3%93NIO_GUTERRES_RECIBE_EL_%22PREMIO_EUROPEO_CARLOS_V%22.jpg",
-          "reason": "title shares guterres",
-          "short": "Jorge Armestar / ANT NIO GUTER, CC BY-SA"
+          "title": "UN News",
+          "credit": "UN News",
+          "license": "article",
+          "page_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+          "reason": "story image, another region",
+          "short": "UN News"
         },
         {
-          "title": "António Guterres United Nations Secretary-General in 2024 (cropped).jpg",
-          "credit": "U.S. Department of State from United States / António Guterres United Nations Secretary-General in 2024 (cropped).jpg",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AAnt%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg",
-          "reason": "title shares guterres",
-          "short": "U.S. Department of State, Public domain"
+          "title": "UN News",
+          "credit": "UN News",
+          "license": "article",
+          "page_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+          "reason": "story image, another region",
+          "short": "UN News"
         }
       ]
     },
@@ -2155,6 +2218,14 @@
       "added": "2026-10-18T21:35:59.021490+00:00",
       "footage_credits": [
         {
+          "title": "Ruth Pope and Evelyn Pope at the Pope House.webp",
+          "credit": "Unknown / Ruth Pope and Evelyn Pope at the Pope House.webp",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ARuth_Pope_and_Evelyn_Pope_at_the_Pope_House.webp",
+          "reason": "title shares pope",
+          "short": "Unknown / Ruth Pope and E, Public domain"
+        },
+        {
           "title": "Pope House.jpg",
           "credit": "National Park Service / Pope House.jpg",
           "license": "Public domain",
@@ -2171,20 +2242,12 @@
           "short": "Wikimedia Commons / Pope, Public domain"
         },
         {
-          "title": "Ruth Pope and Evelyn Pope at the Pope House.webp",
-          "credit": "Unknown / Ruth Pope and Evelyn Pope at the Pope House.webp",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3ARuth_Pope_and_Evelyn_Pope_at_the_Pope_House.webp",
+          "title": "Saint Gregory as Pope MET sf17-190-720d1.jpg",
+          "credit": "Wikimedia Commons / Saint Gregory as Pope MET sf17-190-720d1.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASaint_Gregory_as_Pope_MET_sf17-190-720d1.jpg",
           "reason": "title shares pope",
-          "short": "Unknown / Ruth Pope and E, Public domain"
-        },
-        {
-          "title": "Pope miltiades.jpg",
-          "credit": "Wikimedia Commons / Pope miltiades.jpg",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3APope_miltiades.jpg",
-          "reason": "title shares pope",
-          "short": "Wikimedia Commons / Pope, Public domain"
+          "short": "Wikimedia Commons / Saint, Public domain"
         }
       ]
     },
@@ -2220,12 +2283,12 @@
       "added": "2026-10-18T21:36:00.222610+00:00",
       "footage_credits": [
         {
-          "title": "The Conversation Africa",
-          "credit": "The Conversation Africa",
-          "license": "article",
-          "page_url": "https://theconversation.com/comment-la-cour-de-justice-de-la-cedeao-renforce-la-protection-des-droits-des-femmes-en-afrique-de-louest-294271",
-          "reason": "story image",
-          "short": "The Conversation Africa"
+          "title": "Comment-box.png",
+          "credit": "Jakkco1 / Comment-box.png",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComment-box.png",
+          "reason": "title shares comment",
+          "short": "Jakkco1 / Comment-box.png, Public domain"
         },
         {
           "title": "BF-Comment l'eau est contaminée.jpg",
@@ -2285,22 +2348,6 @@
       "added": "2026-10-18T21:36:01.493216+00:00",
       "footage_credits": [
         {
-          "title": "The Conversation Africa",
-          "credit": "The Conversation Africa",
-          "license": "article",
-          "page_url": "https://theconversation.com/lion-tracks-from-the-ice-age-how-two-ways-of-seeing-brought-ancient-animals-to-life-293281",
-          "reason": "story image",
-          "short": "The Conversation Africa"
-        },
-        {
-          "title": "The Conversation Africa",
-          "credit": "The Conversation Africa",
-          "license": "article",
-          "page_url": "https://theconversation.com/lion-tracks-from-the-ice-age-how-two-ways-of-seeing-brought-ancient-animals-to-life-293281",
-          "reason": "story image",
-          "short": "The Conversation Africa"
-        },
-        {
           "title": "Kalahari lion (Panthera leo) male cub 4 months.jpg",
           "credit": "Charles J. Sharp / Kalahari lion (Panthera leo) male cub 4 months.jpg",
           "license": "CC BY-SA 4.0",
@@ -2313,6 +2360,22 @@
           "credit": "Charles J. Sharp / Lion (Panthera leo) male 6y.jpg",
           "license": "CC BY-SA 4.0",
           "page_url": "https://commons.wikimedia.org/wiki/File%3ALion_%28Panthera_leo%29_male_6y.jpg",
+          "reason": "title shares lion",
+          "short": "Charles J. Sharp / Lion Panthe, CC BY-SA"
+        },
+        {
+          "title": "Lion male.jpg",
+          "credit": "Byrdyak / Lion male.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALion_male.jpg",
+          "reason": "title shares lion",
+          "short": "Byrdyak / Lion male.jpg, CC BY-SA"
+        },
+        {
+          "title": "Lion (Panthera leo) male and cub Etosha.jpg",
+          "credit": "Charles J. Sharp / Lion (Panthera leo) male and cub Etosha.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALion_%28Panthera_leo%29_male_and_cub_Etosha.jpg",
           "reason": "title shares lion",
           "short": "Charles J. Sharp / Lion Panthe, CC BY-SA"
         }
@@ -2358,28 +2421,28 @@
           "short": "The Conversation Africa"
         },
         {
-          "title": "Tarek Shawki at Third Africa Forum on Science, Technology and Innovation (STI), ",
-          "credit": "Ministry of Education and Technical Education, E / Tarek Shawki at Third Africa Forum on Science, Technology and Innovat",
-          "license": "CC BY 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3ATarek_Shawki_at_Third_Africa_Forum_on_Science%2C_Technology_and_Innovation_%28STI%29%2C_2018.jpg",
+          "title": "Wiki loves Africa Zimbabwe third price winner.jpg",
+          "credit": "Hope A Ncube / Wiki loves Africa Zimbabwe third price winner.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AWiki_loves_Africa_Zimbabwe_third_price_winner.jpg",
           "reason": "title shares third",
-          "short": "Ministry of Education and Technic, CC BY"
+          "short": "Hope A Ncube / Wiki loves, Public domain"
         },
         {
-          "title": "Third Africa Forum on STI - Building on Science, Technology and Innovation, Cair",
-          "credit": "Ministry of Education and Technical Education, E / Third Africa Forum on STI - Building on Science, Technology and Innov",
-          "license": "CC BY 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AThird_Africa_Forum_on_STI_-_Building_on_Science%2C_Technology_and_Innovation%2C_Cairo.jpg",
+          "title": "NYC subway third rail 23st IND.agr.jpg",
+          "credit": "ArnoldReinhold / NYC subway third rail 23st IND.agr.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ANYC_subway_third_rail_23st_IND.agr.jpg",
           "reason": "title shares third",
-          "short": "Ministry of Education and Technic, CC BY"
+          "short": "ArnoldReinhold / NYC subway th, CC BY-SA"
         },
         {
-          "title": "Third Air Force commander visits expeditionary troops across East Africa (877759",
-          "credit": "U.S. Air Force photo by Staff Sgt. Jana Somero / Third Air Force commander visits expeditionary troops across East Afric",
-          "license": "Public domain",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3AThird_Air_Force_commander_visits_expeditionary_troops_across_East_Africa_%288777596%29.jpg",
+          "title": "Third rail vienna 1.jpg",
+          "credit": "Herbert Ortner , Vienna, Austria / Third rail vienna 1.jpg",
+          "license": "CC BY 2.5",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThird_rail_vienna_1.jpg",
           "reason": "title shares third",
-          "short": "U.S. Air Force photo by S, Public domain"
+          "short": "Herbert Ortner , Vienna, Austria, CC BY"
         }
       ]
     },
@@ -2423,6 +2486,14 @@
           "short": "The Optimist Daily"
         },
         {
+          "title": "Whatever podcast logo.jpg",
+          "credit": "Whatever podcast / Whatever podcast logo.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AWhatever_podcast_logo.jpg",
+          "reason": "title shares podcast",
+          "short": "Whatever podcast / Whatev, Public domain"
+        },
+        {
           "title": "Art of Campaigns podcast logo.png",
           "credit": "CaitlinHuxley / Art of Campaigns podcast logo.png",
           "license": "CC BY-SA 4.0",
@@ -2437,14 +2508,6 @@
           "page_url": "https://commons.wikimedia.org/wiki/File%3AFreepik_anderson-a-professional-podcast-host-a-smiling-man_30897.png",
           "reason": "title shares podcast",
           "short": "Orange Content / Freepik ander, CC BY-SA"
-        },
-        {
-          "title": "PodCast Negócio dos Sonhos - Episódio Especial.jpg",
-          "credit": "Podcast Negócio dos Sonhos / PodCast Negócio dos Sonhos - Episódio Especial.jpg",
-          "license": "CC BY 4.0",
-          "page_url": "https://commons.wikimedia.org/wiki/File%3APodCast_Neg%C3%B3cio_dos_Sonhos_-_Epis%C3%B3dio_Especial.jpg",
-          "reason": "title shares podcast",
-          "short": "Podcast Neg cio dos Sonhos / PodC, CC BY"
         }
       ]
     },
@@ -2475,8 +2538,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+          "reason": "story image, another region",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+          "reason": "story image, another region",
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T05:51:16.947594+00:00"
     },
@@ -2507,8 +2603,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 091090.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 091090.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_091090.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 202447.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 202447.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_202447.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T05:53:57.999935+00:00"
     },
@@ -2539,8 +2668,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "The Earth seen from Apollo 17.jpg",
+          "credit": "NASA/Apollo 17 crew; taken by either Harrison Sc / The Earth seen from Apollo 17.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThe_Earth_seen_from_Apollo_17.jpg",
+          "reason": "description shares crew",
+          "short": "NASA/Apollo 17 crew taken, Public domain"
+        },
+        {
+          "title": "The whole crew of Valachian folklore in Moravia.jpg",
+          "credit": "JaneHf / The whole crew of Valachian folklore in Moravia.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThe_whole_crew_of_Valachian_folklore_in_Moravia.jpg",
+          "reason": "title shares crew",
+          "short": "JaneHf / The whole crew o, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T05:54:03.057743+00:00"
     },
@@ -2571,8 +2733,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/afs-8-101-1315/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/afs-8-101-1315/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "VW Transporter, IAA 2024, Hanover (P1200130).jpg",
+          "credit": "Matti Blume / VW Transporter, IAA 2024, Hanover (P1200130).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AVW_Transporter%2C_IAA_2024%2C_Hanover_%28P1200130%29.jpg",
+          "reason": "title shares transporter",
+          "short": "Matti Blume / VW Transporter, CC BY-SA"
+        },
+        {
+          "title": "McCoy, Kirk and Spock in the transporter room.png",
+          "credit": "NBC Television / McCoy, Kirk and Spock in the transporter room.png",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AMcCoy%2C_Kirk_and_Spock_in_the_transporter_room.png",
+          "reason": "title shares transporter",
+          "short": "NBC Television / McCoy, K, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T05:54:07.995928+00:00"
     },
@@ -2603,8 +2798,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "Launch of Shenzhou 13.jpg",
+          "credit": "Created by Forrest XYC , photoshopped by Ib / Launch of Shenzhou 13.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALaunch_of_Shenzhou_13.jpg",
+          "reason": "title shares launch",
+          "short": "Created by Forrest XYC , photo, CC BY-SA"
+        },
+        {
+          "title": "STS120LaunchHiRes-edit1.jpg",
+          "credit": "NASA; edited by jjron (tilt corrected) / STS120LaunchHiRes-edit1.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASTS120LaunchHiRes-edit1.jpg",
+          "reason": "title shares launch",
+          "short": "NASA edited by jjron tilt, Public domain"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/",
+          "reason": "story image, another region",
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T05:54:13.083839+00:00"
     },
@@ -2635,8 +2863,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/shape-3601-3601/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/shape-3601-3601/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "Chandra graha.JPG",
+          "credit": "E. A. Rodrigues / Chandra graha.JPG",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AChandra_graha.JPG",
+          "reason": "title shares chandra",
+          "short": "E. A. Rodrigues / Chandra, Public domain"
+        },
+        {
+          "title": "ChandraRohini.jpg",
+          "credit": "SurendrapuriNavagraha.jpg : Arkrishna derivative / ChandraRohini.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AChandraRohini.jpg",
+          "reason": "title shares chandra",
+          "short": "SurendrapuriNavagraha.jpg Arkr, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T05:54:18.065279+00:00"
     },
@@ -2667,8 +2928,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/afs-8-101-1320/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/afs-8-101-1320/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 091090.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 091090.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_091090.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 202447.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 202447.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_202447.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T05:54:23.233300+00:00"
     },
@@ -2699,8 +2993,33 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 45,
+      "footage_credits": [
+        {
+          "title": "Business-game-management-AH.png",
+          "credit": "Գայանե Պետրոսյաաան / Business-game-management-AH.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABusiness-game-management-AH.png",
+          "reason": "title shares manage",
+          "short": "Business-game-management-AH.pn, CC BY-SA"
+        },
+        {
+          "title": "Fix dessin Stress management.jpg",
+          "credit": "Fix1809 / Fix dessin Stress management.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AFix_dessin_Stress_management.jpg",
+          "reason": "title shares manage",
+          "short": "Fix1809 / Fix dessin Stress ma, CC BY-SA"
+        },
+        {
+          "title": "Manage JPG00.jpg",
+          "credit": "Jean-Pol GRANDMONT / Manage JPG00.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AManage_JPG00.jpg",
+          "reason": "title shares manage",
+          "short": "Jean-Pol GRANDMONT / Manage JP, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T05:54:28.648020+00:00"
     },
@@ -2763,8 +3082,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "UNLOCK 2022 Jury meeting.png",
+          "credit": "Kannika Thaimai (WMDE) / UNLOCK 2022 Jury meeting.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AUNLOCK_2022_Jury_meeting.png",
+          "reason": "title shares unlock",
+          "short": "Kannika Thaimai WMDE / UNLOCK, CC BY-SA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+          "reason": "story image, another region",
+          "short": "NASA"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T05:54:45.484530+00:00"
     },
@@ -2795,7 +3147,40 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+          "reason": "story image, another region",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+          "reason": "story image, another region",
+          "short": "NASA"
+        }
+      ],
       "duration_seconds": 39,
       "sample": false,
       "added": "2026-10-19T11:40:58.947602+00:00"
@@ -2827,8 +3212,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 091090.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 091090.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_091090.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 202447.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 202447.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_202447.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 202448.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 202448.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_202448.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T11:41:01.095029+00:00"
     },
@@ -2859,8 +3277,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+          "credit": "NASA, ESA, and The Hubble Heritage Team STScI/AU / Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+          "reason": "title shares hubble",
+          "short": "NASA, ESA, and The Hubble, Public domain"
+        },
+        {
+          "title": "Hubble 2009 close-up.jpg",
+          "credit": "NASA / Hubble 2009 close-up.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHubble_2009_close-up.jpg",
+          "reason": "title shares hubble",
+          "short": "NASA / Hubble 2009 close, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T11:41:02.988425+00:00"
     },
@@ -2891,8 +3342,41 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 37,
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "Coming up with business names.jpg",
+          "credit": "Claireneon / Coming up with business names.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComing_up_with_business_names.jpg",
+          "reason": "title shares names",
+          "short": "Claireneon / Coming up with bu, CC BY-SA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+          "reason": "story image, another region",
+          "short": "NASA"
+        }
+      ],
+      "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T14:03:25.236194+00:00"
     }
