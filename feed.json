@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:54:28.672174+00:00",
+  "updated": "2026-10-19T05:54:40.016371+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -2703,6 +2703,38 @@
       "duration_seconds": 45,
       "sample": false,
       "added": "2026-10-19T05:54:28.648020+00:00"
+    },
+    {
+      "id": "c31b49b138d7",
+      "title_en": "Tax Tips for Property Buyers: What Your Accountant Wants You to Know",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Tax Tips for Property Buyers: What Your Accountant Wants You to Know. Buying a property isn’t just about securing finance and finding the right home—it also comes with tax implications that can affect you both immediately and in the long run. Many buyers focus on deposits and loa",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "Inhabitat",
+      "source_url": "https://inhabitat.com/tax-tips-for-property-buyers-what-your-accountant-wants-you-to-know",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/c31b49b138d7.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/c31b49b138d7.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 42,
+      "sample": false,
+      "added": "2026-10-19T05:54:39.993738+00:00"
     }
   ]
 }
