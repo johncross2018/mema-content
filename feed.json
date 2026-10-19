@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T00:12:45.268950+00:00",
+  "updated": "2026-10-19T05:51:16.970597+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -2447,6 +2447,38 @@
           "short": "Podcast Neg cio dos Sonhos / PodC, CC BY"
         }
       ]
+    },
+    {
+      "id": "9598ef10e2e4",
+      "title_en": "NASA Astronaut Christina Koch at Eagles vs. Rams",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "NASA Astronaut Christina Koch at Eagles vs. NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Fi",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9598ef10e2e4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/9598ef10e2e4.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-19T05:51:16.947594+00:00"
     }
   ]
 }
