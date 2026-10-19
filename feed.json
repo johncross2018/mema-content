@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:54:18.089209+00:00",
+  "updated": "2026-10-19T05:54:23.256454+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -2639,6 +2639,38 @@
       "duration_seconds": 37,
       "sample": false,
       "added": "2026-10-19T05:54:18.065279+00:00"
+    },
+    {
+      "id": "bc9559da5a17",
+      "title_en": "Artemis II Heat Shield After Splashdown",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Artemis II Heat Shield After Splashdown. Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/afs-8-101-1320/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bc9559da5a17.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/bc9559da5a17.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-19T05:54:23.233300+00:00"
     }
   ]
 }
