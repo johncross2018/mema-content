@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:54:08.020999+00:00",
+  "updated": "2026-10-19T05:54:13.110176+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -2575,6 +2575,38 @@
       "duration_seconds": 37,
       "sample": false,
       "added": "2026-10-19T05:54:07.995928+00:00"
+    },
+    {
+      "id": "6f4a1fa6b15a",
+      "title_en": "NASA’s SpaceX CRS-35 Launch Jellyfish",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "NASA’s SpaceX CRS-35 Launch Jellyfish. The exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft are seen illuminated by sunlight against the predawn sky during the launch of NASA’s SpaceX CRS-35 mission, Tuesday, Oct. 13, 2026, as seen from Cocoa Be",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6f4a1fa6b15a.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6f4a1fa6b15a.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-19T05:54:13.083839+00:00"
     }
   ]
 }
