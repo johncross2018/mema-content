@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T09:12:33.117389+00:00",
+  "updated": "2026-10-20T09:13:17.330355+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -3443,6 +3443,70 @@
       "duration_seconds": 45,
       "sample": false,
       "added": "2026-10-20T09:12:33.079018+00:00"
+    },
+    {
+      "id": "89bf550caa38",
+      "title_en": "Une nouvelle étude met en lumière les dangers cachés des morsures de serpent",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Une nouvelle étude met en lumière les dangers cachés des morsures de serpent. Selon des études, jusqu’à 7 millions de personnes pourraient être victimes d’une morsure de serpent chaque année.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Conversation Africa",
+      "source_url": "https://theconversation.com/une-nouvelle-etude-met-en-lumiere-les-dangers-caches-des-morsures-de-serpent-294209",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "africa",
+      "in_africa": true,
+      "scope": "africa",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/89bf550caa38.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/89bf550caa38.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-20T09:13:15.469858+00:00"
+    },
+    {
+      "id": "89d44555e56e",
+      "title_en": "A Dutch startup is making concrete that grows its own moss",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "A Dutch startup is making concrete that grows its own moss. BY THE OPTIMIST DAILY EDITORIAL TEAM Most building materials are designed to resist the elements, to stay sealed and unchanged for as long as possible. Respyre, a Dutch startup, is working from the opposite premise. The ",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/a-dutch-startup-is-making-concrete-that-grows-its-own-moss/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/89d44555e56e.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/89d44555e56e.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 42,
+      "sample": false,
+      "added": "2026-10-20T09:13:17.300787+00:00"
     }
   ]
 }
