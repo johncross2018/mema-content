@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T20:00:24.759539+00:00",
+  "updated": "2026-10-20T09:11:51.466163+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -3379,6 +3379,38 @@
       "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-19T14:03:25.236194+00:00"
+    },
+    {
+      "id": "6ba94cad4c44",
+      "title_en": "Wildlife vets give rare hornbill 3D-printed beak in world-first: 'It has never been possib",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Wildlife vets give rare hornbill 3D-printed beak in world-first: 'It has never been possible before'. Injured birds have seen success with similar prosthetics in the past, but this marks the first replacement of a bird's upper and lower beaks.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/endangered-species-world-first-prosthetic-beak",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6ba94cad4c44.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6ba94cad4c44.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-20T09:11:51.434257+00:00"
     }
   ]
 }
