@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:04:39.829398+00:00",
+  "updated": "2026-10-22T20:27:43.538665+00:00",
   "clips": [
     {
       "id": "b10859908fe4",
@@ -3603,6 +3603,70 @@
       "duration_seconds": 37,
       "sample": false,
       "added": "2026-10-20T17:04:39.749848+00:00"
+    },
+    {
+      "id": "27c6cfc25cfc",
+      "title_en": "The driveway divide: Why parking for electric vehicles is such a big barrier",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "The driveway divide: Why parking for electric vehicles is such a big barrier. Most people who have an electric car have access to a driveway or private parking. In England, 90% of EV owners can park easily and charge theirs from home. But roughly 40% of U.K. households don't have",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "Tech Xplore",
+      "source_url": "https://techxplore.com/news/2026-10-driveway-electric-vehicles-big-barrier.html",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/27c6cfc25cfc.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/27c6cfc25cfc.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-22T20:27:41.665443+00:00"
+    },
+    {
+      "id": "474f71d9abfb",
+      "title_en": "Secret trigger words could make AI-powered robots dangerous",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Secret trigger words could make AI-powered robots dangerous. Large language models (LLMs) like OpenAI's ChatGPT, Anthropic's Claude and Google Gemini are increasingly being used to help robots perform tasks, but what if LLMs could be exploited to turn helpful robots into harmful ",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "Tech Xplore",
+      "source_url": "https://techxplore.com/news/2026-10-secret-trigger-words-ai-powered.html",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/474f71d9abfb.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/474f71d9abfb.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 37,
+      "sample": false,
+      "added": "2026-10-22T20:27:43.468891+00:00"
     }
   ]
 }
