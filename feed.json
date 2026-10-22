@@ -1,70 +1,6 @@
 {
-  "updated": "2026-10-22T20:35:18.721235+00:00",
+  "updated": "2026-10-22T20:36:55.114261+00:00",
   "clips": [
-    {
-      "id": "a5d46768dcfb",
-      "title_en": "Spatial genomics tool maps long-range DNA interactions while preserving cells' locations w",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_en": "Spatial genomics tool maps long-range DNA interactions while preserving cells' locations within tissues. DNA is not randomly distributed within the nucleus but is packaged with proteins into chromatin, which is precisely folded into complex three-dimensional structures. However, ",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
-      "category": "inventions",
-      "source_name": "Phys.org",
-      "source_url": "https://phys.org/news/2026-10-spatial-genomics-tool-range-dna.html",
-      "source_note_en": "Only good things. Always sourced.",
-      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
-      "country_codes": [],
-      "region": "world",
-      "in_africa": false,
-      "scope": "world",
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/a5d46768dcfb.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/a5d46768dcfb.mp4",
-      "scene": "stars",
-      "emotion": "hope",
-      "arousal": "low",
-      "topic_tags": [
-        "inventions",
-        "news"
-      ],
-      "positivity_score": 8,
-      "not_financial_advice": false,
-      "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 36,
-      "sample": false,
-      "added": "2026-10-22T20:33:33.950774+00:00"
-    },
-    {
-      "id": "049ce0880af7",
-      "title_en": "Climate change affects the quality of one of the world's most important staple foods",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_en": "Climate change affects the quality of one of the world's most important staple foods. Depending on the cultivar, higher concentrations of carbon dioxide (CO₂) in the atmosphere can significantly alter the protein composition of wheat. This affects not only baking quality but pote",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
-      "category": "inventions",
-      "source_name": "Phys.org",
-      "source_url": "https://phys.org/news/2026-10-climate-affects-quality-world-important.html",
-      "source_note_en": "Only good things. Always sourced.",
-      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
-      "country_codes": [],
-      "region": "world",
-      "in_africa": false,
-      "scope": "world",
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/049ce0880af7.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/049ce0880af7.mp4",
-      "scene": "stars",
-      "emotion": "hope",
-      "arousal": "low",
-      "topic_tags": [
-        "inventions",
-        "news"
-      ],
-      "positivity_score": 8,
-      "not_financial_advice": false,
-      "has_burned_in_overlay": false,
-      "footage_credits": [],
-      "duration_seconds": 42,
-      "sample": false,
-      "added": "2026-10-22T20:33:34.130552+00:00"
-    },
     {
       "id": "1c50f6689892",
       "title_en": "New monolithic ion trap opens quantum simulations to more researchers",
@@ -9784,6 +9720,3673 @@
       "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-22T20:35:18.651596+00:00"
+    },
+    {
+      "id": "b10859908fe4",
+      "title_en": "A youth-led poultry cooperative gives entrepreneurs in Ethiopia a pathway to decent work",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "A youth-led poultry cooperative gives entrepreneurs in Ethiopia a pathway to decent work. With support from the ILO, a cooperative in Addis Ababa is showing how a sustainable enterprise can strengthen livelihoods and help create opportunities for you.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/323708-youth-led-poultry-cooperative-gives-entrepreneurs-ethiopia-pathway-decent-work",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [
+        "ET"
+      ],
+      "region": "east_africa",
+      "in_africa": true,
+      "scope": "local",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b10859908fe4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/b10859908fe4.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 9,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323708-youth-led-poultry-cooperative-gives-entrepreneurs-ethiopia-pathway-decent-work",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323708-youth-led-poultry-cooperative-gives-entrepreneurs-ethiopia-pathway-decent-work",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "Livestock rearing (poultry).jpg",
+          "credit": "NiferO / Livestock rearing (poultry).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALivestock_rearing_%28poultry%29.jpg",
+          "reason": "title shares poultry",
+          "short": "NiferO / Livestock rearing pou, CC BY-SA"
+        },
+        {
+          "title": "Poultry farming. Chicks.jpg",
+          "credit": "Ncube01 / Poultry farming. Chicks.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APoultry_farming._Chicks.jpg",
+          "reason": "title shares poultry",
+          "short": "Ncube01 / Poultry farming, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:45.082468+00:00"
+    },
+    {
+      "id": "6e75a259a2e5",
+      "title_en": "164 women leaders graduate from Presidential Leadership Programme II",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "164 women leaders graduate from Presidential Leadership Programme II. 164 Ethiopian women leaders graduated from PLP II, advancing from learning to action and driving change through mentorship, inclusion, and leadership.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/323707-164-women-leaders-graduate-presidential-leadership-programme-ii",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [
+        "ET"
+      ],
+      "region": "east_africa",
+      "in_africa": true,
+      "scope": "local",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6e75a259a2e5.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6e75a259a2e5.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 9,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323707-164-women-leaders-graduate-presidential-leadership-programme-ii",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323707-164-women-leaders-graduate-presidential-leadership-programme-ii",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "Israeli-Ethiopian women.jpg",
+          "credit": "Orrling / Israeli-Ethiopian women.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AIsraeli-Ethiopian_women.jpg",
+          "reason": "title shares women in Ethiopia",
+          "short": "Orrling / Israeli-Ethiopian wo, CC BY-SA"
+        },
+        {
+          "title": "Hamer Women, Ethiopia (15022363689).jpg",
+          "credit": "Rod Waddington from Kergunyah, Australia / Hamer Women, Ethiopia (15022363689).jpg",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHamer_Women%2C_Ethiopia_%2815022363689%29.jpg",
+          "reason": "title shares women in Ethiopia",
+          "short": "Rod Waddington from Kergunyah, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:45.245254+00:00"
+    },
+    {
+      "id": "2054b2228439",
+      "title_en": "Ethiopia runs on a calendar of its own",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Ethiopia runs on a calendar of its own. The Ethiopian calendar has thirteen months and sits about seven years behind the Gregorian calendar.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Mema science shelf",
+      "source_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [
+        "ET"
+      ],
+      "region": "east_africa",
+      "in_africa": true,
+      "scope": "local",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2054b2228439.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/2054b2228439.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "fact"
+      ],
+      "positivity_score": 9,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Mema science shelf",
+          "credit": "Mema science shelf",
+          "license": "article",
+          "page_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+          "reason": "story image",
+          "short": "Mema science shelf"
+        },
+        {
+          "title": "Mema science shelf",
+          "credit": "Mema science shelf",
+          "license": "article",
+          "page_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+          "reason": "story image, another region",
+          "short": "Mema science shelf"
+        },
+        {
+          "title": "Mema science shelf",
+          "credit": "Mema science shelf",
+          "license": "article",
+          "page_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+          "reason": "story image, another region",
+          "short": "Mema science shelf"
+        },
+        {
+          "title": "Mema science shelf",
+          "credit": "Mema science shelf",
+          "license": "article",
+          "page_url": "https://en.wikipedia.org/wiki/Ethiopian_calendar",
+          "reason": "story image, another region",
+          "short": "Mema science shelf"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:45.412026+00:00"
+    },
+    {
+      "id": "27ea64094f7f",
+      "title_en": "A High-Level Panel Highlights Enhanced Access to Livelihoods, Services, and Community Dial",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "A High-Level Panel Highlights Enhanced Access to Livelihoods, Services, and Community Dialogue as Foundations for Durable Solutions and Stability in Ethiopia. IOM convened a high-level panel in Ethiopia, highlighting livelihoods, services and social cohesion as keys to durable so",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/323502-high-level-panel-highlights-enhanced-access-livelihoods-services-and-community-dialogue",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [
+        "ET"
+      ],
+      "region": "east_africa",
+      "in_africa": true,
+      "scope": "local",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/27ea64094f7f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/27ea64094f7f.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 9,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323502-high-level-panel-highlights-enhanced-access-livelihoods-services-and-community-dialogue",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "UN Ethiopia",
+          "credit": "UN Ethiopia",
+          "license": "article",
+          "page_url": "https://ethiopia.un.org/en/323502-high-level-panel-highlights-enhanced-access-livelihoods-services-and-community-dialogue",
+          "reason": "story image",
+          "short": "UN Ethiopia"
+        },
+        {
+          "title": "HPLC(high performance liquid chromatography).jpg",
+          "credit": "Manojkumar Subramani / HPLC(high performance liquid chromatography).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHPLC%28high_performance_liquid_chromatography%29.jpg",
+          "reason": "title shares high",
+          "short": "Manojkumar Subramani / HPLC hi, CC BY-SA"
+        },
+        {
+          "title": "Ethiopia Barnstar.png",
+          "credit": "Jerium / Ethiopia Barnstar.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AEthiopia_Barnstar.png",
+          "reason": "description shares high",
+          "short": "Jerium / Ethiopia Barnstar.png, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:45.568542+00:00"
+    },
+    {
+      "id": "878f6a165bb3",
+      "title_en": "In Ukraine, the repair movement is heading underground",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "In Ukraine, the repair movement is heading underground. A Ukrainian city is preparing to hold a repair festival in an underground shelter, giving new meaning to the act of fixing broken things The post In Ukraine, the repair movement is heading underground appeared first on Posit",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Positive News",
+      "source_url": "https://www.positive.news/society/in-ukraine-the-repair-movement-is-heading-underground/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/878f6a165bb3.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/878f6a165bb3.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/in-ukraine-the-repair-movement-is-heading-underground/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/in-ukraine-the-repair-movement-is-heading-underground/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Ukraine gas transit.png",
+          "credit": "Chidgk1 / Ukraine gas transit.png",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AUkraine_gas_transit.png",
+          "reason": "title shares ukraine",
+          "short": "Chidgk1 / Ukraine gas tra, Public domain"
+        },
+        {
+          "title": "Tram repair in Dnipro.jpg",
+          "credit": "Alex Blokha / Tram repair in Dnipro.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATram_repair_in_Dnipro.jpg",
+          "reason": "description shares ukraine",
+          "short": "Alex Blokha / Tram repair in D, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:45.721310+00:00"
+    },
+    {
+      "id": "93a66a9fff39",
+      "title_en": "Wildlife photographer of the year 2026, the winning images",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Wildlife photographer of the year 2026, the winning images. This year’s competition has attracted a record-breaking number of entries The post Wildlife photographer of the year 2026, the winning images appeared first on Positive News .",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Positive News",
+      "source_url": "https://www.positive.news/society/wildlife-photographer-of-the-year-2026-the-winning-images/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/93a66a9fff39.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/93a66a9fff39.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:45.876913+00:00"
+    },
+    {
+      "id": "9f4fb5eeea4e",
+      "title_en": "Putting a ring on it: the plan to green London’s beloved edges",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Putting a ring on it: the plan to green London’s beloved edges. Ten million people will benefit from a more biodiverse capital, say the organisers of an ambitious project to reconnect its wilder spaces The post Putting a ring on it: the plan to green London’s beloved edges appear",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Positive News",
+      "source_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9f4fb5eeea4e.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/9f4fb5eeea4e.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+          "reason": "story image, another region",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/",
+          "reason": "story image, another region",
+          "short": "Positive News"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:46.039838+00:00"
+    },
+    {
+      "id": "47b2b91d6110",
+      "title_en": "‘I can breathe again’. Readers share their experiences of a more balanced media diet",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "‘I can breathe again’. Readers share their experiences of a more balanced media diet. We often talk about the impact journalism has on democracy and how we understand the world. But what about its impact on how we feel? The post ‘I can breathe again’. Readers share their experien",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Positive News",
+      "source_url": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/47b2b91d6110.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/47b2b91d6110.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/media/readers-share-their-experiences-of-a-more-balanced-media-diet/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Oyster card readers (geograph 2499529).jpg",
+          "credit": "Stephen Craven / Oyster card readers (geograph 2499529).jpg",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AOyster_card_readers_%28geograph_2499529%29.jpg",
+          "reason": "title shares readers",
+          "short": "Stephen Craven / Oyster card r, CC BY-SA"
+        },
+        {
+          "title": "PRESTO card readers 2021.jpg",
+          "credit": "VerifiedCactus / PRESTO card readers 2021.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APRESTO_card_readers_2021.jpg",
+          "reason": "title shares readers",
+          "short": "VerifiedCactus / PRESTO card r, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:46.195927+00:00"
+    },
+    {
+      "id": "e64a7c3a7dc6",
+      "title_en": "What went right this week: people-powered climate justice, plus more",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "What went right this week: people-powered climate justice, plus more. A pivotal moment for climate justice in Australia, the Nobel prize winners, and a promising drug for Parkinson’s, plus more The post What went right this week: people-powered climate justice, plus more appeared",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Positive News",
+      "source_url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e64a7c3a7dc6.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e64a7c3a7dc6.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Went.jpg",
+          "credit": "H.J. Haverman / Went.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AWent.jpg",
+          "reason": "title shares went",
+          "short": "H.J. Haverman / Went.jpg, Public domain"
+        },
+        {
+          "title": "River Went - geograph.org.uk - 2593573.jpg",
+          "credit": "JThomas / River Went - geograph.org.uk - 2593573.jpg",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ARiver_Went_-_geograph.org.uk_-_2593573.jpg",
+          "reason": "title shares went",
+          "short": "JThomas / River Went - geograp, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:46.361307+00:00"
+    },
+    {
+      "id": "b9943dfb0757",
+      "title_en": "Prince William launches kit to help communities prepare for emergencies",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Prince William launches kit to help communities prepare for emergencies. The free, how-to resource shows people how to build resilience in their communities The post Prince William launches kit to help communities prepare for emergencies appeared first on Positive News .",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Positive News",
+      "source_url": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b9943dfb0757.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/b9943dfb0757.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/prince-william-launches-kit-to-help-communities-prepare-for-emergencies/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Prince-O2-Scene-2008-0828.jpg",
+          "credit": "El Pantera / Prince-O2-Scene-2008-0828.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APrince-O2-Scene-2008-0828.jpg",
+          "reason": "title shares prince",
+          "short": "El Pantera / Prince-O2-Scene-2, CC BY-SA"
+        },
+        {
+          "title": "Prince For You one sheet.jpg",
+          "credit": "Distributed by Warner Bros. / Prince For You one sheet.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APrince_For_You_one_sheet.jpg",
+          "reason": "title shares prince",
+          "short": "Distributed by Warner Bro, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:46.526877+00:00"
+    },
+    {
+      "id": "4bf849327d8b",
+      "title_en": "A future worth building. What to expect in the new issue of Positive News magazine",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "A future worth building. What to expect in the new issue of Positive News magazine. From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see The post A future worth building. What to expect in the new issue of Pos",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Positive News",
+      "source_url": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4bf849327d8b.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/4bf849327d8b.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Positive News",
+          "credit": "Positive News",
+          "license": "article",
+          "page_url": "https://www.positive.news/society/media/a-future-worth-building-what-to-expect-in-the-new-issue-of-positive-news-magazine/",
+          "reason": "story image",
+          "short": "Positive News"
+        },
+        {
+          "title": "Gram positive bacteria and pus cells in Gram staining of sputum.jpg",
+          "credit": "Ajay Kumar Chaurasiya / Gram positive bacteria and pus cells in Gram staining of sputum.jpg",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AGram_positive_bacteria_and_pus_cells_in_Gram_staining_of_sputum.jpg",
+          "reason": "title shares positive",
+          "short": "Ajay Kumar Chaurasiya / Gram posi, CC BY"
+        },
+        {
+          "title": "Positive icon.png",
+          "credit": "Openclipart / Positive icon.png",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APositive_icon.png",
+          "reason": "title shares positive",
+          "short": "Openclipart / Positive ic, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:46.682687+00:00"
+    },
+    {
+      "id": "7d29900a3ad7",
+      "title_en": "What Dementia Taught Me About Living Through a Callous Time",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "What Dementia Taught Me About Living Through a Callous Time. Just as President Joe Biden was showing signs of cognitive decline so conspicuous that he was compelled to drop out of the presidential race in 2024, my own father’s dementia was worsening. He lived with us, and yet he ",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/what-dementia-taught-me-about-living-through-a-callous-time/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/7d29900a3ad7.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/7d29900a3ad7.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/what-dementia-taught-me-about-living-through-a-callous-time/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/what-dementia-taught-me-about-living-through-a-callous-time/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Epidemiology of dementia fa.jpg",
+          "credit": "Pereoptic / Epidemiology of dementia fa.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AEpidemiology_of_dementia_fa.jpg",
+          "reason": "title shares dementia",
+          "short": "Pereoptic / Epidemiology of de, CC BY-SA"
+        },
+        {
+          "title": "Epidemiology of young-onset dementia 2010 en.jpg",
+          "credit": "Pereoptic / Epidemiology of young-onset dementia 2010 en.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AEpidemiology_of_young-onset_dementia_2010_en.jpg",
+          "reason": "title shares dementia",
+          "short": "Pereoptic / Epidemiology of yo, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:46.836448+00:00"
+    },
+    {
+      "id": "693f9d368adc",
+      "title_en": "Welcome to the Depolarization Project",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Welcome to the Depolarization Project. If you’re anything like us, you’re not exactly in a congenial mood right now. midterm elections fewer than three weeks away, you might be feeling combat-ready. And who could blame you? Seemingly on the ballot: the very future of the republic",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/depolarization-project-introduction/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/693f9d368adc.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/693f9d368adc.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/depolarization-project-introduction/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "The door welcome mat.jpg",
+          "credit": "Damu ravindra pawar / The door welcome mat.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThe_door_welcome_mat.jpg",
+          "reason": "title shares welcome",
+          "short": "Damu ravindra pawar / The door, CC BY-SA"
+        },
+        {
+          "title": "Red Square, Welcome, Moscow, Russia.jpg",
+          "credit": "Vyacheslav Argenberg / Red Square, Welcome, Moscow, Russia.jpg",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ARed_Square%2C_Welcome%2C_Moscow%2C_Russia.jpg",
+          "reason": "title shares welcome",
+          "short": "Vyacheslav Argenberg / Red Square, CC BY"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/depolarization-project-introduction/",
+          "reason": "story image, another region",
+          "short": "Reasons to be Cheerful"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:47.017525+00:00"
+    },
+    {
+      "id": "26ade1d71918",
+      "title_en": "The Library Is Closed. Feel Free to Come In.",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "The Library Is Closed. Feel Free to Come In.. This story was originally published in the Daily Yonder. For more rural reporting and small-town stories visit dailyyonder.com. For Michael Sayen, visiting the local library after hours is a great way to get work done, or seek respite",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/26ade1d71918.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/26ade1d71918.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "George-peabody-library.jpg",
+          "credit": "Matthew Petroff / George-peabody-library.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AGeorge-peabody-library.jpg",
+          "reason": "title shares library",
+          "short": "Matthew Petroff / George-peabo, CC BY-SA"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/",
+          "reason": "story image, another region",
+          "short": "Reasons to be Cheerful"
+        }
+      ],
+      "duration_seconds": 39,
+      "sample": false,
+      "added": "2026-10-22T20:36:47.190458+00:00"
+    },
+    {
+      "id": "aec2dbeef00f",
+      "title_en": "Young Adults Are Building Safe Spaces for Unhoused Peers",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Young Adults Are Building Safe Spaces for Unhoused Peers. In his first year at the University of California, Davis, Liam commuted three hours a day from his family’s home in the Bay Area to campus and back again. The round-trip train tickets were expensive, but not as pricey as r",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/aec2dbeef00f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/aec2dbeef00f.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "A young wild boar in his environment.jpg",
+          "credit": "Michael Gäbler / A young wild boar in his environment.jpg",
+          "license": "CC BY 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AA_young_wild_boar_in_his_environment.jpg",
+          "reason": "title shares young",
+          "short": "Michael G bler / A young wild boa, CC BY"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+          "reason": "story image, another region",
+          "short": "Reasons to be Cheerful"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:47.355885+00:00"
+    },
+    {
+      "id": "20bdff9b2e24",
+      "title_en": "Can Students and Teachers Learn to Trust Each Other in the Age of A.I.?",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Can Students and Teachers Learn to Trust Each Other in the Age of A.I.?. “I’m worried if I use an em dash they’ll think it’s A.I.,” I told my mom from where I sat at the kitchen counter, trying to work on one of my college essays. Despite her reassurances to the contrary, I wasn’",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/20bdff9b2e24.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/20bdff9b2e24.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Photographer taking a group photograph of smiling students in front of the Tokyo",
+          "credit": "Basile Morin / Photographer taking a group photograph of smiling students in front of the Tokyo",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APhotographer_taking_a_group_photograph_of_smiling_students_in_front_of_the_Tokyo_station%2C_Marunouchi%2C_Japan.jpg",
+          "reason": "title shares students",
+          "short": "Basile Morin / Photographer ta, CC BY-SA"
+        },
+        {
+          "title": "Students clearing the field.jpg",
+          "credit": "daSupremo / Students clearing the field.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AStudents_clearing_the_field.jpg",
+          "reason": "title shares students",
+          "short": "daSupremo / Students clearing, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:47.521493+00:00"
+    },
+    {
+      "id": "0cf26cb04c8d",
+      "title_en": "Gen Z Is Rescuing Millions in Medical Supplies",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Gen Z Is Rescuing Millions in Medical Supplies. In early August, a freight truck pulled up to an OhioHealth facility in Columbus and took roughly 30,000 pounds of N95 masks and hot-and-cold packs, all boxed, sealed and stamped with expiration dates still a year or two out. Left a",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0cf26cb04c8d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/0cf26cb04c8d.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+          "reason": "story image, another region",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/",
+          "reason": "story image, another region",
+          "short": "Reasons to be Cheerful"
+        }
+      ],
+      "duration_seconds": 39,
+      "sample": false,
+      "added": "2026-10-22T20:36:47.692063+00:00"
+    },
+    {
+      "id": "d5561e93e560",
+      "title_en": "How NYC Students Saved School Lunch",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "How NYC Students Saved School Lunch. There were three clear reasons why Leslie Gomez Rivera avoided the cafeteria at her high school in Brooklyn: She didn’t like the food, the room felt hectic and there was a stigma attached to eating school meals. She preferred the library, wher",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/how-nyc-students-saved-school-lunch/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d5561e93e560.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d5561e93e560.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/how-nyc-students-saved-school-lunch/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/how-nyc-students-saved-school-lunch/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Students clearing the field.jpg",
+          "credit": "daSupremo / Students clearing the field.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AStudents_clearing_the_field.jpg",
+          "reason": "title shares students",
+          "short": "daSupremo / Students clearing, CC BY-SA"
+        },
+        {
+          "title": "Students clearing the field 4.jpg",
+          "credit": "daSupremo / Students clearing the field 4.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AStudents_clearing_the_field_4.jpg",
+          "reason": "title shares students",
+          "short": "daSupremo / Students clearing, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:47.856748+00:00"
+    },
+    {
+      "id": "5393003d99ad",
+      "title_en": "What We’re Reading: California Joins the Balcony Solar Revolution",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "What We’re Reading: California Joins the Balcony Solar Revolution. Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here. Sunny outlook Last yea",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5393003d99ad.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5393003d99ad.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reading win the Championship.jpg",
+          "credit": "https://www.flickr.com/photos/brokenkey/ / Reading win the Championship.jpg",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AReading_win_the_Championship.jpg",
+          "reason": "title shares reading",
+          "short": "Reading win the Championship.jpg, CC BY"
+        },
+        {
+          "title": "Broad Street, Reading - geograph.org.uk - 2864164.jpg",
+          "credit": "Paul Gillett / Broad Street, Reading - geograph.org.uk - 2864164.jpg",
+          "license": "CC BY-SA 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABroad_Street%2C_Reading_-_geograph.org.uk_-_2864164.jpg",
+          "reason": "title shares reading",
+          "short": "Paul Gillett / Broad Street, R, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 39,
+      "sample": false,
+      "added": "2026-10-22T20:36:48.021873+00:00"
+    },
+    {
+      "id": "16addf9e8e40",
+      "title_en": "The Hospital That Silenced the Machines",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "The Hospital That Silenced the Machines. The heartbeat monitor chirps. Hospitals have long tried to fight acoustic chaos with passive tactics — hanging sound-absorbing ceiling tiles, laying soft rubber flooring or begging clinical staff to whisper in the corridors. But the Royal ",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/the-hospital-that-silenced-the-machines/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/16addf9e8e40.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/16addf9e8e40.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-hospital-that-silenced-the-machines/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Reasons to be Cheerful",
+          "credit": "Reasons to be Cheerful",
+          "license": "article",
+          "page_url": "https://reasonstobecheerful.world/the-hospital-that-silenced-the-machines/",
+          "reason": "story image",
+          "short": "Reasons to be Cheerful"
+        },
+        {
+          "title": "Hospital room ubt.jpeg",
+          "credit": "Tomasz Sienicki [user: tsca , mail: tomasz.sieni / Hospital room ubt.jpeg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHospital_room_ubt.jpeg",
+          "reason": "title shares hospital",
+          "short": "Tomasz Sienicki user tsca, Public domain"
+        },
+        {
+          "title": "Hospital-de-Bellvitge.jpg",
+          "credit": "H501zalc / Hospital-de-Bellvitge.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHospital-de-Bellvitge.jpg",
+          "reason": "title shares hospital",
+          "short": "H501zalc / Hospital-de-Bellvit, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:48.187669+00:00"
+    },
+    {
+      "id": "23e0039889b6",
+      "title_en": "Guterres urges faster action and financing to stop biodiversity loss",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Guterres urges faster action and financing to stop biodiversity loss. The United Nations Secretary-General appealed on Friday for governments, businesses and communities to accelerate efforts to protect biodiversity for future generations and all life on Earth.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/23e0039889b6.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/23e0039889b6.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "UN News",
+          "credit": "UN News",
+          "license": "article",
+          "page_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+          "reason": "story image",
+          "short": "UN News"
+        },
+        {
+          "title": "UN News",
+          "credit": "UN News",
+          "license": "article",
+          "page_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+          "reason": "story image",
+          "short": "UN News"
+        },
+        {
+          "title": "UN News",
+          "credit": "UN News",
+          "license": "article",
+          "page_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+          "reason": "story image, another region",
+          "short": "UN News"
+        },
+        {
+          "title": "UN News",
+          "credit": "UN News",
+          "license": "article",
+          "page_url": "https://news.un.org/feed/view/en/story/2026/10/1168610",
+          "reason": "story image, another region",
+          "short": "UN News"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:48.349485+00:00"
+    },
+    {
+      "id": "5b255656e57e",
+      "title_en": "Pope Leo XIV thanks faithful for prayers at first appearance since surgery",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Pope Leo XIV thanks faithful for prayers at first appearance since surgery. Pope Leo XIV thanked the thousands of faithful in the Vatican’s Saint Peter’s Square on Sunday for their prayers while he was hospitalised earlier this week.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Africanews",
+      "source_url": "http://www.africanews.com/2026/10/18/pope-leo-xiv-thanks-faithful-for-prayers-at-first-appearance-since-surgery/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "africa",
+      "in_africa": true,
+      "scope": "africa",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5b255656e57e.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5b255656e57e.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Ruth Pope and Evelyn Pope at the Pope House.webp",
+          "credit": "Unknown / Ruth Pope and Evelyn Pope at the Pope House.webp",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ARuth_Pope_and_Evelyn_Pope_at_the_Pope_House.webp",
+          "reason": "title shares pope",
+          "short": "Unknown / Ruth Pope and E, Public domain"
+        },
+        {
+          "title": "Pope House.jpg",
+          "credit": "National Park Service / Pope House.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APope_House.jpg",
+          "reason": "title shares pope",
+          "short": "National Park Service / P, Public domain"
+        },
+        {
+          "title": "Pope Yeatman, South Africa (1902).png",
+          "credit": "Wikimedia Commons / Pope Yeatman, South Africa (1902).png",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3APope_Yeatman%2C_South_Africa_%281902%29.png",
+          "reason": "title shares pope",
+          "short": "Wikimedia Commons / Pope, Public domain"
+        },
+        {
+          "title": "Saint Gregory as Pope MET sf17-190-720d1.jpg",
+          "credit": "Wikimedia Commons / Saint Gregory as Pope MET sf17-190-720d1.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASaint_Gregory_as_Pope_MET_sf17-190-720d1.jpg",
+          "reason": "title shares pope",
+          "short": "Wikimedia Commons / Saint, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:48.508374+00:00"
+    },
+    {
+      "id": "672256c3814b",
+      "title_en": "Comment la Cour de justice de la Cedeao renforce la protection des droits des femmes en Af",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Comment la Cour de justice de la Cedeao renforce la protection des droits des femmes en Afrique de l’Ouest. La Cour de la Cedeao pourrait avoir davantage d'impact si elle mettait en place un cadre uniforme en matière d'indemnisation financière.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Conversation Africa",
+      "source_url": "https://theconversation.com/comment-la-cour-de-justice-de-la-cedeao-renforce-la-protection-des-droits-des-femmes-en-afrique-de-louest-294271",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "africa",
+      "in_africa": true,
+      "scope": "africa",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/672256c3814b.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/672256c3814b.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Comment-box.png",
+          "credit": "Jakkco1 / Comment-box.png",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComment-box.png",
+          "reason": "title shares comment",
+          "short": "Jakkco1 / Comment-box.png, Public domain"
+        },
+        {
+          "title": "BF-Comment l'eau est contaminée.jpg",
+          "credit": "WILLAV-FR / BF-Comment l'eau est contaminée.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABF-Comment_l%27eau_est_contamin%C3%A9e.jpg",
+          "reason": "title shares comment",
+          "short": "WILLAV-FR / BF-Comment l'eau e, CC BY-SA"
+        },
+        {
+          "title": "Comment le marabout appelle son pouvoir.jpg",
+          "credit": "NZISABIRA Léopold / Comment le marabout appelle son pouvoir.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComment_le_marabout_appelle_son_pouvoir.jpg",
+          "reason": "title shares comment",
+          "short": "NZISABIRA L opold / Comment le, CC BY-SA"
+        },
+        {
+          "title": "Comment on broie les graines de Sorgho.jpg",
+          "credit": "IRAKOZE Juliette / Comment on broie les graines de Sorgho.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComment_on_broie_les_graines_de_Sorgho.jpg",
+          "reason": "title shares comment",
+          "short": "IRAKOZE Juliette / Comment on, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:48.666639+00:00"
+    },
+    {
+      "id": "a7c35a47780c",
+      "title_en": "Lion tracks from the ice age: how two ways of seeing brought ancient animals to life",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Lion tracks from the ice age: how two ways of seeing brought ancient animals to life. Indigenous knowledge has pushed scientists’ boundaries.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Conversation Africa",
+      "source_url": "https://theconversation.com/lion-tracks-from-the-ice-age-how-two-ways-of-seeing-brought-ancient-animals-to-life-293281",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "africa",
+      "in_africa": true,
+      "scope": "africa",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/a7c35a47780c.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/a7c35a47780c.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Kalahari lion (Panthera leo) male cub 4 months.jpg",
+          "credit": "Charles J. Sharp / Kalahari lion (Panthera leo) male cub 4 months.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AKalahari_lion_%28Panthera_leo%29_male_cub_4_months.jpg",
+          "reason": "title shares lion",
+          "short": "Charles J. Sharp / Kalahari li, CC BY-SA"
+        },
+        {
+          "title": "Lion (Panthera leo) male 6y.jpg",
+          "credit": "Charles J. Sharp / Lion (Panthera leo) male 6y.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALion_%28Panthera_leo%29_male_6y.jpg",
+          "reason": "title shares lion",
+          "short": "Charles J. Sharp / Lion Panthe, CC BY-SA"
+        },
+        {
+          "title": "Lion male.jpg",
+          "credit": "Byrdyak / Lion male.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALion_male.jpg",
+          "reason": "title shares lion",
+          "short": "Byrdyak / Lion male.jpg, CC BY-SA"
+        },
+        {
+          "title": "Lion (Panthera leo) male and cub Etosha.jpg",
+          "credit": "Charles J. Sharp / Lion (Panthera leo) male and cub Etosha.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALion_%28Panthera_leo%29_male_and_cub_Etosha.jpg",
+          "reason": "title shares lion",
+          "short": "Charles J. Sharp / Lion Panthe, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:48.836794+00:00"
+    },
+    {
+      "id": "573b33632c49",
+      "title_en": "One third of food is lost or wasted: how to help farmers cut post-harvest losses",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "One third of food is lost or wasted: how to help farmers cut post-harvest losses. Investments should support entire value chains, linking farmers to storage, processing, transport and reliable markets.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Conversation Africa",
+      "source_url": "https://theconversation.com/one-third-of-food-is-lost-or-wasted-how-to-help-farmers-cut-post-harvest-losses-293555",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "africa",
+      "in_africa": true,
+      "scope": "africa",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/573b33632c49.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/573b33632c49.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "The Conversation Africa",
+          "credit": "The Conversation Africa",
+          "license": "article",
+          "page_url": "https://theconversation.com/one-third-of-food-is-lost-or-wasted-how-to-help-farmers-cut-post-harvest-losses-293555",
+          "reason": "story image",
+          "short": "The Conversation Africa"
+        },
+        {
+          "title": "Wiki loves Africa Zimbabwe third price winner.jpg",
+          "credit": "Hope A Ncube / Wiki loves Africa Zimbabwe third price winner.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AWiki_loves_Africa_Zimbabwe_third_price_winner.jpg",
+          "reason": "title shares third",
+          "short": "Hope A Ncube / Wiki loves, Public domain"
+        },
+        {
+          "title": "NYC subway third rail 23st IND.agr.jpg",
+          "credit": "ArnoldReinhold / NYC subway third rail 23st IND.agr.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ANYC_subway_third_rail_23st_IND.agr.jpg",
+          "reason": "title shares third",
+          "short": "ArnoldReinhold / NYC subway th, CC BY-SA"
+        },
+        {
+          "title": "Third rail vienna 1.jpg",
+          "credit": "Herbert Ortner , Vienna, Austria / Third rail vienna 1.jpg",
+          "license": "CC BY 2.5",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThird_rail_vienna_1.jpg",
+          "reason": "title shares third",
+          "short": "Herbert Ortner , Vienna, Austria, CC BY"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:48.993819+00:00"
+    },
+    {
+      "id": "d46a14878216",
+      "title_en": "Podcast Transcript October 16th, 2026— Flu is already spreading: why October is the window",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Podcast Transcript October 16th, 2026— Flu is already spreading: why October is the window to get vaccinated, plus nine more solutions. Episode Description: Arielle and Karissa cover ten solutions this week, including 20,000 octopuses hiding in well-studied waters off the Califor",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-16th-2026-flu-is-already-spreading-why-october-is-the-window-to-get-vaccinated-plus-nine-more-solutions/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d46a14878216.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d46a14878216.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/podcast-transcript-october-16th-2026-flu-is-already-spreading-why-october-is-the-window-to-get-vaccinated-plus-nine-more-solutions/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "Whatever podcast logo.jpg",
+          "credit": "Whatever podcast / Whatever podcast logo.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AWhatever_podcast_logo.jpg",
+          "reason": "title shares podcast",
+          "short": "Whatever podcast / Whatev, Public domain"
+        },
+        {
+          "title": "Art of Campaigns podcast logo.png",
+          "credit": "CaitlinHuxley / Art of Campaigns podcast logo.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AArt_of_Campaigns_podcast_logo.png",
+          "reason": "title shares podcast",
+          "short": "CaitlinHuxley / Art of Campaig, CC BY-SA"
+        },
+        {
+          "title": "Freepik anderson-a-professional-podcast-host-a-smiling-man 30897.png",
+          "credit": "Orange Content / Freepik anderson-a-professional-podcast-host-a-smiling-man 30897.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AFreepik_anderson-a-professional-podcast-host-a-smiling-man_30897.png",
+          "reason": "title shares podcast",
+          "short": "Orange Content / Freepik ander, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 45,
+      "sample": false,
+      "added": "2026-10-22T20:36:49.162149+00:00"
+    },
+    {
+      "id": "ba8afb1c87fb",
+      "title_en": "What to leave alone in your garden this October to help overwintering bees",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "What to leave alone in your garden this October to help overwintering bees. BY THE OPTIMIST DAILY EDITORIAL TEAM Every fall there’s a pull to tidy things up. Cut back the perennials, rake the leaves, clear the beds, put the garden to rest. It feels satisfying, honestly, and sprin",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ba8afb1c87fb.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/ba8afb1c87fb.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-to-leave-alone-in-your-garden-this-october-to-help-overwintering-bees/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
+        }
+      ],
+      "duration_seconds": 39,
+      "sample": false,
+      "added": "2026-10-22T20:36:49.347828+00:00"
+    },
+    {
+      "id": "6bdcba7cc0ce",
+      "title_en": "What sets Japanese sweet potatoes apart, nutritionally speaking",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "What sets Japanese sweet potatoes apart, nutritionally speaking. BY THE OPTIMIST DAILY EDITORIAL TEAM If you’ve bought a Japanese sweet potato, cut into it expecting orange, and found creamy white instead, you’ve already spotted the first thing that sets it apart. The skin is red",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/what-sets-japanese-sweet-potatoes-apart-nutritionally-speaking/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6bdcba7cc0ce.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6bdcba7cc0ce.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-sets-japanese-sweet-potatoes-apart-nutritionally-speaking/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-sets-japanese-sweet-potatoes-apart-nutritionally-speaking/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "Japanese dialects-en.png",
+          "credit": "Original by Enirac Sum , translated by Zakuragi  / Japanese dialects-en.png",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AJapanese_dialects-en.png",
+          "reason": "title shares japanese",
+          "short": "Original by Enirac Sum , trans, CC BY-SA"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/what-sets-japanese-sweet-potatoes-apart-nutritionally-speaking/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
+        }
+      ],
+      "duration_seconds": 39,
+      "sample": false,
+      "added": "2026-10-22T20:36:49.504936+00:00"
+    },
+    {
+      "id": "5bb31a3bc8b2",
+      "title_en": "6 smart things to do with an empty egg carton before you toss it in the recycling bin",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "6 smart things to do with an empty egg carton before you toss it in the recycling bin. BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a half-second every time you finish a carton of eggs. The lid flops open, the last two slots are empty, and you’re already reaching for the recyclin",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/6-smart-things-to-do-with-an-empty-egg-carton-before-you-toss-it-in-the-recycling-bin/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5bb31a3bc8b2.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5bb31a3bc8b2.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/6-smart-things-to-do-with-an-empty-egg-carton-before-you-toss-it-in-the-recycling-bin/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/6-smart-things-to-do-with-an-empty-egg-carton-before-you-toss-it-in-the-recycling-bin/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "Components of Smart City.png",
+          "credit": "JudyMiao / Components of Smart City.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComponents_of_Smart_City.png",
+          "reason": "title shares smart",
+          "short": "JudyMiao / Components of Smart, CC BY-SA"
+        },
+        {
+          "title": "SmartTotem.jpg",
+          "credit": "Bolondkamion / SmartTotem.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASmartTotem.jpg",
+          "reason": "title shares smart",
+          "short": "Bolondkamion / SmartTotem.jpg, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:49.657266+00:00"
+    },
+    {
+      "id": "76cef7ee1c30",
+      "title_en": "Scientists discovered the world’s largest octopus nursery off the California coast",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Scientists discovered the world’s largest octopus nursery off the California coast. BY THE OPTIMIST DAILY EDITORIAL TEAM Most of the deep seafloor is cold, dark, and barely mapped. The Monterey Bay National Marine Sanctuary covers more than 6,000 square miles of ocean along Calif",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/76cef7ee1c30.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/76cef7ee1c30.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "ISS-59 California, Nevada and northern Mexico.jpg",
+          "credit": "NASA / ISS-59 California, Nevada and northern Mexico.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AISS-59_California%2C_Nevada_and_northern_Mexico.jpg",
+          "reason": "title shares california",
+          "short": "NASA / ISS-59 California, Public domain"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
+        }
+      ],
+      "duration_seconds": 45,
+      "sample": false,
+      "added": "2026-10-22T20:36:49.814492+00:00"
+    },
+    {
+      "id": "afd0cf7771b1",
+      "title_en": "The common skin care mistakes dermatologists say are working against your routine",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "The common skin care mistakes dermatologists say are working against your routine. BY THE OPTIMIST DAILY EDITORIAL TEAM There’s a particular kind of Sunday evening spiral that happens when you’ve spent twenty minutes reading about an ingredient you’ve never heard of, and you’re n",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/the-common-skin-care-mistakes-dermatologists-say-are-working-against-your-routine/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/afd0cf7771b1.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/afd0cf7771b1.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/the-common-skin-care-mistakes-dermatologists-say-are-working-against-your-routine/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/the-common-skin-care-mistakes-dermatologists-say-are-working-against-your-routine/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "Common - 2018 (41963868844) (cropped).jpg",
+          "credit": "Steven Pisano - Feast of Music from New York Cit / Common - 2018 (41963868844) (cropped).jpg",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ACommon_-_2018_%2841963868844%29_%28cropped%29.jpg",
+          "reason": "title shares common",
+          "short": "Steven Pisano - Feast of Music fr, CC BY"
+        },
+        {
+          "title": "Common hop on former factory wall, Ursus (Warsaw), 2024-07-20.jpg",
+          "credit": "Radomianin / Common hop on former factory wall, Ursus (Warsaw), 2024-07-20.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ACommon_hop_on_former_factory_wall%2C_Ursus_%28Warsaw%29%2C_2024-07-20.jpg",
+          "reason": "title shares common",
+          "short": "Radomianin / Common hop on for, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 42,
+      "sample": false,
+      "added": "2026-10-22T20:36:49.986747+00:00"
+    },
+    {
+      "id": "29a25ee0d228",
+      "title_en": "How a floating shade can help coral survive a marine heatwave",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "How a floating shade can help coral survive a marine heatwave. BY THE OPTIMIST DAILY EDITORIAL TEAM When divers installed floating shade structures over 20 colonies of brain coral in the lower Florida Keys in August 2024, the corals underneath began recovering their color. The 20",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/how-a-floating-shade-can-help-coral-survive-a-marine-heatwave/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/29a25ee0d228.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/29a25ee0d228.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-a-floating-shade-can-help-coral-survive-a-marine-heatwave/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-a-floating-shade-can-help-coral-survive-a-marine-heatwave/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "Bounded floating point format.png",
+          "credit": "Softtest123 / Bounded floating point format.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABounded_floating_point_format.png",
+          "reason": "title shares floating",
+          "short": "Softtest123 / Bounded floating, CC BY-SA"
+        },
+        {
+          "title": "FloatingPointPrecisionAugmented.png",
+          "credit": "Joeleoj123 / FloatingPointPrecisionAugmented.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AFloatingPointPrecisionAugmented.png",
+          "reason": "title shares floating",
+          "short": "Joeleoj123 / FloatingPointPrec, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 43,
+      "sample": false,
+      "added": "2026-10-22T20:36:50.161617+00:00"
+    },
+    {
+      "id": "8d448157109c",
+      "title_en": "How to quiet performance anxiety, according to sport psychology",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "How to quiet performance anxiety, according to sport psychology. BY THE OPTIMIST DAILY EDITORIAL TEAM You know that moment. The job interview is starting in 30 seconds, and your brain decides now is the perfect time to replay every mistake you’ve ever made. Or you’re halfway thro",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8d448157109c.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/8d448157109c.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+          "reason": "story image",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
+        },
+        {
+          "title": "The Optimist Daily",
+          "credit": "The Optimist Daily",
+          "license": "article",
+          "page_url": "https://www.optimistdaily.com/2026/10/how-to-quiet-performance-anxiety-according-to-sport-psychology/",
+          "reason": "story image, another region",
+          "short": "The Optimist Daily"
+        }
+      ],
+      "duration_seconds": 41,
+      "sample": false,
+      "added": "2026-10-22T20:36:50.321695+00:00"
+    },
+    {
+      "id": "2c30f8c64291",
+      "title_en": "Good News This Week: October 17, 2026 - Trees, Diapers, & Prosthetic Paws",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Good News This Week: October 17, 2026 - Trees, Diapers, & Prosthetic Paws. Your weekly roundup of the best good news worth celebrating...",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2c30f8c64291.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/2c30f8c64291.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Six weeks old cat (aka).jpg",
+          "credit": "André Karwath aka Aka / Six weeks old cat (aka).jpg",
+          "license": "CC BY-SA 2.5",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASix_weeks_old_cat_%28aka%29.jpg",
+          "reason": "title shares week",
+          "short": "Andr Karwath aka Aka / Six wee, CC BY-SA"
+        },
+        {
+          "title": "African bush elephants (Loxodonta africana) female with six-week-old baby.jpg",
+          "credit": "Charles J. Sharp / African bush elephants (Loxodonta africana) female with six-week-old baby.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAfrican_bush_elephants_%28Loxodonta_africana%29_female_with_six-week-old_baby.jpg",
+          "reason": "title shares week",
+          "short": "Charles J. Sharp / African bus, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:50.488089+00:00"
+    },
+    {
+      "id": "79f530b6860f",
+      "title_en": "New study finds remote work brought teams closer, not further apart",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "New study finds remote work brought teams closer, not further apart. Today, roughly 36% of American workers do at least some of their work from home.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/new-study-remote-work-better-colleagues",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/79f530b6860f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/79f530b6860f.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-remote-work-better-colleagues",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-remote-work-better-colleagues",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Study of the Graduations of Shadows on Spheres 2.jpg",
+          "credit": "Leonardo da Vinci / Study of the Graduations of Shadows on Spheres 2.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AStudy_of_the_Graduations_of_Shadows_on_Spheres_2.jpg",
+          "reason": "title shares study",
+          "short": "Leonardo da Vinci / Study, Public domain"
+        },
+        {
+          "title": "Venus with a Mirror (study).png",
+          "credit": "Titian / Venus with a Mirror (study).png",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AVenus_with_a_Mirror_%28study%29.png",
+          "reason": "title shares study",
+          "short": "Titian / Venus with a Mir, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:50.644356+00:00"
+    },
+    {
+      "id": "bda400888873",
+      "title_en": "70% of North America's mussels are threatened or endangered. Scientists just uncovered fiv",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "70% of North America's mussels are threatened or endangered. Scientists just uncovered five new species in plain sight. The sustainable shellfish cleans the water as it feeds and breathes.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/new-species-mussels-seafood-shellfish-endangered",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bda400888873.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/bda400888873.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-species-mussels-seafood-shellfish-endangered",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-species-mussels-seafood-shellfish-endangered",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "North America satellite orthographic.jpg",
+          "credit": "NASA / North America satellite orthographic.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ANorth_America_satellite_orthographic.jpg",
+          "reason": "title shares north",
+          "short": "NASA / North America sate, Public domain"
+        },
+        {
+          "title": "North america terrain 2003 map.jpg",
+          "credit": "Wikimedia Commons / North america terrain 2003 map.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ANorth_america_terrain_2003_map.jpg",
+          "reason": "title shares north",
+          "short": "Wikimedia Commons / North, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:50.823844+00:00"
+    },
+    {
+      "id": "e96427fac20d",
+      "title_en": "Fishermen are combing the Chesapeake Bay for abandoned 'ghost' traps to save trapped wildl",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Fishermen are combing the Chesapeake Bay for abandoned 'ghost' traps to save trapped wildlife. In the last two year, local watermen of Maryland and Virginia have drudged up roughly 24,000 abandoned fishing traps.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e96427fac20d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e96427fac20d.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Acapulco fishermen.jpg",
+          "credit": "Tomascastelazo / Acapulco fishermen.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAcapulco_fishermen.jpg",
+          "reason": "title shares fishermen",
+          "short": "Tomascastelazo / Acapulco fish, CC BY-SA"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
+          "reason": "story image, another region",
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:50.981104+00:00"
+    },
+    {
+      "id": "cf7d9f2dcc64",
+      "title_en": "Climate activists launch floating gardens in British harbor: 'We built a wildlife corridor",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Climate activists launch floating gardens in British harbor: 'We built a wildlife corridor in a city'. Planet Wild joined WWT in transforming Bristol into a “wetland city.”.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/bristol-harbour-england-floating-wetlands",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/cf7d9f2dcc64.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/cf7d9f2dcc64.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/bristol-harbour-england-floating-wetlands",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/bristol-harbour-england-floating-wetlands",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Climate change models across different scales of resolution.jpg",
+          "credit": "Dan Naylor, Natalie Sadler, Arunima Bhattacharje / Climate change models across different scales of resolution.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AClimate_change_models_across_different_scales_of_resolution.jpg",
+          "reason": "title shares climate",
+          "short": "Dan Naylor, Natalie Sadler, Ar, CC BY-SA"
+        },
+        {
+          "title": "Climate data analysis using tSNE method.png",
+          "credit": "Orlovma / Climate data analysis using tSNE method.png",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AClimate_data_analysis_using_tSNE_method.png",
+          "reason": "title shares climate",
+          "short": "Orlovma / Climate data analysis u, CC BY"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:51.182061+00:00"
+    },
+    {
+      "id": "8b5589d769c1",
+      "title_en": "1,000 people buried their underwear across Switzerland. The unusual study helped researche",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "1,000 people buried their underwear across Switzerland. The unusual study helped researchers gauge soil health. Farmers are “soiling their undies” — and it makes for better crops.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/new-study-bury-underwear-soil-health",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8b5589d769c1.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/8b5589d769c1.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-bury-underwear-soil-health",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-bury-underwear-soil-health",
+          "reason": "story image",
+          "short": "Goodnet / Good Good Good"
+        },
+        {
+          "title": "General Map of Switzerland.jpg",
+          "credit": "Federal Office of Topography / General Map of Switzerland.jpg",
+          "license": "Attribution-Swisstopo",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AGeneral_Map_of_Switzerland.jpg",
+          "reason": "title shares switzerland",
+          "short": "Federal Office of Topography / General M"
+        },
+        {
+          "title": "Goodnet / Good Good Good",
+          "credit": "Goodnet / Good Good Good",
+          "license": "article",
+          "page_url": "https://www.goodgoodgood.co/articles/new-study-bury-underwear-soil-health",
+          "reason": "story image, another region",
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:51.344382+00:00"
+    },
+    {
+      "id": "e1b9f2d4fdbd",
+      "title_en": "APOD: 2026 October 17 – 3D 67P",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "APOD: 2026 October 17 – 3D 67P. APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe ",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e1b9f2d4fdbd.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e1b9f2d4fdbd.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+          "reason": "story image, another region",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+          "reason": "story image, another region",
+          "short": "NASA"
+        }
+      ],
+      "duration_seconds": 39,
+      "sample": false,
+      "added": "2026-10-22T20:36:51.503675+00:00"
+    },
+    {
+      "id": "472f9f8e7d3f",
+      "title_en": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "NASA Names Stephen Cash Marshall Space Flight Center Director. NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. Cash, a veteran NASA engineer and aerospace executive, retu",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/472f9f8e7d3f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/472f9f8e7d3f.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "Coming up with business names.jpg",
+          "credit": "Claireneon / Coming up with business names.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AComing_up_with_business_names.jpg",
+          "reason": "title shares names",
+          "short": "Claireneon / Coming up with bu, CC BY-SA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+          "reason": "story image, another region",
+          "short": "NASA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:51.676323+00:00"
+    },
+    {
+      "id": "3b5dbc13df98",
+      "title_en": "I Am Artemis: Allison Mjoen",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "I Am Artemis: Allison Mjoen. As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/3b5dbc13df98.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/3b5dbc13df98.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 091090.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 091090.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_091090.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 202447.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 202447.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_202447.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 202448.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 202448.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_202448.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:51.846091+00:00"
+    },
+    {
+      "id": "5c0d8f6486aa",
+      "title_en": "NASA’s Hubble Spies Spiral’s Edge",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "NASA’s Hubble Spies Spiral’s Edge. This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5c0d8f6486aa.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5c0d8f6486aa.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+          "credit": "NASA, ESA, and The Hubble Heritage Team STScI/AU / Hubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHubble2005-01-barred-spiral-galaxy-NGC1300.jpg",
+          "reason": "title shares hubble",
+          "short": "NASA, ESA, and The Hubble, Public domain"
+        },
+        {
+          "title": "Hubble 2009 close-up.jpg",
+          "credit": "NASA / Hubble 2009 close-up.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AHubble_2009_close-up.jpg",
+          "reason": "title shares hubble",
+          "short": "NASA / Hubble 2009 close, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:52.011632+00:00"
+    },
+    {
+      "id": "1f13d15fe2d8",
+      "title_en": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission. NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of explor",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/1f13d15fe2d8.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/1f13d15fe2d8.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+          "reason": "story image",
+          "short": "NASA"
+        },
+        {
+          "title": "UNLOCK 2022 Jury meeting.png",
+          "credit": "Kannika Thaimai (WMDE) / UNLOCK 2022 Jury meeting.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AUNLOCK_2022_Jury_meeting.png",
+          "reason": "title shares unlock",
+          "short": "Kannika Thaimai WMDE / UNLOCK, CC BY-SA"
+        },
+        {
+          "title": "NASA",
+          "credit": "NASA",
+          "license": "article",
+          "page_url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+          "reason": "story image, another region",
+          "short": "NASA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:52.182708+00:00"
+    },
+    {
+      "id": "c31b49b138d7",
+      "title_en": "Tax Tips for Property Buyers: What Your Accountant Wants You to Know",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Tax Tips for Property Buyers: What Your Accountant Wants You to Know. Buying a property isn’t just about securing finance and finding the right home—it also comes with tax implications that can affect you both immediately and in the long run. Many buyers focus on deposits and loa",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "Inhabitat",
+      "source_url": "https://inhabitat.com/tax-tips-for-property-buyers-what-your-accountant-wants-you-to-know",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/c31b49b138d7.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/c31b49b138d7.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 42,
+      "sample": false,
+      "added": "2026-10-22T20:36:52.335974+00:00"
+    },
+    {
+      "id": "c38bfa02d2db",
+      "title_en": "How to Manage Subcontractors More Efficiently in Complex Builds",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "How to Manage Subcontractors More Efficiently in Complex Builds. Managing subcontractors is often one of the trickiest parts of a build. As projects grow more complex, with overlapping tasks, tight timelines and increasing client expectations, keeping trades coordinated and on sc",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "Inhabitat",
+      "source_url": "https://inhabitat.com/how-to-manage-subcontractors-more-efficiently-in-complex-builds",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/c38bfa02d2db.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/c38bfa02d2db.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "Business-game-management-AH.png",
+          "credit": "Գայանե Պետրոսյաաան / Business-game-management-AH.png",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABusiness-game-management-AH.png",
+          "reason": "title shares manage",
+          "short": "Business-game-management-AH.pn, CC BY-SA"
+        },
+        {
+          "title": "Fix dessin Stress management.jpg",
+          "credit": "Fix1809 / Fix dessin Stress management.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AFix_dessin_Stress_management.jpg",
+          "reason": "title shares manage",
+          "short": "Fix1809 / Fix dessin Stress ma, CC BY-SA"
+        },
+        {
+          "title": "Manage JPG00.jpg",
+          "credit": "Jean-Pol GRANDMONT / Manage JPG00.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AManage_JPG00.jpg",
+          "reason": "title shares manage",
+          "short": "Jean-Pol GRANDMONT / Manage JP, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:52.490298+00:00"
+    },
+    {
+      "id": "bc9559da5a17",
+      "title_en": "Artemis II Heat Shield After Splashdown",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Artemis II Heat Shield After Splashdown. Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/afs-8-101-1320/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bc9559da5a17.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/bc9559da5a17.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/afs-8-101-1320/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/afs-8-101-1320/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 091090.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 091090.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_091090.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 202447.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 202447.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_202447.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:52.643710+00:00"
+    },
+    {
+      "id": "d5313957a565",
+      "title_en": "Chandra Finds Possible Origin of 'Treble Clef' Waves",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Chandra Finds Possible Origin of 'Treble Clef' Waves. Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/shape-3601-3601/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d5313957a565.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d5313957a565.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/shape-3601-3601/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/shape-3601-3601/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "Chandra graha.JPG",
+          "credit": "E. A. Rodrigues / Chandra graha.JPG",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AChandra_graha.JPG",
+          "reason": "title shares chandra",
+          "short": "E. A. Rodrigues / Chandra, Public domain"
+        },
+        {
+          "title": "ChandraRohini.jpg",
+          "credit": "SurendrapuriNavagraha.jpg : Arkrishna derivative / ChandraRohini.jpg",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AChandraRohini.jpg",
+          "reason": "title shares chandra",
+          "short": "SurendrapuriNavagraha.jpg Arkr, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:52.805664+00:00"
+    },
+    {
+      "id": "6f4a1fa6b15a",
+      "title_en": "NASA’s SpaceX CRS-35 Launch Jellyfish",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "NASA’s SpaceX CRS-35 Launch Jellyfish. The exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft are seen illuminated by sunlight against the predawn sky during the launch of NASA’s SpaceX CRS-35 mission, Tuesday, Oct. 13, 2026, as seen from Cocoa Be",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6f4a1fa6b15a.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6f4a1fa6b15a.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "Launch of Shenzhou 13.jpg",
+          "credit": "Created by Forrest XYC , photoshopped by Ib / Launch of Shenzhou 13.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ALaunch_of_Shenzhou_13.jpg",
+          "reason": "title shares launch",
+          "short": "Created by Forrest XYC , photo, CC BY-SA"
+        },
+        {
+          "title": "STS120LaunchHiRes-edit1.jpg",
+          "credit": "NASA; edited by jjron (tilt corrected) / STS120LaunchHiRes-edit1.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASTS120LaunchHiRes-edit1.jpg",
+          "reason": "title shares launch",
+          "short": "NASA edited by jjron tilt, Public domain"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/",
+          "reason": "story image, another region",
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:52.962820+00:00"
+    },
+    {
+      "id": "5f66990b2ef0",
+      "title_en": "Transporter-18 SmallSats Encapsulation",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/afs-8-101-1315/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5f66990b2ef0.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5f66990b2ef0.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/afs-8-101-1315/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/afs-8-101-1315/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "VW Transporter, IAA 2024, Hanover (P1200130).jpg",
+          "credit": "Matti Blume / VW Transporter, IAA 2024, Hanover (P1200130).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AVW_Transporter%2C_IAA_2024%2C_Hanover_%28P1200130%29.jpg",
+          "reason": "title shares transporter",
+          "short": "Matti Blume / VW Transporter, CC BY-SA"
+        },
+        {
+          "title": "McCoy, Kirk and Spock in the transporter room.png",
+          "credit": "NBC Television / McCoy, Kirk and Spock in the transporter room.png",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AMcCoy%2C_Kirk_and_Spock_in_the_transporter_room.png",
+          "reason": "title shares transporter",
+          "short": "NBC Television / McCoy, K, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:53.122440+00:00"
+    },
+    {
+      "id": "4cf8b354f299",
+      "title_en": "Crew-12 Returns to Earth",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Crew-12 Returns to Earth. The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Lo",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4cf8b354f299.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/4cf8b354f299.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "The Earth seen from Apollo 17.jpg",
+          "credit": "NASA/Apollo 17 crew; taken by either Harrison Sc / The Earth seen from Apollo 17.jpg",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThe_Earth_seen_from_Apollo_17.jpg",
+          "reason": "description shares crew",
+          "short": "NASA/Apollo 17 crew taken, Public domain"
+        },
+        {
+          "title": "The whole crew of Valachian folklore in Moravia.jpg",
+          "credit": "JaneHf / The whole crew of Valachian folklore in Moravia.jpg",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AThe_whole_crew_of_Valachian_folklore_in_Moravia.jpg",
+          "reason": "title shares crew",
+          "short": "JaneHf / The whole crew o, Public domain"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:53.288377+00:00"
+    },
+    {
+      "id": "9646943c9e08",
+      "title_en": "Artemis II Crew Moon Photo Annotations",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Artemis II Crew Moon Photo Annotations. A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9646943c9e08.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/9646943c9e08.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 091090.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 091090.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_091090.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        },
+        {
+          "title": "Temple of Artemis in Epidauros, 202447.jpg",
+          "credit": "Zde / Temple of Artemis in Epidauros, 202447.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Artemis_in_Epidauros%2C_202447.jpg",
+          "reason": "title shares artemis",
+          "short": "Zde / Temple of Artemis in Epi, CC BY-SA"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:53.449525+00:00"
+    },
+    {
+      "id": "9598ef10e2e4",
+      "title_en": "NASA Astronaut Christina Koch at Eagles vs. Rams",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "NASA Astronaut Christina Koch at Eagles vs. NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Fi",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9598ef10e2e4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/9598ef10e2e4.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+          "reason": "story image",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+          "reason": "story image, another region",
+          "short": "NASA Image of the Day"
+        },
+        {
+          "title": "NASA Image of the Day",
+          "credit": "NASA Image of the Day",
+          "license": "article",
+          "page_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+          "reason": "story image, another region",
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:53.610520+00:00"
+    },
+    {
+      "id": "5ebd7daa9ef5",
+      "title_en": "Pix of the Day, 19 October, 2026 - Across the world",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Pix of the Day, 19 October, 2026 - Across the world. Pix of the Day, 19 October, 2026 - Across the world.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Africanews",
+      "source_url": "http://www.africanews.com/2026/10/19/pix-of-the-day-19-october-2026-across-the-world/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "africa",
+      "in_africa": true,
+      "scope": "africa",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5ebd7daa9ef5.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5ebd7daa9ef5.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:53.770581+00:00"
+    },
+    {
+      "id": "b808f432b168",
+      "title_en": "France's unrest: Why are immigrants being blamed for the violence?",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "France's unrest: Why are immigrants being blamed for the violence?. US President Donald Trump has declared that France is \"burning\", blaming immigration for what he described as the country's decline.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Africanews",
+      "source_url": "http://www.africanews.com/2026/10/19/frances-unrest-why-are-immigrants-being-blamed-for-the-violence/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "africa",
+      "in_africa": true,
+      "scope": "africa",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b808f432b168.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/b808f432b168.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:53.938722+00:00"
+    },
+    {
+      "id": "a5313736d029",
+      "title_en": "Fridge-free vaccines could reach more people, but there are still practical challenges in ",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Fridge-free vaccines could reach more people, but there are still practical challenges in African settings. The true breakthrough will be a technology that enables health systems to protect more people, especially those whom current services repeatedly fail to reach.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Conversation Africa",
+      "source_url": "https://theconversation.com/fridge-free-vaccines-could-reach-more-people-but-there-are-still-practical-challenges-in-african-settings-293280",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "africa",
+      "in_africa": true,
+      "scope": "africa",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/a5313736d029.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/a5313736d029.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:54.108562+00:00"
+    },
+    {
+      "id": "89bf550caa38",
+      "title_en": "Une nouvelle étude met en lumière les dangers cachés des morsures de serpent",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Une nouvelle étude met en lumière les dangers cachés des morsures de serpent. Selon des études, jusqu’à 7 millions de personnes pourraient être victimes d’une morsure de serpent chaque année.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Conversation Africa",
+      "source_url": "https://theconversation.com/une-nouvelle-etude-met-en-lumiere-les-dangers-caches-des-morsures-de-serpent-294209",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "africa",
+      "in_africa": true,
+      "scope": "africa",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/89bf550caa38.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/89bf550caa38.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:54.264254+00:00"
+    },
+    {
+      "id": "89d44555e56e",
+      "title_en": "A Dutch startup is making concrete that grows its own moss",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "A Dutch startup is making concrete that grows its own moss. BY THE OPTIMIST DAILY EDITORIAL TEAM Most building materials are designed to resist the elements, to stay sealed and unchanged for as long as possible. Respyre, a Dutch startup, is working from the opposite premise. The ",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/a-dutch-startup-is-making-concrete-that-grows-its-own-moss/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/89d44555e56e.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/89d44555e56e.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 42,
+      "sample": false,
+      "added": "2026-10-22T20:36:54.424370+00:00"
+    },
+    {
+      "id": "89af5289ce28",
+      "title_en": "The surprising history of pumpkins: from ancient staple to autumn icon",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "The surprising history of pumpkins: from ancient staple to autumn icon. BY THE OPTIMIST DAILY EDITORIAL TEAM Pumpkin spice lattes, jack-o’-lanterns, and Thanksgiving pies: pumpkins are the unofficial mascots of fall. But behind their seasonal charm lies a deeper, more complicated",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/the-surprising-history-of-pumpkins-from-ancient-staple-to-autumn-icon/",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/89af5289ce28.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/89af5289ce28.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 45,
+      "sample": false,
+      "added": "2026-10-22T20:36:54.585831+00:00"
+    },
+    {
+      "id": "6ba94cad4c44",
+      "title_en": "Wildlife vets give rare hornbill 3D-printed beak in world-first: 'It has never been possib",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Wildlife vets give rare hornbill 3D-printed beak in world-first: 'It has never been possible before'. Injured birds have seen success with similar prosthetics in the past, but this marks the first replacement of a bird's upper and lower beaks.",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/endangered-species-world-first-prosthetic-beak",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6ba94cad4c44.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6ba94cad4c44.mp4",
+      "scene": "well",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "good_news",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:54.735972+00:00"
+    },
+    {
+      "id": "27c6cfc25cfc",
+      "title_en": "The driveway divide: Why parking for electric vehicles is such a big barrier",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "The driveway divide: Why parking for electric vehicles is such a big barrier. Most people who have an electric car have access to a driveway or private parking. In England, 90% of EV owners can park easily and charge theirs from home. But roughly 40% of U.K. households don't have",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "Tech Xplore",
+      "source_url": "https://techxplore.com/news/2026-10-driveway-electric-vehicles-big-barrier.html",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/27c6cfc25cfc.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/27c6cfc25cfc.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:54.899476+00:00"
+    },
+    {
+      "id": "474f71d9abfb",
+      "title_en": "Secret trigger words could make AI-powered robots dangerous",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_en": "Secret trigger words could make AI-powered robots dangerous. Large language models (LLMs) like OpenAI's ChatGPT, Anthropic's Claude and Google Gemini are increasingly being used to help robots perform tasks, but what if LLMs could be exploited to turn helpful robots into harmful ",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።",
+      "category": "inventions",
+      "source_name": "Tech Xplore",
+      "source_url": "https://techxplore.com/news/2026-10-secret-trigger-words-ai-powered.html",
+      "source_note_en": "Only good things. Always sourced.",
+      "source_note_am": "መልካም ነገር ብቻ። ምንጩ ተጠቅሷል።",
+      "country_codes": [],
+      "region": "world",
+      "in_africa": false,
+      "scope": "world",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/474f71d9abfb.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/474f71d9abfb.mp4",
+      "scene": "stars",
+      "emotion": "hope",
+      "arousal": "low",
+      "topic_tags": [
+        "inventions",
+        "news"
+      ],
+      "positivity_score": 8,
+      "not_financial_advice": false,
+      "has_burned_in_overlay": false,
+      "footage_credits": [],
+      "duration_seconds": 36,
+      "sample": false,
+      "added": "2026-10-22T20:36:55.063606+00:00"
     }
   ]
 }
