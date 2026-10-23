@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:44:55.472685+00:00",
+  "updated": "2026-10-23T20:54:21.351741+00:00",
   "clips": [
     {
       "id": "3bf2aef00178",
@@ -3130,7 +3130,40 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
+      "footage_credits": [
+        {
+          "title": "The Conversation Africa",
+          "credit": "The Conversation Africa",
+          "license": "article",
+          "page_url": "https://theconversation.com/when-tax-officials-visit-why-softer-tax-outreach-can-build-trust-in-some-places-and-erode-it-in-others-292805",
+          "reason": "story image",
+          "short": "The Conversation Africa"
+        },
+        {
+          "title": "Khomeini's meeting with the Government officials - 26 August 1984.webm",
+          "credit": "emam.com / Khomeini's meeting with the Government officials - 26 August 1984.webm",
+          "license": "CC BY 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AKhomeini%27s_meeting_with_the_Government_officials_-_26_August_1984.webm",
+          "reason": "title shares officials",
+          "short": "emam.com / Khomeini's meeting wit, CC BY"
+        },
+        {
+          "title": "South Africa Landscape HDR.jpg",
+          "credit": "Prosthetic Head / South Africa Landscape HDR.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASouth_Africa_Landscape_HDR.jpg",
+          "reason": "place or landscape in Africa",
+          "short": "Prosthetic Head / South Africa, CC BY-SA"
+        },
+        {
+          "title": "African hawk-eagle (Aquila spilogaster).jpg",
+          "credit": "Charles J. Sharp / African hawk-eagle (Aquila spilogaster).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAfrican_hawk-eagle_%28Aquila_spilogaster%29.jpg",
+          "reason": "place or landscape in Africa",
+          "short": "Charles J. Sharp / African haw, CC BY-SA"
+        }
+      ],
       "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-22T20:34:55.285674+00:00"
@@ -6774,7 +6807,40 @@
       "positivity_score": 9,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
+      "footage_credits": [
+        {
+          "title": "TechCabal",
+          "credit": "TechCabal",
+          "license": "article",
+          "page_url": "https://techcabal.com/2026/10/21/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-a-mnt-of-fresh-air/",
+          "reason": "story image",
+          "short": "TechCabal"
+        },
+        {
+          "title": "Ghana 2014 (15171995899).jpg",
+          "credit": "Charlie from United Kingdom / Ghana 2014 (15171995899).jpg",
+          "license": "CC BY 2.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AGhana_2014_%2815171995899%29.jpg",
+          "reason": "description shares daily",
+          "short": "Charlie from United Kingdom / Gha, CC BY"
+        },
+        {
+          "title": "TechCabal",
+          "credit": "TechCabal",
+          "license": "article",
+          "page_url": "https://techcabal.com/2026/10/21/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-a-mnt-of-fresh-air/",
+          "reason": "story image, another region",
+          "short": "TechCabal"
+        },
+        {
+          "title": "TechCabal",
+          "credit": "TechCabal",
+          "license": "article",
+          "page_url": "https://techcabal.com/2026/10/21/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-a-mnt-of-fresh-air/",
+          "reason": "story image, another region",
+          "short": "TechCabal"
+        }
+      ],
       "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-22T20:35:04.503505+00:00"
@@ -11407,7 +11473,40 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
+      "footage_credits": [
+        {
+          "title": "Tech Xplore",
+          "credit": "Tech Xplore",
+          "license": "article",
+          "page_url": "https://techxplore.com/news/2026-10-brain-semiconductor-chips-smarter-greener.html",
+          "reason": "story image",
+          "short": "Tech Xplore"
+        },
+        {
+          "title": "Josm-resize-and-rotate-building.ogv",
+          "credit": "Qeef / Josm-resize-and-rotate-building.ogv",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AJosm-resize-and-rotate-building.ogv",
+          "reason": "title shares building",
+          "short": "Qeef / Josm-resize-and-rotate, CC BY-SA"
+        },
+        {
+          "title": "Tech Xplore",
+          "credit": "Tech Xplore",
+          "license": "article",
+          "page_url": "https://techxplore.com/news/2026-10-brain-semiconductor-chips-smarter-greener.html",
+          "reason": "story image, another region",
+          "short": "Tech Xplore"
+        },
+        {
+          "title": "Tech Xplore",
+          "credit": "Tech Xplore",
+          "license": "article",
+          "page_url": "https://techxplore.com/news/2026-10-brain-semiconductor-chips-smarter-greener.html",
+          "reason": "story image, another region",
+          "short": "Tech Xplore"
+        }
+      ],
       "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-22T20:35:16.360634+00:00"
@@ -17887,7 +17986,16 @@
       "positivity_score": 9,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
+      "footage_credits": [
+        {
+          "title": "US Navy airstrikes against ISIL targets in Somalia (February 1, 2025).webm",
+          "credit": "USN / US Navy airstrikes against ISIL targets in Somalia (February 1, 2025).webm",
+          "license": "Public domain",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AUS_Navy_airstrikes_against_ISIL_targets_in_Somalia_%28February_1%2C_2025%29.webm",
+          "reason": "title shares targets",
+          "short": "USN / US Navy airstrikes, Public domain"
+        }
+      ],
       "duration_seconds": 42,
       "sample": false,
       "added": "2026-10-23T01:55:42.335547+00:00"
@@ -19255,7 +19363,32 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
+      "footage_credits": [
+        {
+          "title": "Gaurotes virginea, Burgwald, Hesse, Germany - 20100624.ogv",
+          "credit": "Pristurus / Gaurotes virginea, Burgwald, Hesse, Germany - 20100624.ogv",
+          "license": "CC BY-SA 3.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AGaurotes_virginea%2C_Burgwald%2C_Hesse%2C_Germany_-_20100624.ogv",
+          "reason": "title shares germany",
+          "short": "Pristurus / Gaurotes virginea, CC BY-SA"
+        },
+        {
+          "title": "South Africa Landscape HDR.jpg",
+          "credit": "Prosthetic Head / South Africa Landscape HDR.jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ASouth_Africa_Landscape_HDR.jpg",
+          "reason": "place or landscape in Africa",
+          "short": "Prosthetic Head / South Africa, CC BY-SA"
+        },
+        {
+          "title": "African hawk-eagle (Aquila spilogaster).jpg",
+          "credit": "Charles J. Sharp / African hawk-eagle (Aquila spilogaster).jpg",
+          "license": "CC BY-SA 4.0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3AAfrican_hawk-eagle_%28Aquila_spilogaster%29.jpg",
+          "reason": "place or landscape in Africa",
+          "short": "Charles J. Sharp / African haw, CC BY-SA"
+        }
+      ],
       "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-23T01:55:46.718835+00:00"
@@ -20840,7 +20973,40 @@
       "positivity_score": 8,
       "not_financial_advice": false,
       "has_burned_in_overlay": false,
-      "footage_credits": [],
+      "footage_credits": [
+        {
+          "title": "ScienceDaily",
+          "credit": "ScienceDaily",
+          "license": "article",
+          "page_url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+          "reason": "story image",
+          "short": "ScienceDaily"
+        },
+        {
+          "title": "Birds chirping in Dehradun.webm",
+          "credit": "Garimabhandari007 / Birds chirping in Dehradun.webm",
+          "license": "CC0",
+          "page_url": "https://commons.wikimedia.org/wiki/File%3ABirds_chirping_in_Dehradun.webm",
+          "reason": "title shares birds",
+          "short": "Garimabhandari007 / Birds, Public domain"
+        },
+        {
+          "title": "ScienceDaily",
+          "credit": "ScienceDaily",
+          "license": "article",
+          "page_url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+          "reason": "story image, another region",
+          "short": "ScienceDaily"
+        },
+        {
+          "title": "ScienceDaily",
+          "credit": "ScienceDaily",
+          "license": "article",
+          "page_url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+          "reason": "story image, another region",
+          "short": "ScienceDaily"
+        }
+      ],
       "duration_seconds": 36,
       "sample": false,
       "added": "2026-10-23T01:55:51.592819+00:00"
