@@ -1,4 +1,2271 @@
 {
-  "updated": "2026-10-23T21:45:07.898756+00:00",
-  "clips": []
+  "updated": "0.4.0",
+  "clips": [
+    {
+      "id": "cf7d9f2dcc64",
+      "title_en": "Climate activists launch floating gardens in British harbor: 'We built a wildlife corridor in a city'",
+      "caption_en": "Planet Wild joined WWT in transforming Bristol into a “wetland city.”",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/bristol-harbour-england-floating-wetlands",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/cf7d9f2dcc64.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/cf7d9f2dcc64.mp4",
+      "duration_seconds": 12,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-23T23:20:20.901466+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "89d44555e56e",
+      "title_en": "A Dutch startup is making concrete that grows its own moss",
+      "caption_en": "BY THE OPTIMIST DAILY EDITORIAL TEAM Most building materials are designed to resist the elements, to stay sealed and unchanged for as long as possible. Respyre, a Dutch startup, is working from the opposite premise. The company has developed Mosscrete, a bioreceptive concrete coa",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/a-dutch-startup-is-making-concrete-that-grows-its-own-moss/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/89d44555e56e.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/89d44555e56e.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "The Optimist Daily"
+        }
+      ],
+      "added": "2026-10-23T23:20:18.502669+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "ee8916f58ccb",
+      "title_en": "Ethiopian Capital Market Authority leaves Its Green Legacy",
+      "caption_en": "Under the national national slogan, “Together, Let Us Plant Hope,” the management and staff of the Ethiopian Capital Market Authority (ECMA) proudly participated in the historic Green Legacy Initiative. The tree-planting campaign was further enriched by the enthusiastic participa",
+      "category": "money",
+      "source_name": "Ethiopian Capital Market Authority",
+      "source_url": "https://ecma.gov.et/2026/08/ecmas-second-summer-camp-program-continues/",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ee8916f58ccb.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/ee8916f58ccb.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "money"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Ethiopian Capital Market Authority"
+        }
+      ],
+      "added": "2026-10-23T23:19:51.564737+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "d438c430e9ac",
+      "title_en": "IOM, AU and Japanese Firms Train Returned Migrants and Ethiopian Youth for AfCFTA Opportunities",
+      "caption_en": "IOM and partners launched skills training for Ethiopian youth and returnees, linking talent to AfCFTA opportunities and jobs.",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/322552-iom-au-and-japanese-firms-train-returned-migrants-and-ethiopian-youth-afcfta-opportunities",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d438c430e9ac.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d438c430e9ac.mp4",
+      "duration_seconds": 17,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "UN Ethiopia"
+        }
+      ],
+      "added": "2026-10-23T23:19:46.706352+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "be07a364da46",
+      "title_en": "Henry Parkes",
+      "caption_en": "On this day in 1889: Sir Henry Parkes, Premier of the Colony of New South Wales, gave a speech in which he called for the federation of the six Australian colonies.",
+      "category": "facts",
+      "source_name": "Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Henry_Parkes",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/be07a364da46.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/be07a364da46.mp4",
+      "duration_seconds": 13,
+      "topic_tags": [
+        "facts"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Wikipedia"
+        }
+      ],
+      "added": "2026-10-23T23:19:43.567792+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "32b929170b57",
+      "title_en": "Spend first, measure later: Inside African banking’s AI boom",
+      "caption_en": "African banks are scaling AI, but proving its financial returns remains difficult.",
+      "category": "inventions",
+      "source_name": "TechCabal",
+      "source_url": "https://techcabal.com/2026/10/22/are-african-banks-seeing-ai-returns/",
+      "country_codes": [],
+      "scope": "africa",
+      "region": "africa",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/32b929170b57.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/32b929170b57.mp4",
+      "duration_seconds": 11,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "TechCabal"
+        }
+      ],
+      "added": "2026-10-23T23:19:41.531543+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "64e55f859a05",
+      "title_en": "Bat mothers’ hearts beat faster when they hear their pups",
+      "caption_en": "They can even pick out their offspring’s distress cries amongst thousands of bats.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/environment/bat-mother-heart-beat-pups/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/64e55f859a05.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/64e55f859a05.mp4",
+      "duration_seconds": 9,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-23T23:19:36.457883+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "8b7aa38134a2",
+      "title_en": "These 15 Photos Perfectly Capture the Beautiful Red Rocks of Sedona, Arizona",
+      "caption_en": "The images from the Smithsonian Magazine Photo Contest archives will have you packing your bags for the mountains of the American Southwest",
+      "category": "inventions",
+      "source_name": "Smithsonian Magazine",
+      "source_url": "https://www.smithsonianmag.com/travel/these-15-photos-perfectly-capture-the-beautiful-red-rocks-of-sedona-arizona-180989728/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8b7aa38134a2.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/8b7aa38134a2.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Smithsonian Magazine"
+        }
+      ],
+      "added": "2026-10-23T23:19:34.663755+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "5754aea26ad5",
+      "title_en": "One Habit May Delay Ovarian Aging – And a Drug Could Mimic Its Effects",
+      "caption_en": "\"A very exciting addition to the field.\" ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "category": "inventions",
+      "source_name": "ScienceAlert",
+      "source_url": "https://www.sciencealert.com/one-habit-may-delay-ovarian-aging-and-a-drug-could-mimic-its-effects",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5754aea26ad5.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5754aea26ad5.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ScienceAlert"
+        }
+      ],
+      "added": "2026-10-23T23:19:32.517927+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "6a3bc9bc029f",
+      "title_en": "Making room to explore",
+      "caption_en": "Professor Fan Wang is recognized as “Committed to Caring” for creating a supportive environment for ambitious research and student well-being.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/fan-wang-making-room-to-explore-1021",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6a3bc9bc029f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6a3bc9bc029f.mp4",
+      "duration_seconds": 11,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-23T23:19:28.522362+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "a01d52a1b0dd",
+      "title_en": "BMW's smallest sports bike breaks cover",
+      "caption_en": "Small motorcycles equal big business, and it seems like motorcycle companies are finally acknowledging that. The latest move comes from BMW Motorrad, which has now launched a third model on its new 450cc platform in the form of the F 450 RR sports bike. Continue Reading Category:",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/motorcycles/bmw-f450rr/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/a01d52a1b0dd.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/a01d52a1b0dd.mp4",
+      "duration_seconds": 32,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-23T23:19:26.604200+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "718e414f27eb",
+      "title_en": "Mars’s oddest cloud may be even odder than we thought",
+      "caption_en": "Scientists using the European Space Agency's Mars Express , in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
+      "category": "inventions",
+      "source_name": "ESA Space Science",
+      "source_url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/718e414f27eb.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/718e414f27eb.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ESA Space Science"
+        }
+      ],
+      "added": "2026-10-23T23:19:17.669797+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "d5313957a565",
+      "title_en": "Chandra Finds Possible Origin of 'Treble Clef' Waves",
+      "caption_en": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol.",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/shape-3601-3601/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d5313957a565.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d5313957a565.mp4",
+      "duration_seconds": 17,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-23T23:19:14.305474+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "265cff84c2fe",
+      "title_en": "Googly-eyed buoys and kites help keep seabirds out of fishing nets, study finds",
+      "caption_en": "Off the coast of Cornwall in southwest England, a pole rises from a buoy with a pair of big eyes on top. The head spins, creating what researchers call an “animated eye effect.” Its job is to scare away seabirds away before they dive into the fishing net below. On other nets, a k",
+      "category": "good_news",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/2026/10/googly-eyed-buoys-and-kites-help-keep-seabirds-out-of-fishing-nets-study-finds/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/265cff84c2fe.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/265cff84c2fe.mp4",
+      "duration_seconds": 23,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Mongabay"
+        }
+      ],
+      "added": "2026-10-23T23:19:11.222587+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "6c4aa6dc91da",
+      "title_en": "In Michigan, 3 tribes are on a mission to bring back a fish that disappeared 100 years ago",
+      "caption_en": "Tribal nations across the country are trying to restore culturally important species, like the Arctic grayling, while grappling with climate change.",
+      "category": "good_news",
+      "source_name": "Grist",
+      "source_url": "https://grist.org/indigenous/arctic-grayling-michigan-tribes-reintroduction/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6c4aa6dc91da.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6c4aa6dc91da.mp4",
+      "duration_seconds": 15,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Grist"
+        }
+      ],
+      "added": "2026-10-23T23:19:07.848845+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "e96427fac20d",
+      "title_en": "Fishermen are combing the Chesapeake Bay for abandoned 'ghost' traps to save trapped wildlife",
+      "caption_en": "In the last two year, local watermen of Maryland and Virginia have drudged up roughly 24,000 abandoned fishing traps.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/chesapeake-bay-ghost-traps-wildlife-rescue",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e96427fac20d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e96427fac20d.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-23T23:19:05.680332+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "dc8bafdb1e02",
+      "title_en": "World’s tallest wind turbine reaches 1,197 feet in Germany",
+      "caption_en": "BY THE OPTIMIST DAILY EDITORIAL TEAM The world’s tallest wind turbine just reached full height in Germany. GICON‘s pilot turbine in Schipkau, eastern Germany, now stands 365 meters (1,197 feet) tall from base to blade tip, making it Germany’s second-tallest structure after Berlin",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/worlds-tallest-wind-turbine-reaches-1197-feet-in-germany/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/dc8bafdb1e02.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/dc8bafdb1e02.mp4",
+      "duration_seconds": 30,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "The Optimist Daily"
+        }
+      ],
+      "added": "2026-10-23T23:19:03.560249+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "7caff10bd8da",
+      "title_en": "Bangladesh: UNICEF chief calls for an end to child marriage",
+      "caption_en": "At 14, Bushra faced being married off – until community leaders at a UNICEF-supported child protection hub worked with her father to prevent her from being given away against her will.",
+      "category": "good_news",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168632",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/7caff10bd8da.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/7caff10bd8da.mp4",
+      "duration_seconds": 16,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "UN News"
+        }
+      ],
+      "added": "2026-10-23T23:18:58.583910+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "bf60da82f58f",
+      "title_en": "ECMA Celebrates 2026 Summer Camp and Investor Education Participants",
+      "caption_en": "The Ethiopian Capital Market Authority (ECMA) held a closing ceremony for participants of the 2026 Summer Camp and Online Investor Education Program, marking the completion of two important learning initiatives. Over two weeks, Summer Camp participants explored key areas of the c",
+      "category": "money",
+      "source_name": "Ethiopian Capital Market Authority",
+      "source_url": "https://ecma.gov.et/2026/08/ecma-celebrates-2026-summer-camp-and-investor-education-participants/",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bf60da82f58f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/bf60da82f58f.mp4",
+      "duration_seconds": 21,
+      "topic_tags": [
+        "money"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Ethiopian Capital Market Authority"
+        }
+      ],
+      "added": "2026-10-23T23:18:55.469508+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "5d02bf056714",
+      "title_en": "Lalibela at the Heart of Cultural Diplomacy and World Heritage Conservation",
+      "caption_en": "Strengthening international partnerships to safeguard Ethiopia’s iconic Rock-Hewn Churches and support sustainable development for local communities",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/322553-lalibela-heart-cultural-diplomacy-and-world-heritage-conservation",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5d02bf056714.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5d02bf056714.mp4",
+      "duration_seconds": 15,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "UN Ethiopia"
+        }
+      ],
+      "added": "2026-10-23T23:18:51.220301+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "585ee9fe2d78",
+      "title_en": "Wall Street crash of 1929",
+      "caption_en": "On this day in 1929: On \"Black Thursday\", the New York Stock Exchange lost 11 percent of its value at the opening bell on very heavy trading, marking the beginning of the Great Depression.",
+      "category": "facts",
+      "source_name": "Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/585ee9fe2d78.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/585ee9fe2d78.mp4",
+      "duration_seconds": 15,
+      "topic_tags": [
+        "facts"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Wikipedia"
+        }
+      ],
+      "added": "2026-10-23T23:18:47.614104+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "0d77cc35b59f",
+      "title_en": "A new live tech show wants to change African tech coverage",
+      "caption_en": "Fatu Ogwuche is launching a weekly live technology show, betting that African tech audiences want to hear directly from the founders and operators.",
+      "category": "inventions",
+      "source_name": "TechCabal",
+      "source_url": "https://techcabal.com/2026/10/22/fatu-ogwuche-bets-live-video-africa-tech/",
+      "country_codes": [],
+      "scope": "africa",
+      "region": "africa",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0d77cc35b59f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/0d77cc35b59f.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "TechCabal"
+        }
+      ],
+      "added": "2026-10-23T23:18:44.601767+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "24eb8880a79d",
+      "title_en": "These Big, Fierce Birds Found Love in Australia—and Laid the First Southern Cassowary Eggs at the Adelaide Zoo in 34 Years",
+      "caption_en": "Zoo staffers don’t know whether the bright green eggs are viable and will ultimately hatch into chicks. However, the eggs themselves are a major win, because breeding the birds in captivity is tricky",
+      "category": "inventions",
+      "source_name": "Smithsonian Magazine",
+      "source_url": "https://www.smithsonianmag.com/smart-news/conservationists-in-australia-celebrate-the-arrival-of-two-southern-cassowary-eggsthe-first-at-adelaide-zoo-in-34-years-180989739/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/24eb8880a79d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/24eb8880a79d.mp4",
+      "duration_seconds": 21,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Smithsonian Magazine"
+        }
+      ],
+      "added": "2026-10-23T23:18:37.612143+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "fe02554afed9",
+      "title_en": "Mole Rats Get Stressed When Earth's Magnetic Field Vanishes, Study Suggests",
+      "caption_en": "The dark side of magnetic attraction. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "category": "inventions",
+      "source_name": "ScienceAlert",
+      "source_url": "https://www.sciencealert.com/mole-rats-get-stressed-when-earths-magnetic-field-vanishes-study-suggests",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/fe02554afed9.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/fe02554afed9.mp4",
+      "duration_seconds": 19,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ScienceAlert"
+        }
+      ],
+      "added": "2026-10-23T23:18:33.713777+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "d1fafea005e4",
+      "title_en": "Wearable astro patch aims to deliver eyedrops in zero gravity",
+      "caption_en": "It's already notoriously difficult trying to get eyedrops into your own eye – now, try to imagine doing so in the zero-gravity environment of outer space. That's why scientists have designed a facial patch that does the job … and it could also be utilized right here on Earth. Con",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/space-systems/facial-patch-zero-gravity-eyedrops/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d1fafea005e4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d1fafea005e4.mp4",
+      "duration_seconds": 22,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-23T23:18:30.826682+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "9216e6cae5d0",
+      "title_en": "Mars moon lander set to launch on 19 October",
+      "caption_en": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and br",
+      "category": "inventions",
+      "source_name": "ESA Space Science",
+      "source_url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9216e6cae5d0.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/9216e6cae5d0.mp4",
+      "duration_seconds": 32,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ESA Space Science"
+        }
+      ],
+      "added": "2026-10-23T23:18:25.411765+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "bc9559da5a17",
+      "title_en": "Artemis II Heat Shield After Splashdown",
+      "caption_en": "Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/afs-8-101-1320/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bc9559da5a17.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/bc9559da5a17.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-23T23:18:20.994382+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "6fbe15470ff9",
+      "title_en": "This spider catapults ants",
+      "caption_en": "A newly discovered Australian ballista spider has evolved one of the most specialized hunting strategies ever seen. Instead of chasing prey, it builds a spring-loaded silk snare that appears to target a single species: The aggressive green tree ant. Scientists think the spider ma",
+      "category": "good_news",
+      "source_name": "Mongabay",
+      "source_url": "https://news.mongabay.com/short-article/2026/10/this-spider-catapults-ants/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6fbe15470ff9.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6fbe15470ff9.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Mongabay"
+        }
+      ],
+      "added": "2026-10-23T23:18:18.589696+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "ae988f26a29d",
+      "title_en": "At the Wall of Wind, engineers blow homes apart to learn how to save them",
+      "caption_en": "Extreme weather threatens millions of manufactured homes. Researchers are looking for practical ways to make them more more wind resilient.",
+      "category": "good_news",
+      "source_name": "Grist",
+      "source_url": "https://grist.org/housing/at-the-wall-of-wind-engineers-blow-homes-apart-to-learn-how-to-save-them/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ae988f26a29d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/ae988f26a29d.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Grist"
+        }
+      ],
+      "added": "2026-10-23T23:18:15.663429+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "a19f422fdc03",
+      "title_en": "Fall nostalgia: why your nervous system reaches for reruns when autumn arrives",
+      "caption_en": "BY THE OPTIMIST DAILY EDITORIAL TEAM Every fall, something happens in the body before it happens in the mind. The smell of wood smoke drifting through a cracked window, the particular weight of October light slanting across the floor, and suddenly you’re somewhere else entirely, ",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/fall-nostalgia-why-your-nervous-system-reaches-for-reruns-when-autumn-arrives/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/a19f422fdc03.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/a19f422fdc03.mp4",
+      "duration_seconds": 12,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "The Optimist Daily"
+        }
+      ],
+      "added": "2026-10-23T23:18:12.742092+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "813711696cd8",
+      "title_en": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "caption_en": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a ",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/813711696cd8.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/813711696cd8.mp4",
+      "duration_seconds": 33,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA"
+        }
+      ],
+      "added": "2026-10-23T23:17:48.514704+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "25ab34118dbc",
+      "title_en": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+      "caption_en": "With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.",
+      "category": "good_news",
+      "source_name": "UN News",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/10/1168634",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/25ab34118dbc.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/25ab34118dbc.mp4",
+      "duration_seconds": 23,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "UN News"
+        }
+      ],
+      "added": "2026-10-23T23:17:41.197636+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "96648a05dc4f",
+      "title_en": "ECMA Reviews Capital Market Progress with Market Participants",
+      "caption_en": "The Ethiopian Capital Market Authority (ECMA) held its annual review meeting with licensed investment banks and securities dealers to assess progress made over the past year and strengthen collaboration in advancing Ethiopia’s capital market. Representatives of the Ethiopian Secu",
+      "category": "money",
+      "source_name": "Ethiopian Capital Market Authority",
+      "source_url": "https://ecma.gov.et/2026/08/ecma-reviews-capital-market-progress-with-market-participants/",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/96648a05dc4f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/96648a05dc4f.mp4",
+      "duration_seconds": 27,
+      "topic_tags": [
+        "money"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Ethiopian Capital Market Authority"
+        }
+      ],
+      "added": "2026-10-23T23:17:37.649130+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "472a58c104db",
+      "title_en": "A new partnership helping more Ethiopian mothers welcome life safely",
+      "caption_en": "RMNCH Compact invests $342M to strengthen maternal and newborn care in Ethiopia, ensuring lifesaving services for mothers and babies.",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/322554-new-partnership-helping-more-ethiopian-mothers-welcome-life-safely",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/472a58c104db.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/472a58c104db.mp4",
+      "duration_seconds": 16,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "UN Ethiopia"
+        }
+      ],
+      "added": "2026-10-23T23:17:32.827247+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "0bfbcbc01443",
+      "title_en": "George Washington Bridge",
+      "caption_en": "On this day in 1931: The George Washington Bridge (pictured), connecting Manhattan, New York City, to Fort Lee, New Jersey, and today the world's busiest motor-vehicle bridge, was dedicated.",
+      "category": "facts",
+      "source_name": "Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/George_Washington_Bridge",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0bfbcbc01443.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/0bfbcbc01443.mp4",
+      "duration_seconds": 15,
+      "topic_tags": [
+        "facts"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Wikipedia"
+        }
+      ],
+      "added": "2026-10-23T23:17:29.507936+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "70cdf5286694",
+      "title_en": "Ghanaian President: Africa’s Next Chapter Must Turn Liberation into Economic Transformation and Prosperity",
+      "caption_en": "Addis Ababa, October 23, 2026 (FMC) — Africa’s historic struggle against colonial domination must be followed by a new era of economic transformation and prosperity for its people, Ghanaian President John Dramani Mahama said, outlining the responsibility facing the continent’s cu",
+      "category": "good_news",
+      "source_name": "Fana Broadcasting (English)",
+      "source_url": "https://www.fanamc.com/english/ghanaian-president-africas-next-chapter-must-turn-liberation-into-economic-transformation-and-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=ghanaian-president-africas-next-chapter-must-turn-liberation-into-economic-transformation-and-prosperity",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/70cdf5286694.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/70cdf5286694.mp4",
+      "duration_seconds": 28,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Fana Broadcasting (English)"
+        }
+      ],
+      "added": "2026-10-23T23:17:25.499965+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "7af321febf80",
+      "title_en": "👨🏿‍🚀TechCabal Daily – Equity, but make it liquid",
+      "caption_en": "In today's edition: Flutterwave lets employees borrow against equity || CANAL+’s MultiChoice problem || South Africa wants telcos sharing || Who secured the bag? 💰",
+      "category": "inventions",
+      "source_name": "TechCabal",
+      "source_url": "https://techcabal.com/2026/10/23/techcabal-daily-equity-but-make-it-liquid/",
+      "country_codes": [],
+      "scope": "africa",
+      "region": "africa",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/7af321febf80.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/7af321febf80.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "TechCabal"
+        }
+      ],
+      "added": "2026-10-23T23:17:20.211687+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "236efcd256ff",
+      "title_en": "World’s largest wildlife crossing nears completion in California",
+      "caption_en": "The 210-foot-long Wallis Annenberg Wildlife Crossing will help animals safely cross California's famed 101 freeway.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/environment/worlds-largest-wildlife-crossing-california/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/236efcd256ff.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/236efcd256ff.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-23T23:17:14.872252+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "08557c44dfd5",
+      "title_en": "'Wildwood' Is the Longest Stop-Motion Animated Film Ever. Each Frame of the Movie Is a Marvel of Handcrafted World Building",
+      "caption_en": "Deborah Cook, costumer designer at stop-motion animation studio Laika, discusses creating tiny costumes for puppets in a fantastical world set in the forests of Portland, Oregon",
+      "category": "inventions",
+      "source_name": "Smithsonian Magazine",
+      "source_url": "https://www.smithsonianmag.com/arts-culture/wildwood-is-the-longest-stop-motion-animated-film-ever-each-frame-of-the-movie-is-a-marvel-of-handcrafted-world-building-180989742/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/08557c44dfd5.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/08557c44dfd5.mp4",
+      "duration_seconds": 20,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Smithsonian Magazine"
+        }
+      ],
+      "added": "2026-10-23T23:17:12.283054+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "193554122de2",
+      "title_en": "Something Strange Is Living in The Old Fuel Leaking From WWII Shipwrecks",
+      "caption_en": "Surprising diversity. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "category": "inventions",
+      "source_name": "ScienceAlert",
+      "source_url": "https://www.sciencealert.com/something-strange-is-living-in-the-old-fuel-leaking-from-wwii-shipwrecks",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/193554122de2.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/193554122de2.mp4",
+      "duration_seconds": 17,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ScienceAlert"
+        }
+      ],
+      "added": "2026-10-23T23:17:07.830048+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "f52091590688",
+      "title_en": "MIT’s Kavanaugh Fellowship: From invention to impact",
+      "caption_en": "The Kavanaugh Translational Fellows Program helps scholars turn promising research into successful businesses.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/mit-kavanaugh-fellowship-from-invention-to-impact-1022",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/f52091590688.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/f52091590688.mp4",
+      "duration_seconds": 11,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-23T23:15:07.927762+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "75172a29a8f4",
+      "title_en": "Extra-wide tiny house lays out comfortable living on one level",
+      "caption_en": "Whether the Helena appeals will depend a lot on what you're looking for in a tiny house. If you want to travel the world with your house in tow, it's not going to be a winner, but if light-filled, comfortable living on one floor is more to your liking, it has a lot going for it. ",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/tiny-houses/helena-vagabond-haven/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/75172a29a8f4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/75172a29a8f4.mp4",
+      "duration_seconds": 20,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-23T23:15:05.826953+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "1e40dde2aa99",
+      "title_en": "Where winds blow and lava flows",
+      "caption_en": "Image: Where winds blow and lava flows",
+      "category": "inventions",
+      "source_name": "ESA Space Science",
+      "source_url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Where_winds_blow_and_lava_flows",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/1e40dde2aa99.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/1e40dde2aa99.mp4",
+      "duration_seconds": 6,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ESA Space Science"
+        }
+      ],
+      "added": "2026-10-23T23:15:00.199632+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "b6ff55ed3798",
+      "title_en": "Martian Dawn",
+      "caption_en": "The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b6ff55ed3798.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/b6ff55ed3798.mp4",
+      "duration_seconds": 16,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-23T23:14:58.333784+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "591adaf47bd6",
+      "title_en": "California just showed how home batteries will radically remake the grid",
+      "caption_en": "Large batteries are helping homeowners keep the lights on during power outages. But they're also sending juice back to the system for others to use.",
+      "category": "good_news",
+      "source_name": "Grist",
+      "source_url": "https://grist.org/solutions/california-just-showed-how-home-batteries-will-radically-remake-the-grid/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/591adaf47bd6.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/591adaf47bd6.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Grist"
+        }
+      ],
+      "added": "2026-10-23T23:14:50.182358+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "ba53b45c9c4b",
+      "title_en": "A woman boarded a United flight and realized she was the only passenger. Then the pilot made it unforgettable.",
+      "caption_en": "Imagine boarding a commercial flight and realizing you are the absolute only passenger on board. For one traveler, that rare dream became a reality.",
+      "category": "good_news",
+      "source_name": "Upworthy",
+      "source_url": "https://www.upworthy.com/pn-woman-sole-passenger-united-flight-cockpit-tour/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ba53b45c9c4b.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/ba53b45c9c4b.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Upworthy"
+        }
+      ],
+      "added": "2026-10-23T23:14:47.699320+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "79f530b6860f",
+      "title_en": "New study finds remote work brought teams closer, not further apart",
+      "caption_en": "Today, roughly 36% of American workers do at least some of their work from home.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/new-study-remote-work-better-colleagues",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/79f530b6860f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/79f530b6860f.mp4",
+      "duration_seconds": 11,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-23T23:14:44.130962+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "5cf2715705e2",
+      "title_en": "Is this nut the most underrated sleepy-time snack? Here’s what the sleep research says",
+      "caption_en": "BY THE OPTIMIST DAILY EDITORIAL TEAM You’re doing everything right at bedtime: you stay away from screens after nine, take a soothing dark shower, sip on that herbal tea cooling on the nightstand, and maintain a reasonably consistent sleep schedule. Yet some nights the ceiling st",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/is-this-nut-the-most-underrated-sleepy-time-snack-heres-what-the-sleep-research-says/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5cf2715705e2.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5cf2715705e2.mp4",
+      "duration_seconds": 21,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "The Optimist Daily"
+        }
+      ],
+      "added": "2026-10-23T23:14:41.967127+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "960268508750",
+      "title_en": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+      "caption_en": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/960268508750.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/960268508750.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA"
+        }
+      ],
+      "added": "2026-10-23T23:14:15.834942+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "4252687c5639",
+      "title_en": "Building Tomorrow's Leaders: WFP Supports Youth Diplomats Driving Solutions for Food Security and Green Innovation",
+      "caption_en": "WFP and partners supported youth ambassadors promoting sustainable agriculture, innovation and resilience across Ethiopia.",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/322562-building-tomorrows-leaders-wfp-supports-youth-diplomats-driving-solutions-food-security-and",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4252687c5639.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/4252687c5639.mp4",
+      "duration_seconds": 17,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "UN Ethiopia"
+        }
+      ],
+      "added": "2026-10-23T23:13:54.442462+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "4f3182a74029",
+      "title_en": "How Derek Lubner is building a digital bridge between donors and non-profits",
+      "caption_en": "Derek Lubner’s iZinga Assist is using digital verification to help South African non-profits improve governance, build donor trust and access funding, while tackling the paperwork that keeps grassroots organisations from philanthropic support.",
+      "category": "inventions",
+      "source_name": "TechCabal",
+      "source_url": "https://techcabal.com/2026/10/23/lubner-izinga-assist-ngos-trust-sa/",
+      "country_codes": [],
+      "scope": "africa",
+      "region": "africa",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4f3182a74029.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/4f3182a74029.mp4",
+      "duration_seconds": 20,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "TechCabal"
+        }
+      ],
+      "added": "2026-10-23T23:13:43.848317+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "641b669477fc",
+      "title_en": "How Do Fungi Keep the Planet Healthy?",
+      "caption_en": "Evolutionary biologist Toby Kiers explains how fungal networks in soil trade nutrients with plants, help keep carbon underground, and strike bargains without having a brain. The post How Do Fungi Keep the Planet Healthy? first appeared on Quanta Magazine",
+      "category": "inventions",
+      "source_name": "Quanta Magazine",
+      "source_url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/641b669477fc.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/641b669477fc.mp4",
+      "duration_seconds": 21,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Quanta Magazine"
+        }
+      ],
+      "added": "2026-10-23T23:13:34.826387+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "e2709a215c4b",
+      "title_en": "Astronomers Detect the Oldest Known Fast Radio Burst, Spewed From an Ancient Galaxy Just Three Billion Years After the Big Bang",
+      "caption_en": "The universe formed 13.8 billion years ago, so this far-traveled burst of radio waves can help scientists learn more about the early cosmos. However, researchers still aren't sure what produces these strange flashes",
+      "category": "inventions",
+      "source_name": "Smithsonian Magazine",
+      "source_url": "https://www.smithsonianmag.com/smart-news/astronomers-detect-the-oldest-fast-radio-burst-spewed-from-an-ancient-galaxy-just-three-billion-years-after-the-big-bang-180989730/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e2709a215c4b.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e2709a215c4b.mp4",
+      "duration_seconds": 23,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Smithsonian Magazine"
+        }
+      ],
+      "added": "2026-10-23T23:13:32.116785+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "9f677906df29",
+      "title_en": "We're a Step Closer to Quantum Computers That Can Correct Their Own Mistakes",
+      "caption_en": "Bring order out of chaos. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "category": "inventions",
+      "source_name": "ScienceAlert",
+      "source_url": "https://www.sciencealert.com/were-a-step-closer-to-quantum-computers-that-can-correct-their-own-mistakes",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9f677906df29.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/9f677906df29.mp4",
+      "duration_seconds": 17,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ScienceAlert"
+        }
+      ],
+      "added": "2026-10-23T23:13:28.819332+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "5f1dd60d45c3",
+      "title_en": "This design software reimagines everyday objects as self-aware devices",
+      "caption_en": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5f1dd60d45c3.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5f1dd60d45c3.mp4",
+      "duration_seconds": 17,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-23T23:13:25.249576+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "da9299fd3b39",
+      "title_en": "Clever wheeled ebike rack provides no-lift bike loading",
+      "caption_en": "A startup based in New Zealand has devised a great way to take your bicycles with you on your next adventure, and you won't need to lift a thing. Continue Reading Category: Bicycles , Transport Tags: Bike Racks , Mountain Bikes , Outdoors and Camping , Bikes , Kickstarter",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/bicycles/goover-rollable-bike-rack/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/da9299fd3b39.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/da9299fd3b39.mp4",
+      "duration_seconds": 21,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-23T23:13:22.176642+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "3f74e87dc29c",
+      "title_en": "Euclid discovers new comet",
+      "caption_en": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+      "category": "inventions",
+      "source_name": "ESA Space Science",
+      "source_url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/3f74e87dc29c.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/3f74e87dc29c.mp4",
+      "duration_seconds": 15,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ESA Space Science"
+        }
+      ],
+      "added": "2026-10-23T23:13:15.521213+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "7c12215891f2",
+      "title_en": "Discipline is good. But when achieving big goals, taking ‘skip days’ is just as important.",
+      "caption_en": "It's paradoxical. Planning time off makes big achievements easier.",
+      "category": "good_news",
+      "source_name": "Upworthy",
+      "source_url": "https://www.upworthy.com/discipline-is-good-but-when-achieving-big-goals-taking-skip-days-is-just-as-important/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/7c12215891f2.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/7c12215891f2.mp4",
+      "duration_seconds": 12,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Upworthy"
+        }
+      ],
+      "added": "2026-10-23T23:13:05.054713+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "2c30f8c64291",
+      "title_en": "Good News This Week: October 17, 2026 - Trees, Diapers, & Prosthetic Paws",
+      "caption_en": "Your weekly roundup of the best good news worth celebrating...",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-17-2026",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2c30f8c64291.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/2c30f8c64291.mp4",
+      "duration_seconds": 11,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-23T23:13:02.636030+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "3c1e3242270b",
+      "title_en": "How kites and ancient design are replacing fuel in Antarctic exploration",
+      "caption_en": "BY THE OPTIMIST DAILY EDITORIAL TEAM The last time a team completed a comparable crossing of Antarctica’s interior, they burned through roughly 170,000 liters (about 45,000 gallons) of fuel to do it. The Wind Sled expedition that left Spain on October 18 plans to use none. Spanis",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/how-kites-and-ancient-design-are-replacing-fuel-in-antarctic-exploration/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/3c1e3242270b.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/3c1e3242270b.mp4",
+      "duration_seconds": 25,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "The Optimist Daily"
+        }
+      ],
+      "added": "2026-10-23T23:13:00.771171+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "78a0ff249a66",
+      "title_en": "Spiral’s Edge",
+      "caption_en": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite ",
+      "category": "inventions",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/image-article/spirals-edge/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/78a0ff249a66.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/78a0ff249a66.mp4",
+      "duration_seconds": 19,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA"
+        }
+      ],
+      "added": "2026-10-23T23:12:34.306357+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "20bdff9b2e24",
+      "title_en": "Can Students and Teachers Learn to Trust Each Other in the Age of A.I.?",
+      "caption_en": "“I’m worried if I use an em dash they’ll think it’s A.I.,” I told my mom from where I sat at the kitchen counter, trying to work on one of my college essays. Despite her reassurances to the contrary, I wasn’t convinced. All I could think about was last spring...",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/can-students-and-teachers-learn-to-trust-each-other-in-the-age-of-ai/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/20bdff9b2e24.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/20bdff9b2e24.mp4",
+      "duration_seconds": 21,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Reasons to be Cheerful"
+        }
+      ],
+      "added": "2026-10-23T23:12:25.049202+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "d0d638e02c20",
+      "title_en": "Women Who Move Markets: Advancing Women’s Participation in Ethiopia’s Capital Market",
+      "caption_en": "The Ethiopian Capital Market Authority (ECMA), in collaboration with the Ministry of Women and Social Affairs (MoWSA) and FSD Ethiopia, is convening the “Women Who Move Markets” Symposium. The symposium brings together women leaders from across the business and financial sectors,",
+      "category": "money",
+      "source_name": "Ethiopian Capital Market Authority",
+      "source_url": "https://ecma.gov.et/2026/09/women-who-move-markets-advancing-womens-participation-in-ethiopias-capital-market/",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d0d638e02c20.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d0d638e02c20.mp4",
+      "duration_seconds": 21,
+      "topic_tags": [
+        "money"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Ethiopian Capital Market Authority"
+        }
+      ],
+      "added": "2026-10-23T23:12:21.178190+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "2c7cde09e1e3",
+      "title_en": "ILO and partners advance standardized wage framework for Ethiopia’s horticulture sector",
+      "caption_en": "ILO, EHPEA and partners validated a cluster-based wage assessment, advancing a transparent, standardized wage framework for Ethiopia’s horticulture sector.",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/323422-ilo-and-partners-advance-standardized-wage-framework-ethiopia%E2%80%99s-horticulture-sector",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2c7cde09e1e3.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/2c7cde09e1e3.mp4",
+      "duration_seconds": 17,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "UN Ethiopia"
+        }
+      ],
+      "added": "2026-10-23T23:12:08.891484+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "cf0f6895b9c9",
+      "title_en": "Headquarters of the United Nations",
+      "caption_en": "On this day in 1949: The cornerstone of the United Nations headquarters was laid in New York City.",
+      "category": "facts",
+      "source_name": "Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/cf0f6895b9c9.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/cf0f6895b9c9.mp4",
+      "duration_seconds": 10,
+      "topic_tags": [
+        "facts"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Wikipedia"
+        }
+      ],
+      "added": "2026-10-23T23:12:05.234418+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "659202a479e9",
+      "title_en": "PM Abiy Envisions Gondar as a Premier Tourism Destination, Taps Lakeside Investment and African Heritage",
+      "caption_en": "Addis Ababa, October 23, 2026 (FMC) — Gondar should become a city where visitors stay to experience Ethiopia’s history and culture, rather than simply pass through, Ethiopian Prime Minister Abiy Ahmed said, proposing new lakeside tourism investment to help unlock the historic cit",
+      "category": "good_news",
+      "source_name": "Fana Broadcasting (English)",
+      "source_url": "https://www.fanamc.com/english/pm-abiy-envisions-gondar-as-a-premier-tourism-destination-taps-lakeside-investment-and-african-heritage/?utm_source=rss&utm_medium=rss&utm_campaign=pm-abiy-envisions-gondar-as-a-premier-tourism-destination-taps-lakeside-investment-and-african-heritage",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/659202a479e9.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/659202a479e9.mp4",
+      "duration_seconds": 28,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Fana Broadcasting (English)"
+        }
+      ],
+      "added": "2026-10-23T23:12:02.531320+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "fd8917289886",
+      "title_en": "‘Daddy’s girl, daughter of the farm’: Millicent Okumu’s road back to agriculture",
+      "caption_en": "Millicent Okumu doesn’t leave you wondering whether she believes what she is saying. She speaks with energy, with clarity about whom she is building for.",
+      "category": "inventions",
+      "source_name": "TechCabal",
+      "source_url": "https://techcabal.com/2026/10/23/millicent-okumu-road-back-agriculture/",
+      "country_codes": [],
+      "scope": "africa",
+      "region": "africa",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/fd8917289886.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/fd8917289886.mp4",
+      "duration_seconds": 15,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "TechCabal"
+        }
+      ],
+      "added": "2026-10-23T23:11:36.742623+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "dd440b1076d6",
+      "title_en": "Play ‘Doom’ on this tiny, uterus-shaped period tracker",
+      "caption_en": "Clotty also doesn't share any personal data.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/health/period-tracker-doesnt-share-data-doom/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/dd440b1076d6.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/dd440b1076d6.mp4",
+      "duration_seconds": 8,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-23T23:11:31.624508+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "912c74a65d82",
+      "title_en": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+      "caption_en": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable. The post He Wants AI Benchmarking To Be a Science, Not a Dark Art first appeared on Quanta Magazine",
+      "category": "inventions",
+      "source_name": "Quanta Magazine",
+      "source_url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/912c74a65d82.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/912c74a65d82.mp4",
+      "duration_seconds": 22,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Quanta Magazine"
+        }
+      ],
+      "added": "2026-10-23T23:11:29.899397+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "4f7f734d31c8",
+      "title_en": "Immerse Yourself in the Cosmos at Frank Lloyd Wright's Only Planetarium, Recently Restored to Its Former Glory in Florida",
+      "caption_en": "Completed in 1958, the domed building is located on the campus of Florida Southern College, home to 13 Wright-designed buildings, the world's largest single-site collection of the architect's work",
+      "category": "inventions",
+      "source_name": "Smithsonian Magazine",
+      "source_url": "https://www.smithsonianmag.com/smart-news/immerse-yourself-in-the-cosmos-at-frank-lloyd-wrights-only-planetarium-recently-restored-to-its-former-glory-in-florida-180989743/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4f7f734d31c8.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/4f7f734d31c8.mp4",
+      "duration_seconds": 20,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Smithsonian Magazine"
+        }
+      ],
+      "added": "2026-10-23T23:11:26.399256+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "5952d15732a1",
+      "title_en": "Researchers Developed a Molecule to Fight Alzheimer's – Then Found It's Already in Our Blood",
+      "caption_en": "What does this mean? ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "category": "inventions",
+      "source_name": "ScienceAlert",
+      "source_url": "https://www.sciencealert.com/researchers-developed-a-molecule-to-fight-alzheimers-then-found-its-already-in-our-blood",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5952d15732a1.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5952d15732a1.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ScienceAlert"
+        }
+      ],
+      "added": "2026-10-23T23:11:23.271617+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "fdc20ea52465",
+      "title_en": "Persistence, teamwork, and some healthy competition",
+      "caption_en": "Senior Veronica Calzadilla Sosa has taken the long route toward her MIT degree and found a supportive community along the way.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/persistence-teamwork-healthy-competition-veronica-calzadilla-sosa-1023",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/fdc20ea52465.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/fdc20ea52465.mp4",
+      "duration_seconds": 12,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-23T23:11:20.269028+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "0a5746772865",
+      "title_en": "Armored phone first in class with periscope telephoto lens",
+      "caption_en": "Blackview says that the XPLORE 6 rugged phone is the first in its class to sport a periscope telephoto lens, \"bringing flagship-level imaging, performance, and AI capabilities into the rugged smartphone category.\" You'll also find a 10x teleconverter in the box for even more opti",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/mobile-technology/blackview-xplore6-rugged-phone-periscope-telephoto/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0a5746772865.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/0a5746772865.mp4",
+      "duration_seconds": 23,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-23T23:11:17.645894+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "0502a592ce1f",
+      "title_en": "Celebrating BepiColombo, three words at a time",
+      "caption_en": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to descri",
+      "category": "inventions",
+      "source_name": "ESA Space Science",
+      "source_url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0502a592ce1f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/0502a592ce1f.mp4",
+      "duration_seconds": 34,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ESA Space Science"
+        }
+      ],
+      "added": "2026-10-23T23:11:08.532860+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "5f2f4f2c1f3a",
+      "title_en": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+      "caption_en": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/iss075e0190239/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5f2f4f2c1f3a.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5f2f4f2c1f3a.mp4",
+      "duration_seconds": 20,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-23T23:11:02.659608+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "5fe3354af786",
+      "title_en": "Researchers discover five new frog species in one of the most biologically diverse regions on the planet",
+      "caption_en": "Since 2019, the Rainforest Partnership has funded essential research missions in Peru.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/new-species-frog-peruvian-amazon-venegas",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5fe3354af786.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5fe3354af786.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-23T23:10:51.613239+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "5606ab39b454",
+      "title_en": "The Giving Grove: how Kansas City’s free community orchards became a national model",
+      "caption_en": "BY THE OPTIMIST DAILY EDITORIAL TEAM It is harvest time in Kansas City, and at Kansas City Academy, students are stepping outside during lunch to pick jujubes straight off the trees. “I feel like a fairy tale princess every lunch,” said Nova Henry, a senior, “because I get to go ",
+      "category": "good_news",
+      "source_name": "The Optimist Daily",
+      "source_url": "https://www.optimistdaily.com/2026/10/the-giving-grove-how-kansas-citys-free-community-orchards-became-a-national-model/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5606ab39b454.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/5606ab39b454.mp4",
+      "duration_seconds": 17,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "The Optimist Daily"
+        }
+      ],
+      "added": "2026-10-23T23:10:49.545112+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "aec2dbeef00f",
+      "title_en": "Young Adults Are Building Safe Spaces for Unhoused Peers",
+      "caption_en": "In his first year at the University of California, Davis, Liam commuted three hours a day from his family’s home in the Bay Area to campus and back again. The round-trip train tickets were expensive, but not as pricey as renting an apartment in the Central Valley college town. Th",
+      "category": "good_news",
+      "source_name": "Reasons to be Cheerful",
+      "source_url": "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/aec2dbeef00f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/aec2dbeef00f.mp4",
+      "duration_seconds": 23,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Reasons to be Cheerful"
+        }
+      ],
+      "added": "2026-10-23T23:10:16.687259+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "f659a3f46bc9",
+      "title_en": "ECMA and Citi Bank Hold Discussion on Capital Market Development",
+      "caption_en": "The Ethiopian Capital Market Authority (ECMA) held a constructive discussion with Citi Bank on the development of Ethiopia’s capital market. During the discussion, the Bank shared its experience on the key factors that have supported successful capital market development in other",
+      "category": "money",
+      "source_name": "Ethiopian Capital Market Authority",
+      "source_url": "https://ecma.gov.et/2026/10/ecma-and-citi-bank-hold-discussion-on-capital-market-development/",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/f659a3f46bc9.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/f659a3f46bc9.mp4",
+      "duration_seconds": 23,
+      "topic_tags": [
+        "money"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Ethiopian Capital Market Authority"
+        }
+      ],
+      "added": "2026-10-23T23:10:12.192847+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "27ea64094f7f",
+      "title_en": "A High-Level Panel Highlights Enhanced Access to Livelihoods, Services, and Community Dialogue as Foundations for Durable Solutions and Stability in Ethiopia",
+      "caption_en": "IOM convened a high-level panel in Ethiopia, highlighting livelihoods, services and social cohesion as keys to durable solutions for displacement.",
+      "category": "good_news",
+      "source_name": "UN Ethiopia",
+      "source_url": "https://ethiopia.un.org/en/323502-high-level-panel-highlights-enhanced-access-livelihoods-services-and-community-dialogue",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/27ea64094f7f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/27ea64094f7f.mp4",
+      "duration_seconds": 21,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "UN Ethiopia"
+        }
+      ],
+      "added": "2026-10-23T23:10:01.155873+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    }
+  ]
 }
