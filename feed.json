@@ -2,298 +2,18 @@
   "updated": "0.4.0",
   "clips": [
     {
-      "id": "4c8dc59cea8b",
-      "title_en": "Scientist tattoos himself with disappearing ink",
-      "caption_en": "The dye appears only after exposure to UV light.",
+      "id": "f4056c9cbdea",
+      "title_en": "The moon is shrinking. Astronomers finally know how fast.",
+      "caption_en": "Understanding moonquakes will be useful for future lunar bases.",
       "category": "inventions",
       "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/science/disappearing-tattoo-ink/",
+      "source_url": "https://www.popsci.com/science/how-fast-is-the-moon-shrinking/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4c8dc59cea8b.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/4c8dc59cea8b.mp4",
-      "duration_seconds": 8,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:54:18.045999+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "2f2b75ba2a94",
-      "title_en": "3 Questions: What is the best path forward for AI in academia?",
-      "caption_en": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2f2b75ba2a94.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/2f2b75ba2a94.mp4",
-      "duration_seconds": 15,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:54:16.512498+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "889145d1a98f",
-      "title_en": "Review: $300 smart treadmill is ideal for work and working out at home",
-      "caption_en": "The Urevo FoldiMix 5L Smart Treadmill is a surprise package that combines a standing-desk workstation and a quality training machine in one, which is built to last and runs so quietly your colleagues will never know you're on it during a video meeting. Continue Reading Category: ",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/fitness/review-urevos-foldimix-5l-smart-treadmill/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/889145d1a98f.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/889145d1a98f.mp4",
-      "duration_seconds": 20,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:54:14.527082+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "dfb9bae9a455",
-      "title_en": "NASA Unveils Enterprise, the First Space Shuttle",
-      "caption_en": "The rollout ceremony for NASA’s first space shuttle, OV-101, coincided with Constitution Day of the nation’s bicentennial on Sept.17, 1976. Although the orbiter was originally planned to be named Constitution, Star Trek fans successfully convinced President Gerald Ford to name it",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/the-shuttle-enterprise-with-star-trek-cast/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/dfb9bae9a455.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/dfb9bae9a455.mp4",
-      "duration_seconds": 27,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA Image of the Day"
-        }
-      ],
-      "added": "2026-10-24T01:54:10.740165+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "fdeb30a8667e",
-      "title_en": "The Kneecap effect: Gen Z is taking a renewed interest in the Irish language thanks to this rap group",
-      "caption_en": "The trio gained international attention with the release of their semi-autobiographical film “Kneecap” in 2024.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/kneecap-irish-rap-group-endangered-language",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/fdeb30a8667e.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/fdeb30a8667e.mp4",
-      "duration_seconds": 14,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:54:05.442252+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "8a268400d9b6",
-      "title_en": "Bat Beauty Contest returns October 24",
-      "caption_en": "Who will take ‘Hoary Potter’s’ crown?",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/environment/bat-beauty-contest-2026/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8a268400d9b6.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/8a268400d9b6.mp4",
-      "duration_seconds": 6,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:54:00.154779+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "4895aea2b9c1",
-      "title_en": "Economists Robert Hall PhD ’67 and Michael Woodford PhD ’83 share Nobel Prize",
-      "caption_en": "The MIT alumni are honored for work that illuminates how government policy can spur growth in response to economic downturns.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/robert-hall-michael-woodford-share-nobel-prize-economics-1012",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4895aea2b9c1.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/4895aea2b9c1.mp4",
-      "duration_seconds": 15,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:53:58.617873+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "d65277cedd52",
-      "title_en": "Light-powered ePaper screen adds art to your wall without a charger",
-      "caption_en": "A new gadget we've just come across might be the best piece of decor you'll add to your home this year. It's arguably the first-ever ePaper display that can display art and photos using nothing but the power of the Sun. Continue Reading Category: Around The Home , Consumer Tech ,",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/around-the-home/light-solar-epaper-screen-art-inkanva/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d65277cedd52.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/d65277cedd52.mp4",
-      "duration_seconds": 17,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:53:55.061126+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "8afe013f95ef",
-      "title_en": "COSI Telescope Comes Together",
-      "caption_en": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/cosi-2026july-01/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8afe013f95ef.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/8afe013f95ef.mp4",
-      "duration_seconds": 15,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA Image of the Day"
-        }
-      ],
-      "added": "2026-10-24T01:53:51.037037+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "aea373008aaa",
-      "title_en": "A turtle with a bright blue shell was found in a Kentucky backyard. Rescuers are rushing to restore her natural color",
-      "caption_en": "When a new homeowner moved into her house, she discovered a turtle with a bright blue shell in the yard. Wildlife rehab specialists quickly stepped in.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/turtle-blue-painted-shell-rescued-kentucky",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/aea373008aaa.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/aea373008aaa.mp4",
-      "duration_seconds": 18,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:53:48.100498+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "9aaa03e176a2",
-      "title_en": "New comet accidentally discovered by space telescope",
-      "caption_en": "The ‘happy coincidence’ is currently more than 807 million miles from Earth.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/science/new-comet-discovered-euclid-space-telescope/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9aaa03e176a2.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/9aaa03e176a2.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/f4056c9cbdea.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/f4056c9cbdea.mp4",
       "duration_seconds": 10,
       "topic_tags": [
         "inventions"
@@ -305,52 +25,24 @@
           "short": "Popular Science"
         }
       ],
-      "added": "2026-10-24T01:53:43.017586+00:00",
+      "added": "2026-10-25T02:02:34.212198+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "776a888d7157",
-      "title_en": "Exploring how plants thrive in a changing environment",
-      "caption_en": "Associate Professor David Des Marais studies how plants interact with their surroundings and adapt over time.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/exploring-how-plants-thrive-david-des-marais-1013",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/776a888d7157.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/776a888d7157.mp4",
-      "duration_seconds": 11,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:53:41.017477+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "abb11c38a3d9",
-      "title_en": "Non-electric washing machine chalks up big win for low-tech ingenuity",
-      "caption_en": "Over much of the planet, women tend to do more unpaid domestic work than men do – much more. A 2025 Centre for Global Development study reported that across 50 countries, “women spend an average of 29.92 hours weekly on domestic work as a primary activity, while men spend only 9.",
+      "id": "240bd96ad217",
+      "title_en": "Modular phone promises total privacy at the flick of a switch",
+      "caption_en": "Most modular phones are all about the swappable hardware or their repairability. But Brax's upcoming model takes a slightly different approach: it's going for maximum privacy. Continue Reading Category: Mobile Technology , Consumer Tech , Technology Tags: Smartphones , Modular , ",
       "category": "inventions",
       "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/good-thinking/divya-hand-cranked-washing-machine/",
+      "source_url": "https://newatlas.com/mobile-technology/brax-wink-modular-phone-privacy-keyboard/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/abb11c38a3d9.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/abb11c38a3d9.mp4",
-      "duration_seconds": 11,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/240bd96ad217.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/240bd96ad217.mp4",
+      "duration_seconds": 25,
       "topic_tags": [
         "inventions"
       ],
@@ -361,23 +53,23 @@
           "short": "New Atlas"
         }
       ],
-      "added": "2026-10-24T01:53:39.126845+00:00",
+      "added": "2026-10-25T02:02:31.376226+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "0414a0dccb3f",
-      "title_en": "This rhino was orphaned when he was just one day old. Now he lives in an oasis with other rescued animals",
-      "caption_en": "Rangers estimate that Chamboi was born prematurely and had to fight for survival just hours after he entered the world.",
+      "id": "f95b4504486f",
+      "title_en": "Fishermen stop to save baby elephant from rising floodwaters after it was swept 3 miles from its mother",
+      "caption_en": "On September 21, local fishermen found a baby elephant struggling to keep its head above water in West Bengal’s Teesta River.",
       "category": "good_news",
       "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/baby-rhino-chamboi-rescue-kenya",
+      "source_url": "https://www.goodgoodgood.co/articles/baby-elephant-west-bengal-fishermen",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0414a0dccb3f.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/0414a0dccb3f.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/f95b4504486f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/f95b4504486f.mp4",
       "duration_seconds": 15,
       "topic_tags": [
         "good_news"
@@ -389,109 +81,25 @@
           "short": "Goodnet / Good Good Good"
         }
       ],
-      "added": "2026-10-24T01:53:34.540224+00:00",
+      "added": "2026-10-25T02:02:24.312869+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "bf6a08a1f8cf",
-      "title_en": "This robot exists solely to bounce ping-pong balls",
-      "caption_en": "Hexa-Bouncer is the latest in a series of ‘useless but mildly interesting ball bouncing machines.’",
+      "id": "6f6cf142ede5",
+      "title_en": "In 1976, a college paper blamed the Salem witch trials on moldy bread. It wasn’t true.",
+      "caption_en": "Debunked within a year, the ergot theory still spreads like fungus on rye.",
       "category": "inventions",
       "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/technology/hexa-bouncer-over-engineered-robot/",
+      "source_url": "https://www.popsci.com/science/salem-witch-trials-moldy-bread-ergot/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bf6a08a1f8cf.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/bf6a08a1f8cf.mp4",
-      "duration_seconds": 10,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:53:29.371340+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "6e8138898b5c",
-      "title_en": "Tiltable e-trike promises natural bike-like agility on and off road",
-      "caption_en": "Welp, it's news to me that e-trikes aren't as much of a niche interest as I thought. There are so many different styles to suit every rider's preference now. But this one from FlekTrike has me especially excited because of one cool trick up its sleeve. Continue Reading Category: ",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/urban-transport/tiltable-etrike-freego-flektrike-pro/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6e8138898b5c.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/6e8138898b5c.mp4",
-      "duration_seconds": 21,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:53:25.204546+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "dc79db69d541",
-      "title_en": "Monkeys rescued from the illegal pet trade now thriving in a Mississippi sanctuary run by veterans",
-      "caption_en": "The Gulf Coast Primate Sanctuary gives once-domesticated monkeys and U.S. veterans alike a safe haven.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/gulf-coast-primate-sanctuary-monkey-rescue-veterans",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/dc79db69d541.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/dc79db69d541.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6f6cf142ede5.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6f6cf142ede5.mp4",
       "duration_seconds": 13,
       "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:53:20.953575+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "61fce7462167",
-      "title_en": "Amazon’s TP-Link router deals include a WiFi 7 model for less than $100",
-      "caption_en": "TP-Link has cut prices on Wi-Fi 7 routers, Deco mesh kits, travel routers, and PC adapters on Amazon.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/gear/tp-link-amazon-wifi-router-mesh-deals-october-2026/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/61fce7462167.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/61fce7462167.mp4",
-      "duration_seconds": 15,
-      "topic_tags": [
         "inventions"
       ],
       "has_burned_in_overlay": false,
@@ -501,136 +109,24 @@
           "short": "Popular Science"
         }
       ],
-      "added": "2026-10-24T01:53:12.897217+00:00",
+      "added": "2026-10-25T02:02:21.473212+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "c574a60d890e",
-      "title_en": "Hiroshi Ishii honored for contributions to global design and human-computer interaction",
-      "caption_en": "MIT Media Lab professor received the IDSA Special Achievement Award for three decades of research integrating physical and digital environments.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/hiroshi-ishii-honored-for-contributions-global-design-human-computer-interaction-1013",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/c574a60d890e.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/c574a60d890e.mp4",
-      "duration_seconds": 16,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:53:10.680085+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "0aaf7eacf87f",
-      "title_en": "NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
-      "caption_en": "An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0aaf7eacf87f.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/0aaf7eacf87f.mp4",
-      "duration_seconds": 20,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA Image of the Day"
-        }
-      ],
-      "added": "2026-10-24T01:53:06.805723+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "b3153e64341a",
-      "title_en": "Generous paternal leave policies improve maternal and newborn health, family finances, and more",
-      "caption_en": "When a father takes significant leave — at least two weeks — children report experiencing more closeness and better communication up to nine years later.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/benefits-of-paternal-leave-policies",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b3153e64341a.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/b3153e64341a.mp4",
-      "duration_seconds": 16,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:53:02.889368+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "442076cbfff7",
-      "title_en": "Roman sarcophagus inside Westminster Abbey originally held a different body",
-      "caption_en": "A case of coffin swapping may explain the mysterious medieval burial.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/science/roman-sarcophagus-westminster-abbey-coffin/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/442076cbfff7.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/442076cbfff7.mp4",
-      "duration_seconds": 10,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:52:58.056201+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "3f44ca10f4dd",
-      "title_en": "New ePaper doubles color definition for clearer e-reading",
-      "caption_en": "Reading in color on an e-reader can be like reading a washed-out photocopy of a magazine. It means putting up with faded comics, grainy photos and text so murky that you feel you are deep underwater. E Ink says its new Kaleido 4 is built to tackle all that. But is this the upgrad",
+      "id": "ef07e696f6f0",
+      "title_en": "DeLorean climbs skyward to race electric flying cars",
+      "caption_en": "Remember DeLorean, the 80s one-hit automotive wonder whose DMC-12 steel sports car with gullwing doors appeared in Back to the Future? It's making a comeback – by getting into high-speed aerial racing. Continue Reading Category: Aircraft , Transport Tags: eVTOL , Flying+Car , Rac",
       "category": "inventions",
       "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/electronics/eink-kaleido4-epaper-color/",
+      "source_url": "https://newatlas.com/aircraft/delorean-race-electric-flying-cars-airspeeder-alauda/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/3f44ca10f4dd.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/3f44ca10f4dd.mp4",
-      "duration_seconds": 21,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ef07e696f6f0.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/ef07e696f6f0.mp4",
+      "duration_seconds": 26,
       "topic_tags": [
         "inventions"
       ],
@@ -641,471 +137,23 @@
           "short": "New Atlas"
         }
       ],
-      "added": "2026-10-24T01:52:55.832237+00:00",
+      "added": "2026-10-25T02:02:18.391290+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "bd068560de70",
-      "title_en": "Rangers saved this giraffe's life when she was just one week old. 5 years later, she surprised them with a heartwarming reunion",
-      "caption_en": "Just days after she was born, Twiggy was found hiding amongst a herd of zebras for protection.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/twiggy-baby-giraffe-rescue-wildlife-sanctuary",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bd068560de70.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/bd068560de70.mp4",
-      "duration_seconds": 15,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:52:50.424807+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "343b21add993",
-      "title_en": "Earth’s spookiest lake is in Siberia and dates back 25 million years",
-      "caption_en": "Plus soiled underpants and other weird things we learned this week.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/science/earths-spookiest-lake-weirdest-thing-podcast/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/343b21add993.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/343b21add993.mp4",
-      "duration_seconds": 10,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:52:21.018538+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "6961d7c2dc9b",
-      "title_en": "Q&A: The “collision” between AI, your brain, and society",
-      "caption_en": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6961d7c2dc9b.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/6961d7c2dc9b.mp4",
-      "duration_seconds": 11,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:52:18.758054+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "dcec8a5784ab",
-      "title_en": "RGB laser projectors bring 4K at 120 Hz to movies, sports and games",
-      "caption_en": "Lifestyle projectors have come a long way from the dim, whirring boxes that only really worked with the curtains drawn. Brands have been chasing brighter laser light sources, built-in streaming, and gaming-friendly specs, trying to make the projector a genuine stand-in for the li",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/home-entertainment/xgimi-horizon-30-4k-120hz-rgb-laser-projectors/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/dcec8a5784ab.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/dcec8a5784ab.mp4",
-      "duration_seconds": 24,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:52:16.721404+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "7d503f9c07ef",
-      "title_en": "Hubble Spots Chaotic Secret in Galaxy",
-      "caption_en": "Though the spiral galaxy in this ESA/Hubble Picture of the Month seems serene, it hides a chaotic secret.",
+      "id": "f5468169780c",
+      "title_en": "2026 Total Solar Eclipse in Spain",
+      "caption_en": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.",
       "category": "inventions",
       "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/",
+      "source_url": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/7d503f9c07ef.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/7d503f9c07ef.mp4",
-      "duration_seconds": 11,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA Image of the Day"
-        }
-      ],
-      "added": "2026-10-24T01:52:10.653365+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "ac62b04d5090",
-      "title_en": "Good News This Week: October 3, 2026 - Rhinos, Books, & EVs",
-      "caption_en": "Your weekly roundup of the best good news worth celebrating...",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-3-2026",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ac62b04d5090.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/ac62b04d5090.mp4",
-      "duration_seconds": 10,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:52:08.178219+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "db2aae7c9f2c",
-      "title_en": "Spooooooky! Alaskan man makes terrifying ‘kelp-o’-lanterns’",
-      "caption_en": "The kelp-y creations will only look creepier with time.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/environment/kelp-o-lanterns-alaska/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/db2aae7c9f2c.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/db2aae7c9f2c.mp4",
-      "duration_seconds": 9,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:51:41.238358+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "873ac487d3ce",
-      "title_en": "Flashy kammback concept radiates Honda CRX vibes... in full wagon form",
-      "caption_en": "For years, American roads have been dominated by the sport utility vehicle. From mid-size crossovers to gargantuan three-row haulers, the high-riding faux rugged minibus has become the default setting for families. Continue Reading Category: Automotive , Transport Tags: Opel , Pa",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/automotive/opel-stx-electric-station-wagon-concept-paris-motor-show-2026/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/873ac487d3ce.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/873ac487d3ce.mp4",
-      "duration_seconds": 30,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:51:38.975559+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "d0da49b9877b",
-      "title_en": "Space Station View of Earth at Night",
-      "caption_en": "This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. local time from the International Space Station as it orbited 259 miles above Earth.",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d0da49b9877b.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/d0da49b9877b.mp4",
-      "duration_seconds": 18,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA Image of the Day"
-        }
-      ],
-      "added": "2026-10-24T01:51:33.831000+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "6112ff5be593",
-      "title_en": "A TikTok review called this Kansas City coffee shop 'demonic.' Locals rallied around it",
-      "caption_en": "Oddly Correct relocated to Troost Avenue in 2021, and has been a staple in the neighborhood ever since.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/kansas-city-oddly-correct-negative-review-support",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6112ff5be593.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/6112ff5be593.mp4",
-      "duration_seconds": 14,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:51:29.907407+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "171bbedac03f",
-      "title_en": "Distant space ‘hamburger’ hides a baby gas giant",
-      "caption_en": "GoHam is almost 93 billion miles wide.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/science/gomez-hamburger-gas-giant-space/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/171bbedac03f.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/171bbedac03f.mp4",
-      "duration_seconds": 8,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:51:04.105640+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "2bc755086012",
-      "title_en": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "caption_en": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2bc755086012.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/2bc755086012.mp4",
-      "duration_seconds": 18,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:51:02.725316+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "0cffb1c8c245",
-      "title_en": "270° German EDC pocket pliers crank out near-impossible torque tasks",
-      "caption_en": "Built to handle small but problematic DIY jobs that make you want to call it quits, the new TwinGrip XS from German specialist Knipex is a go-anywhere pocket plier made for tearing through to-do lists. The adjustable pliers feature three sides of hard-toothed jaw-clamping power m",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/knives-multitools/knipex-twingrip-xs-edc-pocket-pliers/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0cffb1c8c245.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/0cffb1c8c245.mp4",
-      "duration_seconds": 19,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:50:59.863536+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "ec875e5336cf",
-      "title_en": "Crew-13 Rocket and Spacecraft at Launch Pad",
-      "caption_en": "Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/afs-8-101-1312/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ec875e5336cf.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/ec875e5336cf.mp4",
-      "duration_seconds": 22,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA Image of the Day"
-        }
-      ],
-      "added": "2026-10-24T01:50:53.556315+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "33778af1c37e",
-      "title_en": "Scientists unearthed 57 new species from waters in Argentina nearly twice as deep as the Grand Canyon",
-      "caption_en": "A colorful array of sea creatures first spotted in August 2025 have finally been added to the scientific record.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/new-species-argentina-schmidt-ocean",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/33778af1c37e.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/33778af1c37e.mp4",
-      "duration_seconds": 15,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:50:49.783895+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "3eedcd997b9f",
-      "title_en": "In 1871, this nightmarish ‘Creeping Baby Doll’ was all the rage",
-      "caption_en": "It's an American Ghoul Doll, if you will.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/technology/creeping-baby-doll/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/3eedcd997b9f.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/3eedcd997b9f.mp4",
-      "duration_seconds": 9,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:50:21.416999+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "ccfe9af411d7",
-      "title_en": "Suzy Nelson transformed student life at MIT",
-      "caption_en": "Over the last decade, the vice chancellor has refocused the Institute’s approach to student life to center on student well-being.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/suzy-nelson-transformed-student-life-at-mit-1015",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ccfe9af411d7.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/ccfe9af411d7.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/f5468169780c.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/f5468169780c.mp4",
       "duration_seconds": 12,
       "topic_tags": [
         "inventions"
@@ -1114,82 +162,26 @@
       "needs_native_review": true,
       "footage_credits": [
         {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:50:19.205870+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "5a3a1209ef61",
-      "title_en": "Thor's cheap B+ camper upsizes van life to mini-motorhome proportions",
-      "caption_en": "Since 2019, Thor Industries has been the world's largest RV manufacturer thanks in no small part to its purchase of European giant Erwin Hymer Group. Following the lead of its acquired European brands (not to mention American market trends), Thor has spent much of that same time ",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/rvs-motorhomes/thor-rize-plus-entry-motorhome/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/5a3a1209ef61.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/5a3a1209ef61.mp4",
-      "duration_seconds": 16,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:50:16.932843+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "e2054d47a388",
-      "title_en": "Star Trails",
-      "caption_en": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/iss075e0144232/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e2054d47a388.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/e2054d47a388.mp4",
-      "duration_seconds": 16,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
           "short": "NASA Image of the Day"
         }
       ],
-      "added": "2026-10-24T01:50:13.240443+00:00",
+      "added": "2026-10-25T02:02:14.042857+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "e1fdee54fdf7",
-      "title_en": "Trail cameras capture once-in-a-decade footage of jaguar nearing Guatemala-Honduras border",
-      "caption_en": "Panthera's Allison Devlin and Barbara Escobar-Anleu said the moment signals real signs of progress in jaguar recovery for the region.",
+      "id": "df6d761e57c4",
+      "title_en": "Yellowstone rangers find and donate hundreds of discarded baseball caps from the park's hot springs",
+      "caption_en": "From claw clips to camera lens caps, the thousands of trash items reveal a lot about national park visitors.",
       "category": "good_news",
       "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/jaguar-endangered-species-panthera-wildlife-crossing",
+      "source_url": "https://www.goodgoodgood.co/articles/yellowstone-national-park-rangers-clean-litter-hot-springs",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e1fdee54fdf7.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/e1fdee54fdf7.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/df6d761e57c4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/df6d761e57c4.mp4",
       "duration_seconds": 14,
       "topic_tags": [
         "good_news"
@@ -1201,645 +193,23 @@
           "short": "Goodnet / Good Good Good"
         }
       ],
-      "added": "2026-10-24T01:50:09.840779+00:00",
+      "added": "2026-10-25T02:02:11.886679+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "00d7b4898e80",
-      "title_en": "From Hive to Global Markets: Transforming Ethiopia’s Honey Value Chain Through Skills, Quality, and Inclusion",
-      "caption_en": "Beekeepers, backed by UNIDO GMAP, improved quality and market access, enabling honey exports, higher incomes and sustainable growth worldwide today.",
-      "category": "good_news",
-      "source_name": "UN Ethiopia",
-      "source_url": "https://ethiopia.un.org/en/318303-hive-global-markets-transforming-ethiopia%E2%80%99s-honey-value-chain-through-skills-quality-and",
-      "country_codes": [
-        "ET"
-      ],
-      "scope": "ethiopia",
-      "region": "ethiopia",
-      "in_africa": true,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/00d7b4898e80.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/00d7b4898e80.mp4",
-      "duration_seconds": 19,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "UN Ethiopia"
-        }
-      ],
-      "added": "2026-10-24T01:49:44.568006+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "bd03643a4539",
-      "title_en": "Fostering community amid Kendall Square’s innovation",
-      "caption_en": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bd03643a4539.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/bd03643a4539.mp4",
-      "duration_seconds": 13,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:49:37.911838+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "a8551f3cda0a",
-      "title_en": "Honda's sexy little scrambler is too good to stay a concept",
-      "caption_en": "With EICMA just around the corner, the time’s almost here when we’ll see a whole host of surprise reveals in the motorcycle industry, but it seems Honda didn’t want to sit back and wait for the motorcycle show in Milan. It’s gone ahead and revealed a motorcycle few saw coming at ",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/motorcycles/honda-cb250ss/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/a8551f3cda0a.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/a8551f3cda0a.mp4",
-      "duration_seconds": 24,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:49:35.319230+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "125f77fa8d83",
-      "title_en": "NASA’s SpaceX Crew-13 Launches",
-      "caption_en": "A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Se",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/125f77fa8d83.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/125f77fa8d83.mp4",
-      "duration_seconds": 30,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA Image of the Day"
-        }
-      ],
-      "added": "2026-10-24T01:49:30.443218+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "d6829469c348",
-      "title_en": "A baby swan got hooked by a fishing rod. Watch a man calmly untangle the chick while keeping its parents at bay",
-      "caption_en": "Graham Porter was unflappable as swans circled him during his latest rescue.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/waterfowl-sanctuary-baby-swan-fishing-hook",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d6829469c348.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/d6829469c348.mp4",
-      "duration_seconds": 13,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:49:25.481746+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "8447de5a3483",
-      "title_en": "Creative Hub: DANN",
-      "caption_en": "Fashion with a Story: How Dann is Redefining Ethiopian Style",
-      "category": "good_news",
-      "source_name": "UN Ethiopia",
-      "source_url": "https://ethiopia.un.org/en/318304-creative-hub-dann",
-      "country_codes": [
-        "ET"
-      ],
-      "scope": "ethiopia",
-      "region": "ethiopia",
-      "in_africa": true,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8447de5a3483.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/8447de5a3483.mp4",
-      "duration_seconds": 7,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "UN Ethiopia"
-        }
-      ],
-      "added": "2026-10-24T01:48:59.162918+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "c7ba23f4ae49",
-      "title_en": "AI-powered robots can be tricked into slicing off fingers",
-      "caption_en": "One secret code word is all it takes.",
+      "id": "6788c995c666",
+      "title_en": "Astronomers discover first green star and the reddest star ever recorded",
+      "caption_en": "WDJ1330+6435 and WDJ0902+2010 are changing our understanding of star colors.",
       "category": "inventions",
       "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/technology/ai-powered-robot-slices-fingers/",
+      "source_url": "https://www.popsci.com/science/first-green-star-reddest-star/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/c7ba23f4ae49.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/c7ba23f4ae49.mp4",
-      "duration_seconds": 8,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:48:53.731038+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "9692486eeb77",
-      "title_en": "Giving AI a “crystal clear” view of the materials world",
-      "caption_en": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9692486eeb77.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/9692486eeb77.mp4",
-      "duration_seconds": 11,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:48:52.148915+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "ea778c2e5320",
-      "title_en": "World-first spinal cord transplant claim raises serious questions",
-      "caption_en": "Replacing damaged spinal cord with healthy donor tissue sounds like a straightforward solution to paralysis. Getting those tissues to exchange meaningful messages is another matter entirely, one that has challenged researchers for decades. Continue Reading Category: Medical Devic",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/medical-devices/world-first-spinal-cord-transplant-claim-raises-serious-questions/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ea778c2e5320.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/ea778c2e5320.mp4",
-      "duration_seconds": 30,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:48:49.986840+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "a41763121b96",
-      "title_en": "Instead of putting shelter cats down, this rescue turned them into working barn cats: 'Our program has ended euthanasia for feral cats entirely'",
-      "caption_en": "Rather than euthanizing them because they aren’t the perfect “pet,” barn programs are giving strays and shelter cats a second chance at life.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/barn-cats-feral-animal-shelters-hunting-mice",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/a41763121b96.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/a41763121b96.mp4",
-      "duration_seconds": 18,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:48:42.729981+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "ba0343daaa4c",
-      "title_en": "'Knowledge is power' - Awoniyi",
-      "caption_en": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's future leaders.",
-      "category": "good_news",
-      "source_name": "BBC Africa",
-      "source_url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss",
-      "country_codes": [],
-      "scope": "africa",
-      "region": "africa",
-      "in_africa": true,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ba0343daaa4c.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/ba0343daaa4c.mp4",
-      "duration_seconds": 13,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "BBC Africa"
-        }
-      ],
-      "added": "2026-10-24T01:48:39.394437+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "9672890600e4",
-      "title_en": "Joint Study Shows Improved Coverage For Treating Moderate Acute Malnutrition Through Ethiopia's Health Extension Program",
-      "caption_en": "Research shows integrating MAM treatment into Ethiopia’s health extension system improves access, coordination, care quality, and reduces malnutrition in commun",
-      "category": "good_news",
-      "source_name": "UN Ethiopia",
-      "source_url": "https://ethiopia.un.org/en/318306-joint-study-shows-improved-coverage-treating-moderate-acute-malnutrition-through-ethiopias",
-      "country_codes": [
-        "ET"
-      ],
-      "scope": "ethiopia",
-      "region": "ethiopia",
-      "in_africa": true,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9672890600e4.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/9672890600e4.mp4",
-      "duration_seconds": 19,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "UN Ethiopia"
-        }
-      ],
-      "added": "2026-10-24T01:48:15.229519+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "36bc76687e51",
-      "title_en": "Baby manta rays stick to the shallows to avoid sharks and orca",
-      "caption_en": "Adults can reach 30 feet long and weigh over 4,400 pounds, but coastal areas offer the young fish space to grow.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/environment/baby-manta-rays-shallows/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/36bc76687e51.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/36bc76687e51.mp4",
-      "duration_seconds": 13,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:48:08.916057+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "524d935b9ec9",
-      "title_en": "Review: ArcCaptain's MIG205DP Pro all-in-one welder, tested by Texas pros",
-      "caption_en": "We put ArcCaptain's hobbyist-to-light-industrial-grade double-pulse machine in front of experienced welders. Everybody liked the way it welded. The arguments started when we tried to tell it exactly how we wanted it to weld. Continue Reading Category: Gear , Outdoors Tags: Weldin",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/outdoor-gear/arccaptain-mig205mp-pulse-mig-welder-cutter-review/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/524d935b9ec9.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/524d935b9ec9.mp4",
-      "duration_seconds": 29,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:48:06.337883+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "9598ef10e2e4",
-      "title_en": "NASA Astronaut Christina Koch at Eagles vs. Rams",
-      "caption_en": "NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Ph",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9598ef10e2e4.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/9598ef10e2e4.mp4",
-      "duration_seconds": 24,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA Image of the Day"
-        }
-      ],
-      "added": "2026-10-24T01:47:59.076321+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "908c75dd95a7",
-      "title_en": "Some people really are werewolves—at least, in their minds",
-      "caption_en": "People with clinical lycanthropy are trapped in a body-horror nightmare.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/health/werewolf-medical-condition-clinical-lycanthropy/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/908c75dd95a7.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/908c75dd95a7.mp4",
-      "duration_seconds": 9,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Popular Science"
-        }
-      ],
-      "added": "2026-10-24T01:47:28.665877+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "85830a6ec3c2",
-      "title_en": "MIT spinout makes surgical stitching more like applying a sticky note",
-      "caption_en": "SanaHeal has developed a biologically compatible adhesive that sticks to wet tissues to simplify a variety of surgeries.",
-      "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/sanaheal-makes-surgical-stitching-more-like-applying-sticky-note-1020",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/85830a6ec3c2.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/85830a6ec3c2.mp4",
-      "duration_seconds": 13,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "MIT News"
-        }
-      ],
-      "added": "2026-10-24T01:47:26.774866+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "4ec628f105ce",
-      "title_en": "Countertop smart farm promises fresh greens in as little as 8 days",
-      "caption_en": "Folks living in inner-city apartments probably won't have access to an outdoor garden. So growing your own greens can be challenging. Technology can liberate your scrappy plants from overcrowded window boxes, and put a micro-farm in your kitchen. Continue Reading Category: Around",
-      "category": "inventions",
-      "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/around-the-home/home-harvest-countertop-smart-farm/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4ec628f105ce.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/4ec628f105ce.mp4",
-      "duration_seconds": 21,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "New Atlas"
-        }
-      ],
-      "added": "2026-10-24T01:47:24.136551+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "7484af8e09b0",
-      "title_en": "Total solar eclipse 2026 (Official ESA broadcast)",
-      "caption_en": "Video: 01:10:42 We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. The path of totality swept across Greenland, Iceland, Spain and a small area of northeastern Portugal, while much of Europe experi",
-      "category": "inventions",
-      "source_name": "ESA Space Science",
-      "source_url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/7484af8e09b0.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/7484af8e09b0.mp4",
-      "duration_seconds": 28,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "ESA Space Science"
-        }
-      ],
-      "added": "2026-10-24T01:47:19.805612+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "6682b8c560d1",
-      "title_en": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
-      "caption_en": "This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6682b8c560d1.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/6682b8c560d1.mp4",
-      "duration_seconds": 20,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA Image of the Day"
-        }
-      ],
-      "added": "2026-10-24T01:47:16.046245+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "57fa1992dd48",
-      "title_en": "Just transition remains elusive for Kenyan women despite robust policies",
-      "caption_en": "Anna Fatuma is a 31-year-old woman who runs a kibandaski in Tumboni village, Kitui county in eastern Kenya. Kibandaski is Kenyan urban slang for an affordable, open-air urban eatery, often a small shack made of iron sheets, 3-ply wood or canvas. They are popular with low-income c",
-      "category": "good_news",
-      "source_name": "Mongabay",
-      "source_url": "https://news.mongabay.com/2026/10/just-transition-remains-elusive-for-kenyan-women-despite-robust-policies/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/57fa1992dd48.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/57fa1992dd48.mp4",
-      "duration_seconds": 27,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Mongabay"
-        }
-      ],
-      "added": "2026-10-24T01:47:13.213349+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "19e1e5f055b5",
-      "title_en": "Detroit builds a stronger pipeline of teachers equipped to support students with autism",
-      "caption_en": "Detroit and Michigan State University are taking action to better prepare teachers for students with autism.",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/detroit-autism-expansion-program-teaching",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/19e1e5f055b5.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/19e1e5f055b5.mp4",
-      "duration_seconds": 12,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Goodnet / Good Good Good"
-        }
-      ],
-      "added": "2026-10-24T01:47:08.994679+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "f649f5b70a76",
-      "title_en": "What night is van Gogh’s ‘The Starry Night’? New analysis says it’s in July.",
-      "caption_en": "Astronomy, weather data, and even letters referencing cicadas indicate he may have painted what the sky looked like around July 22, 1889.",
-      "category": "inventions",
-      "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/science/starry-night-van-gogh-date/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/f649f5b70a76.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/f649f5b70a76.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6788c995c666.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6788c995c666.mp4",
       "duration_seconds": 16,
       "topic_tags": [
         "inventions"
@@ -1851,23 +221,163 @@
           "short": "Popular Science"
         }
       ],
-      "added": "2026-10-24T01:46:38.973920+00:00",
+      "added": "2026-10-25T02:02:08.587494+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "da30aed8582b",
-      "title_en": "28-ft-long tiny house packs in plenty of flexibility and features",
-      "caption_en": "At 8.4 m (28 ft) in length, the Wildscape is around mid-sized for a tiny house nowadays. However, its clever layout makes the house seem bigger than really it is, fitting in a multipurpose living room, a netted hangout area, and even a home office. Continue Reading Category: Tiny",
+      "id": "935b7a7bb5fb",
+      "title_en": "Wound-helix robot leaps and bounds over obstacles",
+      "caption_en": "Remember that “dancing pencils” game schoolchildren played, where they passed two pencils through a small rubber band, twisted them repeatedly, and then let go to make the pencils jump around as the band unraveled? Turns out they were onto some serious futuristic robotics, as sci",
       "category": "inventions",
       "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/tiny-houses/wildscape-tiny-tect/",
+      "source_url": "https://newatlas.com/robotics/tiny-snapping-robot/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/da30aed8582b.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/da30aed8582b.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/935b7a7bb5fb.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/935b7a7bb5fb.mp4",
+      "duration_seconds": 26,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T02:02:06.062712+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "d977a17fe2bb",
+      "title_en": "Perseids Meteor Shower",
+      "caption_en": "The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/perseidsorion-2/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d977a17fe2bb.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d977a17fe2bb.mp4",
+      "duration_seconds": 12,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-25T02:02:00.050884+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "adddd8fb4b0b",
+      "title_en": "New data centers in Oregon will be charged for all costs associated with growing energy need",
+      "caption_en": "The state’s monopoly electric utilities must create a separate rate class for data centers to ensure other customers aren’t subsidizing the massive energy demand.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/oregon-data-centers-charged-by-pacific-power",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/adddd8fb4b0b.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/adddd8fb4b0b.mp4",
+      "duration_seconds": 16,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T02:01:57.900915+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "76963db043da",
+      "title_en": "Sony wants to DAP up your digital audio with the Walkman Signature Series",
+      "caption_en": "Three updated digital audio players, including a $5,899 gold-plated model, offer portability and flagship performance to listeners looking for more than a smartphone offers.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/gear/sony-dap-digital-audio-players-zx900-wm1am3-wm1zm3-walkman-signature-series-product-news/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/76963db043da.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/76963db043da.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T02:01:54.782261+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "6774689ef8a0",
+      "title_en": "Creality's new K3 printer swaps between four nozzles in seconds",
+      "caption_en": "For all the extraordinary things that consumer 3D printers can produce, changing color has remained a surprisingly messy business. Want to print something in red, white and blue? Certainly. Just be prepared for the machine to spend a considerable amount of time producing a small ",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/3d-printing/creality-k3-printer/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6774689ef8a0.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6774689ef8a0.mp4",
+      "duration_seconds": 27,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T02:01:51.841307+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "a0260fc8d141",
+      "title_en": "Vibrant milk carton speakers explode in color and sound",
+      "caption_en": "If you enjoy minimalist design in your tech, you're going to want to take a closer look at CMF's first portable speakers. Available in two sizes, they resemble milk cartons – in the best way – and have me wanting all four colorways. That might actually not be the worst idea I've ",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/consumer-tech/cmf-milk-carton-speaker-nothing-bluetooth-portable/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/a0260fc8d141.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/a0260fc8d141.mp4",
       "duration_seconds": 23,
       "topic_tags": [
         "inventions"
@@ -1879,24 +389,24 @@
           "short": "New Atlas"
         }
       ],
-      "added": "2026-10-24T01:46:33.708247+00:00",
+      "added": "2026-10-25T02:01:34.230684+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "9646943c9e08",
-      "title_en": "Artemis II Crew Moon Photo Annotations",
-      "caption_en": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.",
+      "id": "e51d8ed590b2",
+      "title_en": "Colorful Collage of Tarantula Nebula",
+      "caption_en": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula ",
       "category": "inventions",
       "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
+      "source_url": "https://www.nasa.gov/image-detail/30dor-crop/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9646943c9e08.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/9646943c9e08.mp4",
-      "duration_seconds": 14,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e51d8ed590b2.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e51d8ed590b2.mp4",
+      "duration_seconds": 22,
       "topic_tags": [
         "inventions"
       ],
@@ -1907,23 +417,23 @@
           "short": "NASA Image of the Day"
         }
       ],
-      "added": "2026-10-24T01:46:27.875094+00:00",
+      "added": "2026-10-25T02:01:29.417105+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "407889ec158d",
-      "title_en": "Bangladesh garment factory workers bear the brunt of rising temperatures",
-      "caption_en": "One afternoon earlier this year, Mridula collapsed on the floor of the Dhaka garment factory where she works, overcome by dizziness in the heat. The 20-year-old sewing operator, who works at a factory in Mirpur, northwest Dhaka, said summer heat often leaves her restless and “phy",
+      "id": "295ed18348e8",
+      "title_en": "A baby rhino and baby zebra bonded after they lost their mothers to the same fate: 'They've been inseparable ever since'",
+      "caption_en": "Local rangers found Tytan and Notty before a pack of hyenas and lions could find them first.",
       "category": "good_news",
-      "source_name": "Mongabay",
-      "source_url": "https://news.mongabay.com/2026/10/bangladesh-garment-factory-workers-bear-the-brunt-of-rising-temperatures/",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/baby-rhino-zebra-sheldrick-wildlife-trust",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/407889ec158d.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/407889ec158d.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/295ed18348e8.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/295ed18348e8.mp4",
       "duration_seconds": 14,
       "topic_tags": [
         "good_news"
@@ -1932,27 +442,111 @@
       "needs_native_review": true,
       "footage_credits": [
         {
-          "short": "Mongabay"
+          "short": "Goodnet / Good Good Good"
         }
       ],
-      "added": "2026-10-24T01:46:25.201811+00:00",
+      "added": "2026-10-25T02:01:25.603559+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "1db8af930b1e",
-      "title_en": "A new report just busted another myth about heat pumps",
-      "caption_en": "Don't worry: There is there plenty of room on the grid for these electrical wonders — and they'll save ratepayers tons of cash.",
-      "category": "good_news",
-      "source_name": "Grist",
-      "source_url": "https://grist.org/solutions/a-new-report-just-busted-another-myth-about-heat-pumps/",
+      "id": "6b8c94245162",
+      "title_en": "Nanotyrannus named Jodi needs a new home (if you have $9M)",
+      "caption_en": "The controversial dinosaur species was officially described last year after 80 years of debate.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/science/nanotyrannus-auction-jodi/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/1db8af930b1e.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/1db8af930b1e.mp4",
-      "duration_seconds": 11,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6b8c94245162.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6b8c94245162.mp4",
+      "duration_seconds": 12,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T02:01:22.289177+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "2fafaf8248a7",
+      "title_en": "Top 10 tiny houses that transform to beat the squeeze",
+      "caption_en": "By definition, tiny houses pretty much always involve working around constraints, but some designers have found clever ways of making a small home feel like a larger one. From elevating beds to expanding sections to sliding walls and even entire roofs, these 10 homes transform to",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/tiny-houses/top-10-transforming-tiny-houses/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2fafaf8248a7.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/2fafaf8248a7.mp4",
+      "duration_seconds": 25,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T02:01:20.028683+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "e839b48a311c",
+      "title_en": "NASA's B777 Gets New Coat of Paint",
+      "caption_en": "NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/jsc2026e407303/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e839b48a311c.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e839b48a311c.mp4",
+      "duration_seconds": 12,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-25T02:01:14.903853+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "c0cda184fde5",
+      "title_en": "The UN just passed the first declaration on sea level rise, protecting island nations' sovereignty",
+      "caption_en": "The world, including the U.S., agreed that rising seas will not change national borders even as small islands disappear.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/un-declaration-sea-level-rise",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/c0cda184fde5.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/c0cda184fde5.mp4",
+      "duration_seconds": 15,
       "topic_tags": [
         "good_news"
       ],
@@ -1960,26 +554,250 @@
       "needs_native_review": true,
       "footage_credits": [
         {
-          "short": "Grist"
+          "short": "Goodnet / Good Good Good"
         }
       ],
-      "added": "2026-10-24T01:46:22.840801+00:00",
+      "added": "2026-10-25T02:01:12.823196+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "973d138bbf5e",
-      "title_en": "Good News This Week: October 10, 2026 - Swans, Games, & Carports",
-      "caption_en": "Your weekly roundup of the best good news worth celebrating...",
-      "category": "good_news",
-      "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-10-2026",
+      "id": "acc27e815154",
+      "title_en": "Powerful image of a grieving elephant wins Wildlife Photographer of the Year",
+      "caption_en": "'Emotionally it’s a gut punch, heartbreakingly poignant.'",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/environment/wildlife-photographer-of-the-year-2026-winners/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/973d138bbf5e.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/973d138bbf5e.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/acc27e815154.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/acc27e815154.mp4",
+      "duration_seconds": 9,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T02:01:08.877812+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "44f4caa81f97",
+      "title_en": "BYD's flagship e-SUV packs insane 9-minute flash charging",
+      "caption_en": "Chinese automotive giant BYD, now the world’s biggest electric vehicle (EV) maker, stunned this week’s Paris Motor Show with its grandest and most technologically impressive vehicle yet. Continue Reading Category: Automotive , Transport Tags: Paris Motor Show 2026 , BYD , EV Char",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/automotive/byd-atto-8-flash-charging-2026-paris-motor-show/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/44f4caa81f97.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/44f4caa81f97.mp4",
+      "duration_seconds": 28,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T02:01:06.906432+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "8b63e64af574",
+      "title_en": "'Lost' bird reappears in West Africa's forests after more than a decade",
+      "caption_en": "In June, a team of researchers working in Côte d’Ivoire’s Taï National Park spotted a Ghana cuckooshrike, a bird that hadn’t been seen in 13 years.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/ghana-cuckooshrike-bird-west-africa-good-news",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8b63e64af574.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/8b63e64af574.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T02:00:59.475143+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "4e1ccd63dd0f",
+      "title_en": "EcoFlow’s new TITAN batteries can keep your central air running through a blackout",
+      "caption_en": "EcoFlow’s three-model TITAN Series goes on sale today, with standalone units in the $2,000 to $3,000 range.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/gear/ecoflow-titan-5000-home-battery/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4e1ccd63dd0f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/4e1ccd63dd0f.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T02:00:54.700249+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "419d5e5e5b5e",
+      "title_en": "Who knew subtitles could sing opera?",
+      "caption_en": "Watching an opera (or a film) in its original language allows you to enjoy the story as its author and performers intended it. Of course, that only makes sense if you understand what is being said, which is why subtitles exist. Continue Reading Category: Technology Tags: Epson , ",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/technology/boston-opera-subtitles-projectors-epson-masary/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/419d5e5e5b5e.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/419d5e5e5b5e.mp4",
+      "duration_seconds": 25,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T02:00:51.271299+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "84cb0e896b66",
+      "title_en": "Dolly Parton fans celebrate the first '9 to 5' day by honoring her love of literacy",
+      "caption_en": "September 25 marked the first official Dolly Parton Day — a playful nod to the late country singer’s world-renowned hit.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/dolly-parton-9-to-5-day-how-celebrate",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/84cb0e896b66.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/84cb0e896b66.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T02:00:42.897823+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "91d4ebd32414",
+      "title_en": "Condors get the ‘zoomies’ too",
+      "caption_en": "Chert and Pumice have moves.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/environment/condor-bird-zoomies/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/91d4ebd32414.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/91d4ebd32414.mp4",
+      "duration_seconds": 5,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T02:00:39.034033+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "8052d428ef26",
+      "title_en": "Bioinspired robot airdrops into remote waters via morphing wing-sail",
+      "caption_en": "“Fall like a maple seed, sail like a boat” sounds like advice from legendary heavyweight boxer Muhammad Ali. In reality, it describes a new robotic platform scientists have created for fast, long-term deployment to monitor remote waters. Continue Reading Category: Robotics , Engi",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/robotics/albatross-robot-sail-seed-boat/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/8052d428ef26.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/8052d428ef26.mp4",
+      "duration_seconds": 29,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T02:00:35.163823+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "fd4b9e3e7548",
+      "title_en": "Good News This Week: September 26, 2026 - Bricks, Elephants, & Tip Lines",
+      "caption_en": "Your weekly roundup of the best good news worth celebrating...",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/good-news-this-week-september-26-2026",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/fd4b9e3e7548.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/fd4b9e3e7548.mp4",
       "duration_seconds": 11,
       "topic_tags": [
         "good_news"
@@ -1991,53 +809,23 @@
           "short": "Goodnet / Good Good Good"
         }
       ],
-      "added": "2026-10-24T01:46:20.203508+00:00",
+      "added": "2026-10-25T02:00:27.412919+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "9eb32b76dc3c",
-      "title_en": "Expanding access to essential services in South Omo: UNOPS and Italy inaugurate health and education facilities",
-      "caption_en": "New health center and school in South Omo expand access to care and education for 55,000 people, with climate-resilient, solar-powered infrastructure.",
-      "category": "good_news",
-      "source_name": "UN Ethiopia",
-      "source_url": "https://ethiopia.un.org/en/318345-expanding-access-essential-services-south-omo-unops-and-italy-inaugurate-health-and",
-      "country_codes": [
-        "ET"
-      ],
-      "scope": "ethiopia",
-      "region": "ethiopia",
-      "in_africa": true,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9eb32b76dc3c.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/9eb32b76dc3c.mp4",
-      "duration_seconds": 18,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "UN Ethiopia"
-        }
-      ],
-      "added": "2026-10-24T01:45:54.443484+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "f8c5d3c4e706",
-      "title_en": "The best cameras under $1,000, according to experts",
-      "caption_en": "You don't need to spend as much as you would on a used car to get a great camera.",
+      "id": "1d681fe648e5",
+      "title_en": "Humans were never built for tails. Here’s why.",
+      "caption_en": "And 'Science Friday' host Flora Lichtman on why she (mostly) still wants one.",
       "category": "inventions",
       "source_name": "Popular Science",
-      "source_url": "https://www.popsci.com/gear/best-cameras-under-1000/",
+      "source_url": "https://www.popsci.com/science/why-humans-dont-have-tails-podcast/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/f8c5d3c4e706.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/f8c5d3c4e706.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/1d681fe648e5.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/1d681fe648e5.mp4",
       "duration_seconds": 10,
       "topic_tags": [
         "inventions"
@@ -2049,24 +837,192 @@
           "short": "Popular Science"
         }
       ],
-      "added": "2026-10-24T01:45:48.679292+00:00",
+      "added": "2026-10-25T02:00:23.120557+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "b044eaf3d528",
-      "title_en": "The ocean’s most abundant “loner” microbe has a sticky second life",
-      "caption_en": "Researchers in the Chisholm lab find Prochlorococcus can switch between drifting alone and living in attached communities, a discovery that could reshape estimates of how much carbon the ocean moves to the deep sea.",
+      "id": "2da06d7c98ce",
+      "title_en": "Fairphone's repairable earbuds get a glow-up in every way",
+      "caption_en": "I'll sheepishly admit that I've sometimes looked forward to my gadgets conking out so I can replace them with shiny new upgrades. Don't be like me, folks. That simply adds to the world's growing piles of e-waste, and you usually end up discarding a device that only needs a small ",
       "category": "inventions",
-      "source_name": "MIT News",
-      "source_url": "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/wearables/fairphone-repairable-earbuds-fairbuds2/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b044eaf3d528.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/b044eaf3d528.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/2da06d7c98ce.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/2da06d7c98ce.mp4",
+      "duration_seconds": 24,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T02:00:20.265747+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "b4f0895ec570",
+      "title_en": "Extreme heat makes warm cities even hotter. Rooftop sprinklers could be the answer",
+      "caption_en": "Researchers have designed a model to simulate how widely distributed rooftop rainwater collection tanks combined with smart rooftop sprinkler systems could help moderate urban heat island effects.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/rooftop-rainwater-sprinklers-extreme-heat",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b4f0895ec570.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/b4f0895ec570.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T02:00:14.374218+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "3548a5102f31",
+      "title_en": "Your eyes dilate depending on your thoughts",
+      "caption_en": "Brain activity and verbalization can both affect our pupils.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/science/eyes-dilate-depending-on-thoughts/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/3548a5102f31.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/3548a5102f31.mp4",
+      "duration_seconds": 8,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T02:00:08.534785+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "6c39098050d0",
+      "title_en": "Musician's multitool destroys your excuses for not practicing guitar",
+      "caption_en": "As a once-starry-eyed musician nearing the age of 40, I totally fell for the promo video for this gadget, which describes how there's a lot of friction in simply getting down to practice or play guitar. The Neko promises to get you rockin' out without having to set stuff up, or w",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/consumer-tech/pocket-studio-guitar-record-practice-perform-neko/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6c39098050d0.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6c39098050d0.mp4",
+      "duration_seconds": 25,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T02:00:06.161247+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "3e171985fe4d",
+      "title_en": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
+      "caption_en": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Stati",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/gmt230_ehdc1-2/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/3e171985fe4d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/3e171985fe4d.mp4",
+      "duration_seconds": 24,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-25T02:00:02.219216+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "9bfbfdc092e9",
+      "title_en": "California is building two wildlife crossings for mountain lions in Joshua Tree. The first phase is now underway",
+      "caption_en": "The Mojave Desert Land Trust has gathered over $6 million in state grants to plan and design wildlife crossings in the area.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/joshua-tree-national-park-wildlife-crossing-mountain-lions",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9bfbfdc092e9.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/9bfbfdc092e9.mp4",
       "duration_seconds": 17,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T01:59:59.077803+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "6fb8d323a664",
+      "title_en": "New formulation helps RNA vaccines withstand high temperatures",
+      "caption_en": "MIT engineers have found a way to stabilize the lipid nanoparticles used to deliver RNA vaccines, which could allow the vaccines to be more widely distributed.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6fb8d323a664.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6fb8d323a664.mp4",
+      "duration_seconds": 16,
       "topic_tags": [
         "inventions"
       ],
@@ -2077,23 +1033,471 @@
           "short": "MIT News"
         }
       ],
-      "added": "2026-10-24T01:45:46.657492+00:00",
+      "added": "2026-10-25T01:59:32.564317+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "83b8086a7bea",
-      "title_en": "Tiny auto gadget beams vehicle tracking to your phone",
-      "caption_en": "If your teenager's starting to drive themself, this little car accessory could help keep them safe on the road – and give you some peace of mind. Continue Reading Category: Automotive , Transport Tags: Maintenance , Location , Gadgets , Road Safety , Tracking",
+      "id": "13a826c61bef",
+      "title_en": "Brain-like synapse chip computes at 'lightning speed', dissolves in mins",
+      "caption_en": "The remarkable human brain that conceived heart surgery and interplanetary travel runs on roughly the same amount of energy as a refrigerator bulb, thanks to its trillions of synapses. Scientists are now trying to replicate this ability with printable, flexible, biocompatible, an",
       "category": "inventions",
       "source_name": "New Atlas",
-      "source_url": "https://newatlas.com/automotive/miles-plug-obd2-vehicle-tracker/",
+      "source_url": "https://newatlas.com/science/quantum-computing/brain-inspired-synaptic-chip/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/83b8086a7bea.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/83b8086a7bea.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/13a826c61bef.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/13a826c61bef.mp4",
+      "duration_seconds": 16,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T01:59:28.873174+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "d4325ce34536",
+      "title_en": "Wildlife researchers attempted to trap mice with peanut butter and burnt coconut. They discovered a new species instead",
+      "caption_en": "In an attempt to bait wild mice, researchers met a different species new to science.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/sri-lanka-mice-traps-new-species",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d4325ce34536.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d4325ce34536.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T01:59:24.041881+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "bdc888fcf05d",
+      "title_en": "North America’s oldest human footprints tell a tale of ice age chaos",
+      "caption_en": "Pollen shows how present-day New Mexico completely transformed within only a few decades.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/science/white-sands-oldest-footprints-ice-age/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/bdc888fcf05d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/bdc888fcf05d.mp4",
+      "duration_seconds": 11,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T01:58:56.747749+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "ea5db736dcd4",
+      "title_en": "Pressurized experiments could help wind farms generate more power",
+      "caption_en": "A new way of simulating wind turbines in the field shows how tweaking turbine operation could unlock tens of thousands of dollars per turbine every year.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/pressurized-experiments-could-help-wind-farms-generate-more-power-0928",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ea5db736dcd4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/ea5db736dcd4.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-25T01:58:54.483548+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "51788f18a033",
+      "title_en": "Honda has an easier way to charge electric cars",
+      "caption_en": "Regardless of how far EV tech comes, juicing up a car may never be as effortless as pumping gas in an ICE car. Even BYD’s fastest chargers as of now take 9 minutes to take you up to 97%. While I’m sure we’re headed towards a future with even shorter charge times, Honda’s idea for",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/automotive/honda-wireless-electric-vehicle-charging/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/51788f18a033.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/51788f18a033.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T01:58:52.023889+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "34c0fda8215d",
+      "title_en": "Hank and John Green's 'Pizzamas' holiday turns mustaches and merch into maternal healthcare",
+      "caption_en": "The story of Pizza John and a community of Nerdfighters making the world a better place... in the weirdest way possible.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/pizzamas",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/34c0fda8215d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/34c0fda8215d.mp4",
+      "duration_seconds": 13,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T01:58:46.026092+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "79716a6c98e4",
+      "title_en": "30+ editor-approved practical gifts for 2026",
+      "caption_en": "Minimalists, utilitarians, and Type-As alike will love a gift they’ll actually use, so we've collected dozens they'll use for years to come.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/gear/practical-gift-guide-2026/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/79716a6c98e4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/79716a6c98e4.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T01:58:19.444722+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "30d3e0d4c51d",
+      "title_en": "Who we become when we talk to machines",
+      "caption_en": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/30d3e0d4c51d.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/30d3e0d4c51d.mp4",
+      "duration_seconds": 13,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-25T01:58:16.397035+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "900f895587f0",
+      "title_en": "NASA's Nancy Grace Roman Space Telescope Launches",
+      "caption_en": "A SpaceX Falcon Heavy rocket with NASA’s Nancy Grace Roman Telescope on board is seen transiting the sun during launch from Launch Complex 39A, Sunday, Aug. 30, 2026, at NASA’s Kennedy Space Center in Florida.",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/900f895587f0.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/900f895587f0.mp4",
+      "duration_seconds": 19,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-25T01:58:13.428879+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "c3ab47afd3b2",
+      "title_en": "'Socktober' celebrates 15 years of local kindness",
+      "caption_en": "Brad Montague founded Socktober in 2011 thanks to a nudge from a few middle school students. After learning that a concerning number of neighbors were living on the streets, these kids were eager to help in a tangible way.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/socktober",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/c3ab47afd3b2.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/c3ab47afd3b2.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T01:58:10.407834+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "1b3efc4cf274",
+      "title_en": "15 uplifting images from Dog Photography Awards 2026",
+      "caption_en": "From elegant poodles to playful corgis.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/environment/dog-photography-awards-2026/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/1b3efc4cf274.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/1b3efc4cf274.mp4",
+      "duration_seconds": 8,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T01:57:43.635299+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "9b1ffe0d3823",
+      "title_en": "Heat-storing gels regulate building temp to slash energy bills",
+      "caption_en": "An emerging class of heat-storing gels is out to reduce the energy our buildings burn on heating and cooling. Initial tests look promising, so researchers are lining up roofs, walls, windows and even hot-water and AC modules as the next stops. Continue Reading Category: Materials",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/materials/heat-storing-salogel-construction-energy/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9b1ffe0d3823.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/9b1ffe0d3823.mp4",
+      "duration_seconds": 29,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T01:57:31.000064+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "037a64919b39",
+      "title_en": "Artemis III RS-25 Engine Processing: #3 Lift",
+      "caption_en": "Technicians prepare to transfer the #2 RS-25 SLS (Space Launch System) rocket engine (front) to the work stand with the #3 engine (back) for integration with the Artemis III core stage rocket on Tuesday, Aug. 25, 2026, inside the Vehicle Assembly Building at NASA’s Kennedy Space ",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/amf-ksc-20260825-ph-rcr01_0045/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/037a64919b39.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/037a64919b39.mp4",
+      "duration_seconds": 27,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-25T01:57:24.920249+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "b5491282b719",
+      "title_en": "368 farmers gave up part of their land so elephants could cross the valley safely. Trail cameras show 529 already have",
+      "caption_en": "The nearly 9-mile corridor links Tanzania's savanna to the Udzungwa Mountains, where up to 1,000 elephants climb steep rainforest slopes.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/trail-cameras-wildlife-corridor-tanzania",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b5491282b719.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/b5491282b719.mp4",
+      "duration_seconds": 20,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T01:57:21.467833+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "65a78f6a8b8c",
+      "title_en": "Orphaned walrus calf rescued from nearby polar bears in Alaska",
+      "caption_en": "The calf was transported over 800 miles to safety—without becoming a snack.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/environment/orphaned-walrus-calf-alaska/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/65a78f6a8b8c.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/65a78f6a8b8c.mp4",
+      "duration_seconds": 10,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T01:56:53.776265+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "529d2e7d05c7",
+      "title_en": "Powered by muscle cells, a paper-thin robot swims through watery maze",
+      "caption_en": "MIT engineers’ new aquabot offers a way to design small, efficient “biohybrid” robots.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/529d2e7d05c7.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/529d2e7d05c7.mp4",
+      "duration_seconds": 12,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-25T01:56:49.799804+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "9a599d4b0c91",
+      "title_en": "Compact A-frame tiny house makes room for a few home comforts",
+      "caption_en": "Mini Domy has plenty of experience with A-frame houses. It provides a lot of space with its Brda, while its mini version is much more limited. This one comes somewhere in between, still keeping things very compact but adding some home comforts too. Continue Reading Category: Tiny",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/tiny-houses/mini-brda-bay-window/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/9a599d4b0c91.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/9a599d4b0c91.mp4",
       "duration_seconds": 21,
       "topic_tags": [
         "inventions"
@@ -2105,24 +1509,24 @@
           "short": "New Atlas"
         }
       ],
-      "added": "2026-10-24T01:45:44.118126+00:00",
+      "added": "2026-10-25T01:56:47.593179+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "97dd2a41cad6",
-      "title_en": "BepiColombo’s Mercury arrival begins - full replay",
-      "caption_en": "Video: 02:31:10 Watch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury. After travelling through the inner Solar System together for eight years, BepiColombo's Mercury Trans",
+      "id": "f9221d65b756",
+      "title_en": "August Lunar Eclipse Rises Over Louisiana",
+      "caption_en": "A lunar eclipse is visible over southern Louisiana. The lunar eclipse was visible throughout much of North and South America and part of Europe and Africa between Aug. 27-28. The Full Moon slipped through Earth’s shadow on Aug. 27, continuing into Aug. 28 for some parts of the wo",
       "category": "inventions",
-      "source_name": "ESA Space Science",
-      "source_url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/amf-maf_20260827_lunareclipse_01/",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/97dd2a41cad6.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/97dd2a41cad6.mp4",
-      "duration_seconds": 31,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/f9221d65b756.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/f9221d65b756.mp4",
+      "duration_seconds": 26,
       "topic_tags": [
         "inventions"
       ],
@@ -2130,26 +1534,168 @@
       "needs_native_review": true,
       "footage_credits": [
         {
-          "short": "ESA Space Science"
+          "short": "NASA Image of the Day"
         }
       ],
-      "added": "2026-10-24T01:45:36.141098+00:00",
+      "added": "2026-10-25T01:56:42.490288+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "4cf8b354f299",
-      "title_en": "Crew-12 Returns to Earth",
-      "caption_en": "The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles, Calif., Thursda",
-      "category": "inventions",
-      "source_name": "NASA Image of the Day",
-      "source_url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/",
+      "id": "d7fa3d6d49f3",
+      "title_en": "This herd of rescue elephants 'adopted' a new little brother: 'He will never be alone again'",
+      "caption_en": "Daba has earned a reputation as a shy — but cheeky — elephant who has adapted quickly to his found family.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/baby-elephant-daba-rescued-orphaned",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4cf8b354f299.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/4cf8b354f299.mp4",
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/d7fa3d6d49f3.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/d7fa3d6d49f3.mp4",
+      "duration_seconds": 13,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T01:56:39.456945+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "07503eb81d34",
+      "title_en": "12th Edition of Tana Forum Opens in Bahir Dar",
+      "caption_en": "Addis Ababa, October 24, 2026 (FMC) — The 12th Tana High-Level Forum on Security in Africa has officially opened in Bahir Dar, bringing African leaders and stakeholders together to deliberate on the continent’s peace and security, economic sovereignty and evolving role in a chang",
+      "category": "good_news",
+      "source_name": "Fana Broadcasting (English)",
+      "source_url": "https://www.fanamc.com/english/12th-edition-of-tana-forum-opens-in-bahir-dar/?utm_source=rss&utm_medium=rss&utm_campaign=12th-edition-of-tana-forum-opens-in-bahir-dar",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/07503eb81d34.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/07503eb81d34.mp4",
+      "duration_seconds": 24,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Fana Broadcasting (English)"
+        }
+      ],
+      "added": "2026-10-25T01:56:34.889818+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "e3f7d0735c56",
+      "title_en": "WhatsApp like a pro with these 7 expert tricks and hidden features",
+      "caption_en": "There's lots to dig into in this hugely popular messaging app.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/diy/how-to-get-more-out-of-whatsapp-change-how-you-message-tech-tips/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e3f7d0735c56.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e3f7d0735c56.mp4",
+      "duration_seconds": 9,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T01:56:07.946773+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "04ad32da7d5f",
+      "title_en": "Governor Healey and President Kornbluth launch MIT Future Fest",
+      "caption_en": "The new, five-day MIT event reaches takeoff with a forum about discovery and innovation.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/governor-healey-and-president-kornbluth-launch-mit-future-fest-1001",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/04ad32da7d5f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/04ad32da7d5f.mp4",
+      "duration_seconds": 11,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-25T01:56:05.510522+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "6c4cbf9b84e3",
+      "title_en": "Mushroom peptide makes salt taste 70% saltier – and it's good for you",
+      "caption_en": "Food is one of the true pleasures of life, and often part of our enjoyment comes from flavors enhanced by salt. But too much of a good thing can be bad. Scientists have uncovered a promising workaround, using naturally derived peptides that make salt taste saltier, greatly reduci",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/diet-nutrition/mushroom-peptides-no-extra-salt/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6c4cbf9b84e3.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6c4cbf9b84e3.mp4",
+      "duration_seconds": 15,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T01:56:03.027074+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "0a18376084f9",
+      "title_en": "Igniting Roman's Journey",
+      "caption_en": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Ke",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/amf-nhq202608300037/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0a18376084f9.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/0a18376084f9.mp4",
       "duration_seconds": 25,
       "topic_tags": [
         "inventions"
@@ -2161,80 +1707,24 @@
           "short": "NASA Image of the Day"
         }
       ],
-      "added": "2026-10-24T01:45:31.245804+00:00",
+      "added": "2026-10-25T01:56:00.169872+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     },
     {
-      "id": "fc47e4231438",
-      "title_en": "Seabird guano and native trees keep islands above rising seas: Study",
-      "caption_en": "Low-lying tropical atoll islands appear remarkably vulnerable to climate change. But when shrouded with native forests and with abundant seabird populations, these islands may keep up with rising sea levels, a new study finds. Seabirds act as biological pumps, moving nutrients fr",
-      "category": "good_news",
-      "source_name": "Mongabay",
-      "source_url": "https://news.mongabay.com/2026/10/seabird-guano-and-native-trees-keep-islands-above-rising-seas-study/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/fc47e4231438.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/fc47e4231438.mp4",
-      "duration_seconds": 20,
-      "topic_tags": [
-        "good_news"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "Mongabay"
-        }
-      ],
-      "added": "2026-10-24T01:45:27.805039+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "e6e32e1c0407",
-      "title_en": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "caption_en": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astron",
-      "category": "inventions",
-      "source_name": "NASA",
-      "source_url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-      "country_codes": [],
-      "scope": "world",
-      "region": "world",
-      "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e6e32e1c0407.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/e6e32e1c0407.mp4",
-      "duration_seconds": 30,
-      "topic_tags": [
-        "inventions"
-      ],
-      "has_burned_in_overlay": false,
-      "needs_native_review": true,
-      "footage_credits": [
-        {
-          "short": "NASA"
-        }
-      ],
-      "added": "2026-10-24T01:45:04.044667+00:00",
-      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
-      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
-    },
-    {
-      "id": "6fb9762a185e",
-      "title_en": "Meet the first bear to ever receive a prosthetic paw: 'We do whatever it takes to help'",
-      "caption_en": "Baloo from “The Jungle Book” was inspired by the sloth bears of India.",
+      "id": "6d08755977b8",
+      "title_en": "New California law targets expensive 'ghost tickets' to concerts and sporting events",
+      "caption_en": "A new California law prohibits people from selling concert and sports tickets that they don’t own.",
       "category": "good_news",
       "source_name": "Goodnet / Good Good Good",
-      "source_url": "https://www.goodgoodgood.co/articles/endangered-species-sloth-bear-prosthetic-limb",
+      "source_url": "https://www.goodgoodgood.co/articles/california-law-ghost-tickets",
       "country_codes": [],
       "scope": "world",
       "region": "world",
       "in_africa": false,
-      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6fb9762a185e.mp4",
-      "hls_url": "https://johncross2018.github.io/mema-content/clips/6fb9762a185e.mp4",
-      "duration_seconds": 10,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6d08755977b8.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6d08755977b8.mp4",
+      "duration_seconds": 12,
       "topic_tags": [
         "good_news"
       ],
@@ -2245,7 +1735,517 @@
           "short": "Goodnet / Good Good Good"
         }
       ],
-      "added": "2026-10-24T01:45:00.727668+00:00",
+      "added": "2026-10-25T01:55:56.839881+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "cb8d64b91030",
+      "title_en": "Reconquista",
+      "caption_en": "On this day in 1147: Reconquista: Forces under Afonso I of Portugal captured Lisbon from the Moors after a four-month siege  in one of the few Christian victories during the Second Crusade.",
+      "category": "facts",
+      "source_name": "Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Reconquista",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/cb8d64b91030.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/cb8d64b91030.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "facts"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Wikipedia"
+        }
+      ],
+      "added": "2026-10-25T01:55:51.365432+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "62646d139087",
+      "title_en": "Ethiopian Deputy PM Welcomes Burundi’s President Évariste Ndayishimiye to Ethiopia, Emphasizes Africa’s Collective Responsibility for Peace",
+      "caption_en": "Addis Ababa, October 24, 2026 (FMC) — Ethiopia’s Deputy Prime Minister Temesgen Truneh has welcomed Burundi’s President and African Union (AU) Chairperson Évariste Ndayishimiye to Ethiopia for the 12th Tana High-Level Forum on Security in Africa. In his message, Temesgen placed t",
+      "category": "good_news",
+      "source_name": "Fana Broadcasting (English)",
+      "source_url": "https://www.fanamc.com/english/ethiopian-deputy-pm-welcomes-burundis-president-evariste-ndayishimiye-to-ethiopia-emphasizes-africas-collective-responsibility-for-peace/?utm_source=rss&utm_medium=rss&utm_campaign=ethiopian-deputy-pm-welcomes-burundis-president-evariste-ndayishimiye-to-ethiopia-emphasizes-africas-collective-responsibility-for-peace",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/62646d139087.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/62646d139087.mp4",
+      "duration_seconds": 29,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Fana Broadcasting (English)"
+        }
+      ],
+      "added": "2026-10-25T01:55:48.147940+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "192652363eda",
+      "title_en": "Real-life vampire birds hunt and drink blood in remote Ecuador",
+      "caption_en": "Move over, Hitchcock.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/science/vampire-bird-finch-galapagos/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/192652363eda.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/192652363eda.mp4",
+      "duration_seconds": 7,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T01:55:19.947170+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "e7dffac366c4",
+      "title_en": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "caption_en": "Wristband device from Encora Therapeutics started as a project in 2.009, MIT’s iconic product-design class.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e7dffac366c4.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e7dffac366c4.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-25T01:55:17.841665+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "e0cf8f558768",
+      "title_en": "Sun-activated insert sucks the stink out of hot garbage",
+      "caption_en": "If you live in a colder part of the world, the smell coming from outdoor garbage bins might not seem like that big of a deal. But in hot, humid countries, odors from municipal waste can be a serious problem. Sunlight and heat make garbage left outside decompose faster and spread ",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/materials/sunlight-activated-lid-insert-garbage-odor/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/e0cf8f558768.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/e0cf8f558768.mp4",
+      "duration_seconds": 23,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T01:55:15.525201+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "30c42c6803fd",
+      "title_en": "Lunar Occultation of Venus",
+      "caption_en": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it ",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/amf-nhq202606170001/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/30c42c6803fd.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/30c42c6803fd.mp4",
+      "duration_seconds": 22,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-25T01:55:11.354778+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "a4fc7779c0e1",
+      "title_en": "Decades ago, this frog species vanished from Yosemite. Now, 10,000 have been released back into the wild",
+      "caption_en": "After 10 years of coordinated conservation work, the amphibian is back to its natural habitat.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/yosemite-red-legged-frog-conservation-release",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/a4fc7779c0e1.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/a4fc7779c0e1.mp4",
+      "duration_seconds": 15,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T01:55:07.315534+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "b8c141a13b74",
+      "title_en": "Dirk Hartog",
+      "caption_en": "On this day in 1616: Dutch explorer Dirk Hartog left a plate on an island in Shark Bay, the oldest-known artefact of European exploration in Australia still in existence.",
+      "category": "facts",
+      "source_name": "Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/Dirk_Hartog",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/b8c141a13b74.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/b8c141a13b74.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "facts"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Wikipedia"
+        }
+      ],
+      "added": "2026-10-25T01:55:00.841746+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "542744892fe3",
+      "title_en": "PM Abiy Ahmed Urges Africa to Shape Global Order Through Economic Sovereignty, Homegrown Solutions and Collective Resilience",
+      "caption_en": "Addis Ababa, October 24, 2026 (FMC) — Ethiopian Prime Minister Abiy Ahmed has called on African countries to move beyond adapting to a changing global order and take a more active role in shaping it, emphasizing economic sovereignty, homegrown solutions and deeper continental coo",
+      "category": "good_news",
+      "source_name": "Fana Broadcasting (English)",
+      "source_url": "https://www.fanamc.com/english/pm-abiy-ahmed-urges-africa-to-shape-global-order-through-economic-sovereignty-homegrown-solutions-and-collective-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=pm-abiy-ahmed-urges-africa-to-shape-global-order-through-economic-sovereignty-homegrown-solutions-and-collective-resilience",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/542744892fe3.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/542744892fe3.mp4",
+      "duration_seconds": 32,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Fana Broadcasting (English)"
+        }
+      ],
+      "added": "2026-10-25T01:54:57.957614+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "494083a1c905",
+      "title_en": "New water lily can be seen from space",
+      "caption_en": "A chance Instagram post led to a big discovery in Colombia.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/environment/new-water-lily-can-be-seen-from-space/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/494083a1c905.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/494083a1c905.mp4",
+      "duration_seconds": 8,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T01:54:29.586041+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "59d88ee0fd4c",
+      "title_en": "3 Questions: A new resource to empower young entrepreneurs",
+      "caption_en": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship.",
+      "category": "inventions",
+      "source_name": "MIT News",
+      "source_url": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/59d88ee0fd4c.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/59d88ee0fd4c.mp4",
+      "duration_seconds": 15,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "MIT News"
+        }
+      ],
+      "added": "2026-10-25T01:54:25.621489+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "6d358273351f",
+      "title_en": "What's inside Sony's $5,900 Walkman for obsessive audiophiles?",
+      "caption_en": "As Sony's lineup of portable audio devices has evolved over the years, it's veered towards more discerning listeners. It's just dropped its most expensive Walkman yet: the US$5,900 NW-WM1ZM3. Continue Reading Category: Consumer Tech , Technology Tags: Audio , Portable Audio , Son",
+      "category": "inventions",
+      "source_name": "New Atlas",
+      "source_url": "https://newatlas.com/consumer-tech/sony-nwwm1zm3-walkman-hi-res-audio-player/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/6d358273351f.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/6d358273351f.mp4",
+      "duration_seconds": 32,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "New Atlas"
+        }
+      ],
+      "added": "2026-10-25T01:54:23.443765+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "ceba6e5b39be",
+      "title_en": "Superbubble in the Large Magellanic Cloud",
+      "caption_en": "N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope imag",
+      "category": "inventions",
+      "source_name": "NASA Image of the Day",
+      "source_url": "https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ceba6e5b39be.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/ceba6e5b39be.mp4",
+      "duration_seconds": 24,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "NASA Image of the Day"
+        }
+      ],
+      "added": "2026-10-25T01:54:18.647790+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "ed322f083f46",
+      "title_en": "A male elephant 'adopted' a calf and kept her alive long enough for rangers to rescue her",
+      "caption_en": "A 7-month-old elephant was found trailing behind a bull for protection, but he couldn’t provide her with the milk she needed to survive.",
+      "category": "good_news",
+      "source_name": "Goodnet / Good Good Good",
+      "source_url": "https://www.goodgoodgood.co/articles/baby-elephant-talek-rescue-kenya",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/ed322f083f46.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/ed322f083f46.mp4",
+      "duration_seconds": 14,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Goodnet / Good Good Good"
+        }
+      ],
+      "added": "2026-10-25T01:54:14.876849+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "28a09cacefb5",
+      "title_en": "George III",
+      "caption_en": "On this day in 1760: George III became King of Great Britain and Ireland, succeeding his grandfather George II.",
+      "category": "facts",
+      "source_name": "Wikipedia",
+      "source_url": "https://en.wikipedia.org/wiki/George_III",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/28a09cacefb5.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/28a09cacefb5.mp4",
+      "duration_seconds": 11,
+      "topic_tags": [
+        "facts"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Wikipedia"
+        }
+      ],
+      "added": "2026-10-25T01:54:08.968843+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "0ef37ca46356",
+      "title_en": "PM Abiy Ahmed Connects Africa’s Lasting Peace to Accountable Leadership, Credible Institutions and Tangible Results",
+      "caption_en": "Addis Ababa, October 24, 2026 (FMC) — Ethiopian Prime Minister Abiy Ahmed has placed accountability, institutional effectiveness and tangible economic and social progress at the center of Africa’s pursuit of lasting peace, emphasizing that political agreements can deliver stabili",
+      "category": "good_news",
+      "source_name": "Fana Broadcasting (English)",
+      "source_url": "https://www.fanamc.com/english/pm-abiy-ahmed-connects-africas-lasting-peace-to-accountable-leadership-credible-institutions-and-tangible-results/?utm_source=rss&utm_medium=rss&utm_campaign=pm-abiy-ahmed-connects-africas-lasting-peace-to-accountable-leadership-credible-institutions-and-tangible-results",
+      "country_codes": [
+        "ET"
+      ],
+      "scope": "ethiopia",
+      "region": "ethiopia",
+      "in_africa": true,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/0ef37ca46356.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/0ef37ca46356.mp4",
+      "duration_seconds": 34,
+      "topic_tags": [
+        "good_news"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Fana Broadcasting (English)"
+        }
+      ],
+      "added": "2026-10-25T01:54:06.622619+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "4551667e5c68",
+      "title_en": "NASA's Perseverance Just Broke The Off-World Driving Record, While Mostly Steering Itself",
+      "caption_en": "And it's still going. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+      "category": "inventions",
+      "source_name": "ScienceAlert",
+      "source_url": "https://www.sciencealert.com/nasas-perseverance-just-drove-farther-than-any-vehicle-on-another-world-mostly-steering-itself",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/4551667e5c68.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/4551667e5c68.mp4",
+      "duration_seconds": 18,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "ScienceAlert"
+        }
+      ],
+      "added": "2026-10-25T01:53:59.863053+00:00",
+      "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
+      "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
+    },
+    {
+      "id": "896ec1140b5c",
+      "title_en": "Wash your hands. There’s probably poop on them.",
+      "caption_en": "They may look clean, but not from a microbial perspective.",
+      "category": "inventions",
+      "source_name": "Popular Science",
+      "source_url": "https://www.popsci.com/health/why-you-should-wash-your-hands/",
+      "country_codes": [],
+      "scope": "world",
+      "region": "world",
+      "in_africa": false,
+      "mp4_url": "https://johncross2018.github.io/mema-content/clips/896ec1140b5c.mp4",
+      "hls_url": "https://johncross2018.github.io/mema-content/clips/896ec1140b5c.mp4",
+      "duration_seconds": 9,
+      "topic_tags": [
+        "inventions"
+      ],
+      "has_burned_in_overlay": false,
+      "needs_native_review": true,
+      "footage_credits": [
+        {
+          "short": "Popular Science"
+        }
+      ],
+      "added": "2026-10-25T01:53:34.843072+00:00",
       "title_am": "አማርኛ ረቂቅ — የአፍ መፍቻ ግምገማ ያስፈልጋል",
       "caption_am": "አማርኛ ረቂቅ። ይህ ትርጉም የአፍ መፍቻ ግምገማ ይፈልጋል።"
     }
